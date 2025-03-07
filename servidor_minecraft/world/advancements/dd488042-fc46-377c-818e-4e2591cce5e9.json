@@ -145,6 +145,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 21:28:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-03-06 16:48:21 +0000"
@@ -178,6 +184,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-06 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/create_magic_scroll": {
+    "criteria": {
+      "has_ingredient": "2025-03-07 21:27:27 +0000"
     },
     "done": true
   },
@@ -384,6 +396,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-06 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/use_feather_fall": {
+    "criteria": {
+      "coded_trigger": "2025-03-07 21:27:38 +0000"
     },
     "done": true
   }
