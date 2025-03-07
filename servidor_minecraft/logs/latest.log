@@ -3765,3 +3765,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 [22:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Flint and Steel] * 1 to Levi]
 [22:02:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Demon Altar Candle] * 1 to Levi]
 [22:02:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Demon Ingot] * 1 to Levi]
+[22:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Block of Demon Metal] * 1 to Levi]
+[22:03:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Demon Ingot] * 1 to Levi]
+[22:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Extra Utilities 2 Manual] * 1 to Levi]
+[22:05:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Extra Utilities 2 Manual] * 1 to Levi]
+[22:08:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Set own game mode to Creative Mode]
+[22:08:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Opped Minu]
+[22:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ fell out of the world
+[22:09:38] [Server thread/INFO] [tombstone]: The last known grave of Minu_ is at location [name:Last Grave, x:-226, y:71, z:269] in the dimension 0
+[22:09:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Killed Minu_]
+[22:09:38] [Server thread/INFO] [tombstone]: Minu_ has successfully been saved
+[22:09:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Opped Minu_]
+[22:10:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Given [Trash Can] * 1 to Minu_]
+[22:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Survival Mode]
+[22:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Creative Mode]
