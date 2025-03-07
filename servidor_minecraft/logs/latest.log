@@ -3780,3 +3780,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 [22:10:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Survival Mode]
 [22:10:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Creative Mode]
 [22:21:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ has made the advancement [The Time Masheen]
+[22:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ has made the advancement [Sexy Time]
+[22:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Set Minu_'s game mode to Survival Mode]
+[22:27:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Minu_ lost connection: Disconnected
+[22:27:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ left the game
+[22:28:56] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[22:28:56] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 53 mods : mowziesmobs@1.5.8,ancientwarfarestructure@1.12.2-2.7.0.1038,gokistats@1.2.10,mixinbooter@10.5,netherportalfix@5.3.17,craftingstation@@VERSION@,mca@6.1.0,jei@4.16.1.1013,serverredirect@1.4.5,reap@1.5.3,mcp@9.42,ancientwarfare@1.12.2-2.7.0.1038,clumps@3.1.2,journeymap@1.12.2-5.7.1p3,comforts@1.4.1.3,placebo@1.6.0,travelersbackpack@1.0.35,ancientwarfareautomation@1.12.2-2.7.0.1038,randompatches@1.12.2-1.22.1.10,llibrary@1.7.20,morpheus@1.12.2-3.5.106,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,walljump@1.3.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,skinlayers3d@1.2.0,forge@14.23.5.2860,twilightforest@3.11.1021,chococraft@3.1.415.0,minecraft@1.12.2,jade@0.1.0,vintagefix@0.5.4,ancientwarfarenpc@1.12.2-2.7.0.1038,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,extrautils2@1.0,mocreatures@12.0.5,ancientwarfarevehicle@1.12.2-2.7.0.1038,patchouli@1.0-23.6,elevatorid@1.3.12,inventoryhud@3.4.4,FML@8.0.99.99,farsight@1.6,tombstone@4.7.5,fastfurnace@1.3.1,appleskin@1.0.14,cfm@6.3.0,byg@1.7.1,codechickenlib@3.2.3.358,geckolib3@3.0.30
+[22:28:56] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[22:28:56] [Netty Epoll Server IO #0/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:28:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:28:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Minu_[/127.129.239.226:51465] logged in with entity id 74933 at (-211.82121097141848, 60.59836221282475, 326.08591765297456)
+[22:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ joined the game
+[22:28:57] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Minu_'/74933, l='world', x=-211.82, y=60.60, z=326.09] connected. Sending ping
+[22:29:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Teleported Minu_ to Levi]
+[22:29:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ was slain by Barako, the Sun Chief
+[22:29:21] [Server thread/INFO] [tombstone]: The last known grave of Minu_ is at location [name:Last Grave, x:-210, y:63, z:287] in the dimension 0
+[22:29:21] [Server thread/INFO] [tombstone]: Minu_ has successfully been saved
+[22:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ has reached the goal [Chain Death]
+[22:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ was slain by Barakoa
+[22:30:12] [Server thread/INFO] [tombstone]: The last known grave of Minu_ is at location [name:Last Grave, x:-207, y:63, z:319] in the dimension 0
+[22:30:12] [Server thread/INFO] [tombstone]: Minu_ has successfully been saved
+[22:30:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Minu_ lost connection: Disconnected
+[22:30:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ left the game
+[22:30:34] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:30:34] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 53 mods : mowziesmobs@1.5.8,ancientwarfarestructure@1.12.2-2.7.0.1038,gokistats@1.2.10,mixinbooter@10.5,netherportalfix@5.3.17,craftingstation@@VERSION@,mca@6.1.0,jei@4.16.1.1013,serverredirect@1.4.5,reap@1.5.3,mcp@9.42,ancientwarfare@1.12.2-2.7.0.1038,clumps@3.1.2,journeymap@1.12.2-5.7.1p3,comforts@1.4.1.3,placebo@1.6.0,travelersbackpack@1.0.35,ancientwarfareautomation@1.12.2-2.7.0.1038,randompatches@1.12.2-1.22.1.10,llibrary@1.7.20,morpheus@1.12.2-3.5.106,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,walljump@1.3.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,skinlayers3d@1.2.0,forge@14.23.5.2860,twilightforest@3.11.1021,chococraft@3.1.415.0,minecraft@1.12.2,jade@0.1.0,vintagefix@0.5.4,ancientwarfarenpc@1.12.2-2.7.0.1038,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,extrautils2@1.0,mocreatures@12.0.5,ancientwarfarevehicle@1.12.2-2.7.0.1038,patchouli@1.0-23.6,elevatorid@1.3.12,inventoryhud@3.4.4,FML@8.0.99.99,farsight@1.6,tombstone@4.7.5,fastfurnace@1.3.1,appleskin@1.0.14,cfm@6.3.0,byg@1.7.1,codechickenlib@3.2.3.358,geckolib3@3.0.30
+[22:30:34] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[22:30:34] [Netty Epoll Server IO #2/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[22:30:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:30:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Minu_[/127.129.239.226:50193] logged in with entity id 79514 at (-223.5, 77.0, 253.5)
+[22:30:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ joined the game
+[22:30:36] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Minu_'/79514, l='world', x=-223.50, y=77.00, z=253.50] connected. Sending ping
+[22:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ has made the advancement [Knowledge of Death]
+[22:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ has reached the goal [Here They Come]
+[22:31:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Survival Mode]
+[22:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Creative Mode]
+[22:31:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Teleported Minu_ to Levi]
+[22:31:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Set Minu_'s game mode to Survival Mode]
+[22:31:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Creative Mode]
+[22:32:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Set Minu_'s game mode to Survival Mode]
+[22:32:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Set Minu_'s game mode to Adventure Mode]
+[22:32:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ drowned whilst trying to escape Naga
+[22:32:08] [Server thread/INFO] [tombstone]: The last known grave of Minu_ is at location [name:Last Grave, x:-132, y:51, z:229] in the dimension 0
+[22:32:08] [Server thread/INFO] [tombstone]: Minu_ has successfully been saved
+[22:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Minu_: Set own game mode to Creative Mode]
+[22:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Set Minu_'s game mode to Creative Mode]
+[22:32:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Minu_ lost connection: Disconnected
+[22:32:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ left the game
+[22:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[22:32:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:32:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:32:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[22:32:48] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[22:32:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/ExtraUtils2_Quarry_Dim
+[22:32:49] [Server thread/INFO] [FML]: Unloading dimension 0
+[22:32:49] [Server thread/INFO] [FML]: Unloading dimension -9999
+[22:32:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[22:32:49] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[22:32:49] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Levi lost connection: Server closed
+[22:32:49] [Server Shutdown Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi left the game
+[22:32:49] [Server Shutdown Thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.fml.common.gameevent.PlayerEvent$PlayerLoggedOutEvent@4dfed9d:
+java.lang.RuntimeException: Cannot Hotload Dim: Overworld is not Loaded!
+	at net.minecraftforge.common.DimensionManager.initDimension(DimensionManager.java:248) ~[DimensionManager.class:14.23.5.2860]
+	at net.minecraft.server.MinecraftServer.func_71218_a(MinecraftServer.java:832) ~[MinecraftServer.class:?]
+	at net.quetzi.morpheus.helpers.MorpheusEventHandler.loggedOutEvent(MorpheusEventHandler.java:38) ~[MorpheusEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_465_MorpheusEventHandler_loggedOutEvent_PlayerLoggedOutEvent.invoke(.dynamic) ~[?:?]
+	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
+	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
+	at net.minecraft.server.management.PlayerList.func_72367_e(PlayerList.java:388) [pl.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_147231_a(NetHandlerPlayServer.java:853) [pa.class:?]
+	at net.minecraft.network.NetworkManager.func_179293_l(NetworkManager.java:453) [gw.class:?]
+	at net.minecraft.network.NetHandlerPlayServer$2.run(NetHandlerPlayServer.java:291) [pa$2.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_442]
+	at net.minecraft.server.MinecraftServer.func_175586_a(MinecraftServer.java:1383) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer.func_152344_a(MinecraftServer.java:1395) [MinecraftServer.class:?]
+	at net.minecraft.network.NetHandlerPlayServer.func_194028_b(NetHandlerPlayServer.java:287) [pa.class:?]
+	at net.minecraft.server.management.PlayerList.func_72392_r(PlayerList.java:1084) [pl.class:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:431) [MinecraftServer.class:?]
+	at net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579) [MinecraftServer$4.class:?]
