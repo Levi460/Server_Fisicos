@@ -97,6 +97,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:tutorial/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2025-03-06 16:52:00 +0000"
@@ -118,6 +130,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-03-07 21:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
     },
     "done": true
   },
@@ -181,6 +199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-07 21:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-03-06 17:22:59 +0000"
@@ -199,6 +223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-03-07 21:36:10 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_foliaath": {
     "criteria": {
       "foliaath": "2025-03-06 17:13:11 +0000"
@@ -208,6 +238,18 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-07 21:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-03-07 21:36:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-07 21:35:54 +0000"
     },
     "done": true
   },
@@ -223,9 +265,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-03-07 21:07:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
     },
     "done": true
   },
@@ -253,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-03-06 17:28:20 +0000"
@@ -265,6 +325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-03-06 17:22:59 +0000"
@@ -274,6 +340,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-03-07 21:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_button": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
     },
     "done": true
   },
@@ -298,6 +370,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2025-03-06 16:48:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-07 21:35:54 +0000"
     },
     "done": true
   },
@@ -351,6 +429,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-03-07 21:36:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-06 17:22:59 +0000"
@@ -375,6 +459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-03-06 17:27:45 +0000"
@@ -387,6 +477,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-03-06 17:40:39 +0000"
@@ -396,6 +492,18 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-06 17:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-07 21:35:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-07 21:35:54 +0000"
     },
     "done": true
   },

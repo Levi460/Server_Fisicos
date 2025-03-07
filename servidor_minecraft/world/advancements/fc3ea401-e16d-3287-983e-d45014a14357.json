@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-07 21:36:06 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/root": {
     "criteria": {
       "tick": "2025-03-07 21:10:41 +0000"
@@ -41,9 +47,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-03-07 21:36:06 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-07 21:36:06 +0000"
     },
     "done": true
   },
@@ -58,6 +76,12 @@
       "enchanted_golden_apple": "2025-03-07 21:14:52 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-03-07 21:36:06 +0000"
+    },
+    "done": true
   },
   "mowziesmobs:root": {
     "criteria": {

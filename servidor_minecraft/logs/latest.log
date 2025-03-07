@@ -3653,3 +3653,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 [21:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Book of Repairing] * 1 to Levi]
 [21:29:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Dust of Vanishing] * 64 to Levi]
 [21:30:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Firework Rocket] * 64 to Levi]
+[21:35:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Birch Wood Planks] * 64 to Levi]
+[21:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Light Blue Wool] * 64 to Levi]
+[21:36:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Shears] * 1 to Levi]
+[21:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Red Wool] * 64 to Levi]
+[21:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Levi: Given [Shears] * 1 to Levi]
