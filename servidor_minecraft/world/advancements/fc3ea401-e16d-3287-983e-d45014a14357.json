@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "fossil:fossil/ancient_clock": {
+    "criteria": {
+      "killed": "2025-03-07 22:21:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-03-07 21:48:19 +0000"
