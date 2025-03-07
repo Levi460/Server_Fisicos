@@ -1,0 +1,38 @@
+{
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "fossil:fossil/root": {
+    "criteria": {
+      "tick": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2025-03-07 21:10:41 +0000"
+    },
+    "done": true
+  }
+}
