@@ -3481,3 +3481,67 @@ com.google.gson.JsonSyntaxException: Unknown item 'byg:parrotegg'
 [03:18:49] [Server thread/INFO] [tombstone]: The last known grave of Levi is at location [name:Last Grave, x:-248, y:64, z:247] in the dimension 0
 [03:18:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi has made the advancement [Your First Grave]
 [03:18:49] [Server thread/INFO] [tombstone]: Levi has successfully been saved
+[03:19:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Levi lost connection: Disconnected
+[03:19:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi left the game
+[03:19:47] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[03:19:48] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 55 mods : mowziesmobs@1.5.8,ancientwarfarestructure@1.12.2-2.7.0.1038,gokistats@1.2.10,mixinbooter@10.5,netherportalfix@5.3.17,craftingstation@@VERSION@,mca@6.1.0,jei@4.16.1.1013,serverredirect@1.4.5,reap@1.5.3,mcp@9.42,ancientwarfare@1.12.2-2.7.0.1038,clumps@3.1.2,journeymap@1.12.2-5.7.1p3,comforts@1.4.1.3,placebo@1.6.0,travelersbackpack@1.0.35,ancientwarfareautomation@1.12.2-2.7.0.1038,xreliquary@1.12.2-1.3.4.796,randompatches@1.12.2-1.22.1.10,llibrary@1.7.20,morpheus@1.12.2-3.5.106,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,walljump@1.3.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,skinlayers3d@1.2.0,forge@14.23.5.2860,twilightforest@3.11.1021,chococraft@3.1.415.0,minecraft@1.12.2,jade@0.1.0,vintagefix@0.5.4,ancientwarfarenpc@1.12.2-2.7.0.1038,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,extrautils2@1.0,mocreatures@12.0.5,ancientwarfarevehicle@1.12.2-2.7.0.1038,patchouli@1.0-23.6,elevatorid@1.3.12,inventoryhud@3.4.4,FML@8.0.99.99,farsight@1.6,tombstone@4.7.5,fastfurnace@1.3.1,appleskin@1.0.14,cfm@6.3.0,byg@1.7.1,codechickenlib@3.2.3.358,geckolib3@3.0.30
+[03:19:48] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
+[03:19:48] [Netty Epoll Server IO #7/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:19:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:19:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Levi[/127.24.113.80:49231] logged in with entity id 16355 at (-209.10072029800642, 64.0, 273.1353634850129)
+[03:19:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi joined the game
+[03:19:49] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Levi'/16355, l='world', x=-209.10, y=64.00, z=273.14] connected. Sending ping
+[03:20:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ was slain by Snake
+[03:20:46] [Server thread/INFO] [tombstone]: The last known grave of Minu_ is at location [name:Last Grave, x:-265, y:69, z:284] in the dimension 0
+[03:20:46] [Server thread/INFO] [tombstone]: Minu_ has successfully been saved
+[03:21:11] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[03:23:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi has made the advancement [Easter Egg Searcher]
+[03:23:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ was slain by Snake
+[03:23:23] [Server thread/INFO] [tombstone]: The last known grave of Minu_ is at location [name:Last Grave, x:-258, y:71, z:277] in the dimension 0
+[03:23:23] [Server thread/INFO] [tombstone]: Minu_ has successfully been saved
+[03:25:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi got revenge on BlackBear
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-29, 4] in dimension 0 (overworld) while populating chunk [-28, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-30, 4] in dimension 0 (overworld) while populating chunk [-29, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-31, 4] in dimension 0 (overworld) while populating chunk [-30, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-32, 4] in dimension 0 (overworld) while populating chunk [-29, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-33, 4] in dimension 0 (overworld) while populating chunk [-32, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-34, 4] in dimension 0 (overworld) while populating chunk [-33, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-35, 4] in dimension 0 (overworld) while populating chunk [-34, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-33, 3] in dimension 0 (overworld) while populating chunk [-32, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:25:39] [Server thread/WARN] [FML]: Biomes You Go  loaded a new chunk [-34, 3] in dimension 0 (overworld) while populating chunk [-32, 4], causing cascading worldgen lag.
+[03:25:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[03:26:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi was slain by BlackBear
+[03:26:01] [Server thread/INFO] [tombstone]: The last known grave of Levi is at location [name:Last Grave, x:-279, y:69, z:241] in the dimension 0
+[03:26:01] [Server thread/INFO] [tombstone]: Levi has successfully been saved
+[03:26:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Levi lost connection: Disconnected
+[03:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi left the game
+[03:26:35] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:26:35] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 55 mods : mowziesmobs@1.5.8,ancientwarfarestructure@1.12.2-2.7.0.1038,gokistats@1.2.10,mixinbooter@10.5,netherportalfix@5.3.17,craftingstation@@VERSION@,mca@6.1.0,jei@4.16.1.1013,serverredirect@1.4.5,reap@1.5.3,mcp@9.42,ancientwarfare@1.12.2-2.7.0.1038,clumps@3.1.2,journeymap@1.12.2-5.7.1p3,comforts@1.4.1.3,placebo@1.6.0,travelersbackpack@1.0.35,ancientwarfareautomation@1.12.2-2.7.0.1038,xreliquary@1.12.2-1.3.4.796,randompatches@1.12.2-1.22.1.10,llibrary@1.7.20,morpheus@1.12.2-3.5.106,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,walljump@1.3.2,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,skinlayers3d@1.2.0,forge@14.23.5.2860,twilightforest@3.11.1021,chococraft@3.1.415.0,minecraft@1.12.2,jade@0.1.0,vintagefix@0.5.4,ancientwarfarenpc@1.12.2-2.7.0.1038,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,extrautils2@1.0,mocreatures@12.0.5,ancientwarfarevehicle@1.12.2-2.7.0.1038,patchouli@1.0-23.6,elevatorid@1.3.12,inventoryhud@3.4.4,FML@8.0.99.99,farsight@1.6,tombstone@4.7.5,fastfurnace@1.3.1,appleskin@1.0.14,cfm@6.3.0,byg@1.7.1,codechickenlib@3.2.3.358,geckolib3@3.0.30
+[03:26:35] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[03:26:35] [Netty Epoll Server IO #1/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:26:37] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:26:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Levi[/127.24.113.80:57573] logged in with entity id 21339 at (-278.7654648182038, 69.0, 241.70733524403488)
+[03:26:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi joined the game
+[03:26:37] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Levi'/21339, l='world', x=-278.77, y=69.00, z=241.71] connected. Sending ping
+[03:27:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Levi got revenge on BlackBear
+[03:27:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Minu_ lost connection: Disconnected
+[03:27:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ left the game
+[03:28:08] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[03:28:08] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 54 mods : mowziesmobs@1.5.8,ancientwarfarestructure@1.12.2-2.7.0.1038,gokistats@1.2.10,mixinbooter@10.5,netherportalfix@5.3.17,craftingstation@@VERSION@,mca@6.1.0,jei@4.16.1.1013,serverredirect@1.4.5,reap@1.5.3,mcp@9.42,ancientwarfare@1.12.2-2.7.0.1038,clumps@3.1.2,journeymap@1.12.2-5.7.1p3,comforts@1.4.1.3,placebo@1.6.0,travelersbackpack@1.0.35,ancientwarfareautomation@1.12.2-2.7.0.1038,xreliquary@1.12.2-1.3.4.796,randompatches@1.12.2-1.22.1.10,llibrary@1.7.20,morpheus@1.12.2-3.5.106,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,walljump@1.3.2,carryon@1.12.3,fpsreducer@mc1.12.2-1.20,skinlayers3d@1.2.0,forge@14.23.5.2860,twilightforest@3.11.1021,chococraft@3.1.415.0,minecraft@1.12.2,jade@0.1.0,vintagefix@0.5.4,ancientwarfarenpc@1.12.2-2.7.0.1038,customspawner@3.11.4,ksyxis@1.3.3,spark@1.6.3,extrautils2@1.0,mocreatures@12.0.5,ancientwarfarevehicle@1.12.2-2.7.0.1038,patchouli@1.0-23.6,elevatorid@1.3.12,inventoryhud@3.4.4,FML@8.0.99.99,farsight@1.6,tombstone@4.7.5,fastfurnace@1.3.1,appleskin@1.0.14,cfm@6.3.0,byg@1.7.1,codechickenlib@3.2.3.358,geckolib3@3.0.30
+[03:28:08] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[03:28:08] [Netty Epoll Server IO #6/INFO] [CodeChickenLib-ConfigSync]: Skipping config sync, No mods have registered a syncable config.
+[03:28:09] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Elisel lost connection: Disconnected
+[03:28:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Elisel left the game
+[03:28:10] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:28:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Minu_[/127.129.239.226:37783] logged in with entity id 22370 at (-230.06453671343232, 63.0, 259.1214038060333)
+[03:28:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Minu_ joined the game
+[03:28:10] [Server thread/INFO] [Waila]: Player EntityPlayerMP['Minu_'/22370, l='world', x=-230.06, y=63.00, z=259.12] connected. Sending ping
+[03:28:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Minu_> poke!
