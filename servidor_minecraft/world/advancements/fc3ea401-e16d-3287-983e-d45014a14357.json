@@ -125,15 +125,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-04-06 03:37:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-04-06 03:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-06 03:37:10 +0000"
     },
     "done": true
   },
@@ -239,15 +239,15 @@
     },
     "done": true
   },
-  "tombstone:tutorial/find_easter_egg": {
-    "criteria": {
-      "coded_trigger": "2025-04-06 03:39:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-06 03:30:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/find_easter_egg": {
+    "criteria": {
+      "coded_trigger": "2025-04-06 03:39:00 +0000"
     },
     "done": true
   },

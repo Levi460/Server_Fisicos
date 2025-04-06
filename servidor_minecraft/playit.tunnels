@@ -9,34 +9,34 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "risk-ratios.gl.joinmc.link",
-          "assigned_srv": "risk-ratios.gl.joinmc.link",
+          "assigned_domain": "greater-stamps.gl.joinmc.link",
+          "assigned_srv": "greater-stamps.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "3ffa09b5-89e3-415c-8135-8760deade8aa",
-          "ip_hostname": "26.ip.gl.ply.gg",
+          "id": "15044fcf-5e2a-4d01-9d0a-bce7b37a35c8",
+          "ip_hostname": "27.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 10214,
-          "port_start": 10213,
+          "port_end": 18278,
+          "port_start": 18277,
           "region": "global",
-          "static_ip4": "147.185.221.26",
-          "static_ip6": "2602:fbaf:0:1::1a",
-          "tunnel_ip": "2602:fbaf:0:1::1a"
+          "static_ip4": "147.185.221.27",
+          "static_ip6": "2602:fbaf:0:1::1b",
+          "tunnel_ip": "2602:fbaf:0:1::1b"
         },
         "status": "allocated"
       },
-      "created_at": "2025-04-06T01:45:45.212539Z",
+      "created_at": "2025-04-06T07:49:36.287197Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "63dca008-e608-46b6-8e90-8ff95ec5ccfb",
+      "id": "41c7c2bb-a392-413e-a70a-c1058a75a49e",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "e299b921-e1bd-4deb-a249-53e05a0066cd",
-          "agent_name": "Server Fisicos 2",
+          "agent_id": "7ef4f09c-5d8d-424e-b691-91b2b7d9af8b",
+          "agent_name": "from-key-38bf",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
