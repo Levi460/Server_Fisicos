@@ -1,8 +1,0 @@
-{
-  "damageSources": [
-    "lava",
-    "inFire",
-    "onFire"
-  ],
-  "bonusMultiplier": 1.0
-}
