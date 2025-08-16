@@ -1,83 +1,230 @@
-[02:17:46] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[02:17:47] [main/INFO]: Loading 4 mods:
+[03:29:47] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[03:29:47] [main/INFO]: Loading 80 mods:
+	- actuallyharvest 1.1.3.1
+	   \-- spectrelib 0.17.2+1.21
+	- appleskin 3.0.6+mc1.21.5
+	- architectury 16.1.4
+	- armored-elytra 1.6.0
+	- carryon 2.4.0
+	- cloth-config 18.0.145
+	   \-- cloth-basic-math 0.6.1
+	- clumps 23.0.0.1
+	- collective 8.3
+	- enchantinginfuser 21.5.0
+	- fabric-api 0.128.2+1.21.5
+	   |-- fabric-api-base 0.4.62+73a52b4b49
+	   |-- fabric-api-lookup-api-v1 1.6.96+86c3a9f149
+	   |-- fabric-biome-api-v1 16.0.7+2dd063df49
+	   |-- fabric-block-api-v1 1.1.0+ed91556f49
+	   |-- fabric-block-view-api-v2 1.0.26+aa6d566c49
+	   |-- fabric-blockrenderlayer-v1 2.0.16+86c3a9f149
+	   |-- fabric-client-tags-api-v1 1.1.37+86c3a9f149
+	   |-- fabric-command-api-v1 1.2.70+f71b366f49
+	   |-- fabric-command-api-v2 2.2.49+73a52b4b49
+	   |-- fabric-commands-v0 0.2.87+df3654b349
+	   |-- fabric-content-registries-v0 10.0.14+3e6c1f7d49
+	   |-- fabric-convention-tags-v1 2.1.33+7f945d5b49
+	   |-- fabric-convention-tags-v2 2.15.2+6d9989f349
+	   |-- fabric-crash-report-info-v1 0.3.12+86c3a9f149
+	   |-- fabric-data-attachment-api-v1 1.8.5+6d9989f349
+	   |-- fabric-data-generation-api-v1 22.5.2+a0fab30c49
+	   |-- fabric-dimensions-v1 4.0.17+3e6c1f7d49
+	   |-- fabric-entity-events-v1 2.1.0+3ce7866349
+	   |-- fabric-events-interaction-v0 4.0.15+64e3057949
+	   |-- fabric-game-rule-api-v1 1.0.70+c327076a49
+	   |-- fabric-item-api-v1 11.5.0+0620fe4749
+	   |-- fabric-item-group-api-v1 4.2.9+3459fc6149
+	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc49
+	   |-- fabric-keybindings-v0 0.2.61+df3654b349
+	   |-- fabric-lifecycle-events-v1 2.6.0+230071a049
+	   |-- fabric-loot-api-v2 3.0.48+3f89f5a549
+	   |-- fabric-loot-api-v3 1.0.36+86c3a9f149
+	   |-- fabric-message-api-v1 6.1.0+fe971bba49
+	   |-- fabric-model-loading-api-v1 5.2.3+5281b90749
+	   |-- fabric-networking-api-v1 4.5.0+775be32c49
+	   |-- fabric-object-builder-api-v1 21.1.2+b8d6ba7049
+	   |-- fabric-particles-v1 4.1.2+112e550e49
+	   |-- fabric-recipe-api-v1 8.1.8+3235ab3249
+	   |-- fabric-registry-sync-v0 6.1.22+cd64004349
+	   |-- fabric-renderer-api-v1 6.1.2+bdf4842249
+	   |-- fabric-renderer-indigo 3.1.2+5281b90749
+	   |-- fabric-rendering-data-attachment-v1 0.3.64+73761d2e49
+	   |-- fabric-rendering-fluids-v1 3.1.27+86c3a9f149
+	   |-- fabric-rendering-v1 11.3.0+a272b33849
+	   |-- fabric-resource-conditions-api-v1 5.0.21+73a52b4b49
+	   |-- fabric-resource-loader-v0 3.1.7+847e5f5c49
+	   |-- fabric-screen-api-v1 2.0.46+86c3a9f149
+	   |-- fabric-screen-handler-api-v1 1.3.129+c327076a49
+	   |-- fabric-sound-api-v1 1.0.38+86c3a9f149
+	   |-- fabric-tag-api-v1 1.0.17+ecf51cdc49
+	   |-- fabric-transfer-api-v1 5.4.24+7b20cbb049
+	   \-- fabric-transitive-access-wideners-v1 6.3.17+f17a180c49
 	- fabricloader 0.16.14
 	   \-- mixinextras 0.4.1
+	- fallingtree 1.21.5.12
+	- forgeconfigapiport 21.5.1
+	   |-- com_electronwill_night-config_core 3.8.1
+	   \-- com_electronwill_night-config_toml 3.8.1
+	- geckolib 5.1.0
+	- grindenchantments 4.0.1+1.21.5
+	   \-- codec-config-api 3.0.2+1.21.4
 	- java 21
+	- justhammers 21.5.1
 	- minecraft 1.21.5
-[02:17:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[02:17:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:17:56] [main/INFO]: Loaded 1373 recipes
-[02:17:56] [main/INFO]: Loaded 1484 advancements
-[02:17:56] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[02:17:56] [Server thread/INFO]: Loading properties
-[02:17:56] [Server thread/INFO]: Default game type: SURVIVAL
-[02:17:56] [Server thread/INFO]: Generating keypair
-[02:17:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:17:57] [Server thread/INFO]: Using epoll channel type
-[02:17:57] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:17:57] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:17:57] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:17:57] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:17:57] [Server thread/INFO]: Preparing level "world"
-[02:17:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:18:00] [Worker-Main-2/INFO]: Preparing spawn area: 18%
-[02:18:01] [Server thread/INFO]: Time elapsed: 3495 ms
-[02:18:01] [Server thread/INFO]: Done (3.901s)! For help, type "help"
-[02:18:24] [Server thread/INFO]: Minu[/127.129.239.226:34717] logged in with entity id 10 at (69.5, 69.0, -5.5)
-[02:18:24] [Server thread/INFO]: Minu joined the game
-[02:18:35] [Server thread/INFO]: Levi[/127.156.208.153:34589] logged in with entity id 230 at (388.53639652376427, 124.07360220465357, -72.1997006198128)
-[02:18:35] [Server thread/INFO]: Levi joined the game
-[02:19:13] [Server thread/INFO]: [Levi: Set own game mode to Survival Mode]
-[02:19:15] [Server thread/INFO]: Levi was slain by Piglin Brute
-[02:20:01] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=56, y=68, z=-3}
-[02:20:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=58, y=68, z=1}
-[02:20:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=61, y=67, z=-5}
-[02:20:06] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=68, z=-6}
-[02:20:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=64, y=68, z=-5}
-[02:20:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=68, z=-6}
-[02:20:07] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=68, z=-6}
-[02:20:08] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=64, y=68, z=-5}
-[02:20:09] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=65, y=68, z=-6}
-[02:20:11] [Server thread/INFO]: Levi was slain by Zombie
-[02:20:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=67, y=68, z=-8}
-[02:20:15] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=68, y=67, z=-9}
-[02:20:18] [Server thread/INFO]: Minu has made the advancement [Monster Hunter]
-[02:20:54] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=75, y=68, z=-9}
-[02:20:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=72, y=68, z=-9}
-[02:20:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=73, y=71, z=-10}
-[02:20:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=73, y=71, z=-10}
-[02:20:58] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=73, y=68, z=-10}
-[02:20:59] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=75, y=68, z=-14}
-[02:21:02] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=74, y=68, z=-15}
-[02:21:04] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=0, y=0, z=0} class_2338{x=77, y=69, z=-16}
-[02:21:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=74, y=68, z=-17} class_2338{x=74, y=68, z=-16}
-[02:21:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=74, y=68, z=-17} class_2338{x=74, y=68, z=-15}
-[02:21:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=74, y=68, z=-17} class_2338{x=75, y=68, z=-14}
-[02:21:05] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=74, y=68, z=-17} class_2338{x=75, y=68, z=-14}
-[02:21:11] [Server thread/INFO]: Levi was shot by Skeleton
-[02:21:17] [Server thread/INFO]: Minu was shot by Skeleton
-[02:21:37] [Server thread/INFO]: Levi lost connection: Disconnected
-[02:21:37] [Server thread/INFO]: Levi left the game
-[02:22:15] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:22:15] [Server thread/INFO]: cloweclose se <--[HERE]
-[02:22:22] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[02:22:22] [Server thread/INFO]: close<--[HERE]
-[02:22:43] [Server thread/INFO]: Stopping the server
-[02:22:43] [Server thread/INFO]: Stopping server
-[02:22:43] [Server thread/INFO]: Saving players
-[02:22:43] [Server thread/INFO]: Minu lost connection: Server closed
-[02:22:43] [Server thread/INFO]: Minu left the game
-[02:22:43] [Server thread/INFO]: Saving worlds
-[02:22:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[02:22:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[02:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:22:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+	- oreharvester 1.5
+	- puzzleslib 21.5.12
+	- roughlyenoughitems 19.0.809
+	   \-- error_notifier 1.0.11
+	- stackrefill 4.9
+	- uselessreptile 0.10.5-1.21.5
+	   |-- common-protection-api 1.0.0
+	   \-- primitive_multipart_entities 1.1.1-1.21.5
+	- xaerominimap 25.2.10
+	- xaeroworldmap 1.39.12
+	- yet_another_config_lib_v3 3.7.1+1.21.5-fabric
+	   |-- com_twelvemonkeys_common_common-image 3.12.0
+	   |-- com_twelvemonkeys_common_common-io 3.12.0
+	   |-- com_twelvemonkeys_common_common-lang 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.12.0
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[03:29:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:29:47] [main/INFO]: Compatibility level set to JAVA_21
+[03:29:47] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:29:47] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:29:47] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:29:47] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:29:47] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:29:47] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:29:48] [main/WARN]: Error loading class: net/minecraft/class_897 (java.lang.ClassNotFoundException: net/minecraft/class_897)
+[03:29:48] [main/WARN]: @Mixin target net.minecraft.class_897 was not found geckolib.mixins.json:client.EntityRendererMixin from mod geckolib
+[03:29:48] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:29:49] [main/INFO]: Config file './config/uselessreptile.json5' does not exist. Creating it with default values.
+[03:29:49] [main/INFO]: Serializing class nordmods.uselessreptile.common.config.URConfig to './config/uselessreptile.json5'
+[03:29:56] [main/INFO]: Loading Collective version 8.3.
+[03:29:56] [main/INFO]: Constructing common components for enchantinginfuser:main
+[03:29:57] [main/INFO]: Constructing common components for puzzleslib:main
+[03:29:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[03:29:57] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[03:29:57] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[03:29:57] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[03:29:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[03:29:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[03:29:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[03:29:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[03:29:57] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[03:29:57] [main/INFO]: Config file './config/uselessreptile_mob_attributes.json5' does not exist. Creating it with default values.
+[03:29:57] [main/INFO]: Serializing class nordmods.uselessreptile.common.config.URMobAttributesConfig to './config/uselessreptile_mob_attributes.json5'
+[03:29:57] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[03:29:57] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[03:29:57] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[03:29:57] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:29:57] [main/INFO]: Found new data pack carryon, loading it automatically
+[03:29:57] [main/INFO]: Found new data pack collective, loading it automatically
+[03:29:57] [main/INFO]: Found new data pack enchantinginfuser, loading it automatically
+[03:29:57] [main/INFO]: Found new data pack fabric, loading it automatically
+[03:29:57] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[03:29:57] [main/INFO]: Found new data pack justhammers, loading it automatically
+[03:29:57] [main/INFO]: Found new data pack uselessreptile, loading it automatically
+[03:29:59] [main/INFO]: Loaded 1429 recipes
+[03:29:59] [main/INFO]: Loaded 1547 advancements
+[03:29:59] [main/INFO]: Applied 252 biome modifications to 63 of 65 new biomes in 9.125 ms
+[03:29:59] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[03:30:00] [Server thread/INFO]: [Grind Enchantments] Writing default server config.
+[03:30:00] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[03:30:00] [Server thread/INFO]: Loading properties
+[03:30:00] [Server thread/INFO]: Default game type: SURVIVAL
+[03:30:00] [Server thread/INFO]: Generating keypair
+[03:30:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:30:00] [Server thread/INFO]: Using epoll channel type
+[03:30:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:30:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:30:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:30:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:30:00] [Server thread/INFO]: Preparing level "world"
+[03:30:00] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[03:30:04] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[03:30:04] [Server thread/INFO]: Time elapsed: 4108 ms
+[03:30:04] [Server thread/INFO]: Done (4.636s)! For help, type "help"
+[03:30:05] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[03:30:05] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[03:30:05] [Server thread/INFO]: [REI] Plugins (3):
+[03:30:05] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[03:30:05] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[03:30:05] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[03:30:05] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[03:30:05] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 6.201 ms, totaling 112.5 ms.
+[03:30:05] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[03:30:05] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[03:30:05] [Server thread/INFO]: [REI] Plugins (3):
+[03:30:05] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[03:30:05] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[03:30:05] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[03:30:05] [Server thread/INFO]: [REI] @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[03:30:05] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 2.176 ms, totaling 101.1 ms.
+[03:30:05] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[03:30:05] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[03:30:39] [Server thread/INFO]: Levi[/127.156.208.153:46527] logged in with entity id 53 at (54.92086388821959, 69.0, 9.854517890918485)
+[03:30:39] [Server thread/INFO]: Levi joined the game
+[03:30:39] [Server thread/WARN]: Skipping Entity with id [invalid]
+[03:30:39] [Server thread/INFO]: Levi has made the advancement [Useless Reptile]
+[03:30:58] [Server thread/INFO]: Levi was shot by Skeleton
+[03:31:27] [Server thread/INFO]: Levi was shot by Skeleton
+[03:31:54] [Server thread/INFO]: Levi was shot by Skeleton
+[03:33:41] [Server thread/INFO]: Levi was slain by Zombie
+[03:33:52] [Server thread/INFO]: [Levi: Set own game mode to Creative Mode]
+[03:36:06] [Server thread/INFO]: Levi has completed the challenge [Over-Overkill]
+[03:36:23] [Server thread/WARN]: Levi moved too quickly! 0.0,-10.527390338311648,0.0
+[03:42:24] [Server thread/INFO]: Levi has reached the goal [Sky's the Limit]
+[03:43:47] [Server thread/INFO]: Minu[/127.129.239.226:41033] logged in with entity id 6937 at (107.18017380959398, 86.0, 3.699999988079071)
+[03:43:47] [Server thread/INFO]: Minu joined the game
+[03:43:47] [Server thread/WARN]: Skipping Entity with id [invalid]
+[03:43:47] [Server thread/INFO]: Minu has made the advancement [Useless Reptile]
+[03:44:01] [Server thread/INFO]: Minu lost connection: Disconnected
+[03:44:01] [Server thread/INFO]: Minu left the game
+[03:48:39] [Server thread/INFO]: [Levi: Set own game mode to Survival Mode]
+[03:48:42] [Server thread/INFO]: Levi fell from a high place
+[03:49:13] [Server thread/INFO]: Levi was shot by Skeleton
+[03:49:35] [Server thread/INFO]: Levi was shot by Skeleton
+[03:50:19] [Server thread/INFO]: Levi drowned
+[03:52:22] [Server thread/INFO]: Minu[/127.129.239.226:50579] logged in with entity id 10098 at (105.78517360833244, 80.0, -2.1783243712428626)
+[03:52:22] [Server thread/INFO]: Minu joined the game
+[03:52:22] [Server thread/WARN]: Skipping Entity with id [invalid]
+[03:52:30] [Server thread/INFO]: [Levi: Set own game mode to Creative Mode]
+[03:53:26] [Server thread/INFO]: Minu was slain by Zombie
+[03:53:46] [Server thread/INFO]: [Levi: Set the time to 1000]
+[03:54:07] [Server thread/INFO]: Minu was blown up by Creeper
+[03:56:00] [Server thread/INFO]: Minu has made the advancement [The Pied Piper]
+[03:59:05] [Server thread/INFO]: [Levi: Set Minu's game mode to Creative Mode]
+[03:59:39] [Server thread/INFO]: [Levi: Set own game mode to Survival Mode]
+[04:00:21] [Server thread/INFO]: [Levi: Set own game mode to Creative Mode]
+[04:01:36] [Server thread/INFO]: [Levi: Set own game mode to Survival Mode]
+[04:01:42] [Server thread/INFO]: Levi has made the advancement [Stone Age]
+[04:02:29] [Server thread/INFO]: [Levi: Set own game mode to Creative Mode]
+[04:02:52] [Server thread/INFO]: Minu has made the advancement [Stone Age]
+[04:05:53] [Server thread/INFO]: Minu lost connection: Disconnected
+[04:05:53] [Server thread/INFO]: Minu left the game
+[04:05:56] [Server thread/INFO]: Levi lost connection: Disconnected
+[04:05:56] [Server thread/INFO]: Levi left the game
+[04:06:24] [Server thread/INFO]: Stopping the server
+[04:06:24] [Server thread/INFO]: Stopping server
+[04:06:24] [Server thread/INFO]: Saving players
+[04:06:24] [Server thread/INFO]: Saving worlds
+[04:06:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:06:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:06:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:06:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:06:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:06:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:06:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:06:24] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
