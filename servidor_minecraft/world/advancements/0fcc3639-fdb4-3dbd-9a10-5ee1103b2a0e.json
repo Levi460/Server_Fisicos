@@ -1,0 +1,75 @@
+{
+  "uselessreptile:dragon/root": {
+    "criteria": {
+      "tick": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "jodek:mobs": {
+    "criteria": {
+      "tick": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lush_desert": "2025-08-17 01:44:56 +0000"
+    },
+    "done": true
+  },
+  "stardomsdungeons:dungeons/root": {
+    "criteria": {
+      "trigger_always": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "kattersstructures:root": {
+    "criteria": {
+      "requirement": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "lunareclipse.watching:technical/player_init": {
+    "criteria": {
+      "requirement": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lush_desert": "2025-08-17 01:44:56 +0000"
+    },
+    "done": false
+  },
+  "jodek:mob_heads": {
+    "criteria": {
+      "tick": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "jodek:root": {
+    "criteria": {
+      "tick": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "mobheads:collection/root": {
+    "criteria": {
+      "bosses": "2025-08-17 01:44:55 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
