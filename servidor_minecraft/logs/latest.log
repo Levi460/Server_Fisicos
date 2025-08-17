@@ -607,3 +607,24 @@ Contact the server's administrator for more information!
 [21:24:44] [Server thread/INFO]: Minu_ <Overworld> has made the advancement [Monster Hunter]
 [21:25:43] [Server thread/INFO]: Minu lost connection: Timed out
 [21:25:43] [Server thread/INFO]: Minu <Overworld> left the game
+[21:25:58] [Server thread/INFO]: Minu_ <Overworld> has made the advancement [Who's the Pillager Now?]
+[21:27:40] [Server thread/INFO]: com.mojang.authlib.GameProfile@6d3f2f2e[id=e2b32376-76a4-37b0-890b-7f826b42e69a,name=Minu,properties={}] lost connection: Disconnected
+[21:27:47] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[21:27:47] [Server thread/INFO]: Minu[/127.129.239.226:46449] logged in with entity id 15695 at (-253.06601005332692, 64.0, -18.111567453796003)
+[21:27:47] [Server thread/INFO]: Sending server config values to client
+[21:27:47] [Server thread/INFO]: Creating new config sync packet
+[21:27:47] [Server thread/INFO]: Loading config from file...
+[21:27:47] [Server thread/INFO]: Minu <Overworld> joined the game
+[21:27:47] [Server thread/WARN]: Skipping Entity with id [invalid]
+[21:27:48] [Server thread/INFO]: Receiving client config
+[21:27:48] [Server thread/INFO]: [ShulkerBoxTooltip] Minu: protocol version: 2.0
+[21:27:48] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
+[21:28:06] [Server thread/INFO]: Bucles <Overworld> has made the advancement [Delving in]
+[21:28:40] [Server thread/INFO]: Minu <Overworld> fell from a high place
+[21:28:40] [Server thread/INFO]: Placed Minu's Gravestone at (-262, 64, -15)
+[21:28:43] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[21:28:43] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
+[21:30:30] [Server thread/INFO]: Minu has found their grave at class_2338{x=-262, y=64, z=-15}
+[21:32:21] [Server thread/INFO]: Minu <Overworld> was shot by Pillager
+[21:32:21] [Server thread/INFO]: Placed Minu's Gravestone at (-261, 64, -9)
+[21:35:14] [Server thread/INFO]: Bucles <Overworld> has made the advancement [Acquire Hardware]
