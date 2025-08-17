@@ -67,9 +67,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "volcanic_plains": "2025-08-17 22:00:18 +0000",
       "dryland": "2025-08-17 21:23:58 +0000",
       "wasteland": "2025-08-17 21:52:21 +0000",
-      "lush_desert": "2025-08-17 21:13:11 +0000"
+      "lush_desert": "2025-08-17 21:13:11 +0000",
+      "wasteland_steppe": "2025-08-17 21:55:11 +0000"
     },
     "done": false
   },
@@ -244,7 +246,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:desert": "2025-08-17 21:14:12 +0000",
+      "minecraft:sparse_jungle": "2025-08-17 22:00:00 +0000",
       "minecraft:river": "2025-08-17 21:50:49 +0000",
+      "minecraft:wooded_badlands": "2025-08-17 21:55:42 +0000",
       "minecraft:warm_ocean": "2025-08-17 21:45:05 +0000"
     },
     "done": false
@@ -1313,6 +1317,7 @@
   },
   "cavernous:geology_rocks": {
     "criteria": {
+      "cobblestone": "2025-08-17 21:57:57 +0000",
       "granite": "2025-08-17 21:16:19 +0000"
     },
     "done": false
@@ -1422,7 +1427,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2025-08-17 21:24:13 +0000",
+      "rotten_flesh": "2025-08-17 22:01:24 +0000",
       "rabbit": "2025-08-17 21:21:22 +0000",
+      "melon_slice": "2025-08-17 22:02:39 +0000",
       "carrot": "2025-08-17 21:28:29 +0000"
     },
     "done": false
@@ -1661,6 +1668,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-08-17 22:01:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_stairs": {
     "criteria": {
       "has_planks": "2025-08-17 21:49:50 +0000"
@@ -1670,6 +1683,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-17 21:50:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-08-17 22:01:32 +0000"
     },
     "done": true
   },
@@ -1703,6 +1722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-17 21:50:36 +0000"
@@ -1724,6 +1749,12 @@
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-17 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
     },
     "done": true
   },
@@ -1787,9 +1818,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-17 22:01:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/pine_fence": {
     "criteria": {
       "has_planks": "2025-08-17 21:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
     },
     "done": true
   },
@@ -1802,6 +1845,18 @@
   "minecraft:recipes/building_blocks/cyan_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-17 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
     },
     "done": true
   },
@@ -1823,6 +1878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-17 22:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-17 21:45:57 +0000"
@@ -1832,6 +1893,12 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-08-17 21:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
     },
     "done": true
   },
@@ -1937,6 +2004,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-17 22:01:32 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/pine_wood": {
     "criteria": {
       "has_log": "2025-08-17 21:48:43 +0000"
@@ -1955,9 +2028,33 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_badlands": "2025-08-17 21:54:23 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/redstone/pine_door": {
     "criteria": {
       "has_planks": "2025-08-17 21:49:50 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_black_sand": "2025-08-17 22:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-08-17 22:01:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-08-17 22:01:32 +0000"
     },
     "done": true
   },
@@ -1976,6 +2073,12 @@
   "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-17 21:50:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-08-17 21:57:57 +0000"
     },
     "done": true
   },

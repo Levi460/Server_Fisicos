@@ -2117,7 +2117,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "dryland": "2025-08-17 21:14:54 +0000",
-      "lush_desert": "2025-08-17 21:13:48 +0000"
+      "lush_desert": "2025-08-17 21:13:48 +0000",
+      "crag": "2025-08-17 21:58:30 +0000"
     },
     "done": false
   },
