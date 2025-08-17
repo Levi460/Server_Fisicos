@@ -1,5 +1,5 @@
-[00:51:58] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[00:51:59] [main/INFO]: Loading 210 mods:
+[00:53:30] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[00:53:30] [main/INFO]: Loading 210 mods:
 	- actuallyharvest 1.1.3.1
 	   \-- spectrelib 0.17.2+1.21
 	- advancednetherite 2.3.0-1.21.5
@@ -230,131 +230,128 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[00:52:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:52:00] [main/INFO]: Compatibility level set to JAVA_21
-[00:52:00] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'illagerinvasion.fabric.refmap.json' for illagerinvasion.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/INFO]: Option 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache' requires 'mixin.world.block_entity_ticking=true' but found 'false'. Setting 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache=false'.
-[00:52:00] [main/INFO]: Loaded configuration file for Lithium: 157 options available, 1 override(s) found.
-[00:52:00] [main/WARN]: Reference map 'mixins.medieval_buildings.refmap.fabric.json' for mixins.medieval_buildings.fabric.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'neoforgedatapackextensions.common.refmap.json' for neoforgedatapackextensions.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:00] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[00:52:01] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[00:52:01] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[00:52:01] [main/WARN]: Error loading class: net/minecraft/class_897 (java.lang.ClassNotFoundException: net/minecraft/class_897)
-[00:52:01] [main/WARN]: @Mixin target net.minecraft.class_897 was not found geckolib.mixins.json:client.EntityRendererMixin from mod geckolib
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.chunk_tickable.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelChunkMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerLevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.crafter.CrafterBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:01] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.world_border.DirectBlockEntityTickInvokerMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[00:52:02] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
-[00:52:02] [main/WARN]: @Mixin target net.minecraft.class_310 was not found monsters_in_the_closet.mixins.json:MinecraftClientMixin from mod monsters_in_the_closet
-[00:52:02] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[00:52:02] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[00:52:02] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[00:52:02] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[00:52:02] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[00:52:04] [main/INFO]: Deserializing URConfig from './config/uselessreptile.json5'
-[00:52:12] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[00:52:12] [main/INFO]: Hello Fabric world!
-[00:52:12] [main/INFO]: Biolith for Fabric is initializing...
-[00:52:12] [main/INFO]: Enabling Biolith's TerraBlender compatibility layer.
-[00:52:12] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
-[00:52:13] [main/INFO]: Initializing CiviliansMod
-[00:52:13] [main/INFO]: [CiviliansMod] Registered Mod Items and Item Group!
-[00:52:13] [main/INFO]: Loading Collective version 8.3.
-[00:52:13] [main/INFO]: Constructing common components for easymagic:main
-[00:52:13] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[00:52:13] [main/INFO]: Constructing common components for enchantinginfuser:main
-[00:52:13] [main/INFO]: Config 'exlinecopperequipmentconfig' is missing, generating default one...
-[00:52:13] [main/INFO]: [STDOUT]: All 26 for exlinecopperequipment have been set properly
-[00:52:13] [main/INFO]: [STDOUT]: Registering Configs for: exlinecopperequipment
-[00:52:13] [main/INFO]: [STDOUT]: Registering Sounds for: exlinecopperequipment
-[00:52:13] [main/INFO]: [STDOUT]: Registering Tool Materials for: exlinecopperequipment
-[00:52:13] [main/INFO]: [STDOUT]: Registering Items for: exlinecopperequipment
-[00:52:13] [main/INFO]: [STDOUT]: Registering Item Tags for: exlinecopperequipment
-[00:52:13] [main/INFO]: [STDOUT]: Initializing: exlinecopperequipment
-[00:52:13] [main/INFO]: Loaded config farmersdelight-common.json
-[00:52:13] [Cicada thread 0/INFO]: [cicada] I used the JSON to destroy the JSON.
-[00:52:14] [main/INFO]: Reflections took 203 ms to scan 3 urls, producing 12 keys and 162 values
-[00:52:14] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[00:52:15] [main/INFO]: Initializing Gravestones
-[00:52:15] [main/INFO]: Constructing common components for illagerinvasion:main
-[00:52:16] [main/INFO]: Initializing JamLib on Fabric
-[00:52:16] [main/INFO]: Registering Block Entities for magicmod
-[00:52:16] [main/INFO]: Registering Screen Handlers for magicmod
-[00:52:16] [main/INFO]: Loading...
-[00:52:16] [main/INFO]: Definitely not up to no good
-[00:52:16] [main/INFO]: I saw ppl complain that minor updates between big updates will ruin it for modders but I thought modders were very good and they can do what we do in a week so they should be ok with updating their mods to new versions in a day, right? :titantroll:
-[00:52:16] [main/INFO]: Initializing PneumonoCore
-[00:52:16] [main/INFO]: Constructing common components for puzzleslib:main
-[00:52:16] [main/INFO]: Updated config file at /workspaces/Server_Fisicos/servidor_minecraft/config/rightclickharvest.json5
-[00:52:16] [main/INFO]: Updated config file at /workspaces/Server_Fisicos/servidor_minecraft/config/rightclickharvest.json5
-[00:52:16] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[00:52:16] [main/INFO]: [REI] Registered plugin provider CommonREIPlugin [farmersdelight] for REICommonPlugin
-[00:52:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[00:52:16] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[00:52:16] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[00:52:16] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[00:52:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[00:52:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[00:52:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[00:52:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[00:52:16] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[00:52:16] [main/INFO]: [ShulkerBoxTooltip] Could not find configuration file, creating default file
-[00:52:16] [main/INFO]: Burning through Items faster than gacha games through wallets
-[00:52:17] [main/INFO]: Initializing Stardom's Dungeons!
-[00:52:17] [main/INFO]: Registering stardomsdungeons components
-[00:52:17] [main/INFO]: Registering blocks for: stardomsdungeons
-[00:52:17] [main/INFO]: Initializing items...
-[00:52:17] [main/INFO]: Registering item groups for: stardomsdungeons
-[00:52:17] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[00:52:17] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[00:52:17] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[00:52:17] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[00:52:17] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[00:52:17] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[00:52:17] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[00:52:17] [main/INFO]: Registering ModBlocks for netherdungeon
-[00:52:17] [main/INFO]: Registering Mod Items for netherdungeon
-[00:52:18] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[00:52:18] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[00:52:18] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[00:52:18] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[00:52:18] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
-[00:52:18] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
-[00:52:18] [main/INFO]: Constructing common components for visualworkbench:main
-[00:52:18] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
-[00:52:18] [main/INFO]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
-[00:52:18] [main/INFO]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[00:52:18] [main/INFO]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[00:52:18] [main/INFO]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[00:52:18] [main/INFO]: [WTHIT] Initializing common plugin waila:fabric at mcp.mobius.waila.plugin.fabric.FabricCommonPlugin
-[00:52:18] [main/INFO]: [WTHIT] Initializing plugin waystones:wthit at net.blay09.mods.waystones.compat.WTHITIntegration
-[00:52:18] [main/INFO]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[00:52:18] [main/ERROR]: [WTHIT] Found plugins registered via legacy platform-dependant method:
-[00:52:18] [main/ERROR]: [WTHIT] [waystones:wthit]
-[00:52:18] [main/INFO]: [WTHIT] Plugin config reloaded
-[00:52:18] [main/ERROR]: Failed to start the minecraft server
+[00:53:31] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[00:53:31] [main/INFO]: Compatibility level set to JAVA_21
+[00:53:31] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'illagerinvasion.fabric.refmap.json' for illagerinvasion.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/INFO]: Option 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache' requires 'mixin.world.block_entity_ticking=true' but found 'false'. Setting 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache=false'.
+[00:53:31] [main/INFO]: Loaded configuration file for Lithium: 157 options available, 1 override(s) found.
+[00:53:31] [main/WARN]: Reference map 'mixins.medieval_buildings.refmap.fabric.json' for mixins.medieval_buildings.fabric.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'neoforgedatapackextensions.common.refmap.json' for neoforgedatapackextensions.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:31] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[00:53:32] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[00:53:32] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[00:53:32] [main/WARN]: Error loading class: net/minecraft/class_897 (java.lang.ClassNotFoundException: net/minecraft/class_897)
+[00:53:32] [main/WARN]: @Mixin target net.minecraft.class_897 was not found geckolib.mixins.json:client.EntityRendererMixin from mod geckolib
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.chunk_tickable.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelChunkMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerLevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.crafter.CrafterBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.world_border.DirectBlockEntityTickInvokerMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[00:53:32] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[00:53:32] [main/WARN]: @Mixin target net.minecraft.class_310 was not found monsters_in_the_closet.mixins.json:MinecraftClientMixin from mod monsters_in_the_closet
+[00:53:32] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[00:53:32] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[00:53:32] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[00:53:32] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[00:53:33] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[00:53:34] [main/INFO]: Deserializing URConfig from './config/uselessreptile.json5'
+[00:53:42] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[00:53:43] [main/INFO]: Hello Fabric world!
+[00:53:43] [main/INFO]: Biolith for Fabric is initializing...
+[00:53:43] [main/INFO]: Enabling Biolith's TerraBlender compatibility layer.
+[00:53:43] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
+[00:53:43] [main/INFO]: Initializing CiviliansMod
+[00:53:43] [main/INFO]: [CiviliansMod] Registered Mod Items and Item Group!
+[00:53:43] [main/INFO]: Loading Collective version 8.3.
+[00:53:43] [main/INFO]: Constructing common components for easymagic:main
+[00:53:43] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[00:53:44] [Cicada thread 0/INFO]: [cicada] I used the JSON to destroy the JSON.
+[00:53:44] [main/INFO]: Constructing common components for enchantinginfuser:main
+[00:53:44] [main/INFO]: [STDOUT]: All 26 for exlinecopperequipment have been set properly
+[00:53:44] [main/INFO]: [STDOUT]: Registering Configs for: exlinecopperequipment
+[00:53:44] [main/INFO]: [STDOUT]: Registering Sounds for: exlinecopperequipment
+[00:53:44] [main/INFO]: [STDOUT]: Registering Tool Materials for: exlinecopperequipment
+[00:53:44] [main/INFO]: [STDOUT]: Registering Items for: exlinecopperequipment
+[00:53:44] [main/INFO]: [STDOUT]: Registering Item Tags for: exlinecopperequipment
+[00:53:44] [main/INFO]: [STDOUT]: Initializing: exlinecopperequipment
+[00:53:44] [main/INFO]: Loaded config farmersdelight-common.json
+[00:53:44] [main/INFO]: Reflections took 245 ms to scan 3 urls, producing 12 keys and 162 values
+[00:53:45] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[00:53:46] [main/INFO]: Initializing Gravestones
+[00:53:46] [main/INFO]: Constructing common components for illagerinvasion:main
+[00:53:46] [main/INFO]: Initializing JamLib on Fabric
+[00:53:46] [main/INFO]: Registering Block Entities for magicmod
+[00:53:46] [main/INFO]: Registering Screen Handlers for magicmod
+[00:53:46] [main/INFO]: Loading...
+[00:53:46] [main/INFO]: Definitely not up to no good
+[00:53:46] [main/INFO]: blod: he her
+[00:53:46] [main/INFO]: Initializing PneumonoCore
+[00:53:47] [main/INFO]: Constructing common components for puzzleslib:main
+[00:53:47] [main/INFO]: Updated config file at /workspaces/Server_Fisicos/servidor_minecraft/config/rightclickharvest.json5
+[00:53:47] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[00:53:47] [main/INFO]: [REI] Registered plugin provider CommonREIPlugin [farmersdelight] for REICommonPlugin
+[00:53:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[00:53:47] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[00:53:47] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[00:53:47] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[00:53:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[00:53:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[00:53:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[00:53:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[00:53:47] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[00:53:47] [main/INFO]: Burning through Items faster than gacha games through wallets
+[00:53:47] [main/INFO]: Initializing Stardom's Dungeons!
+[00:53:47] [main/INFO]: Registering stardomsdungeons components
+[00:53:47] [main/INFO]: Registering blocks for: stardomsdungeons
+[00:53:47] [main/INFO]: Initializing items...
+[00:53:47] [main/INFO]: Registering item groups for: stardomsdungeons
+[00:53:47] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[00:53:47] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[00:53:47] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[00:53:47] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[00:53:47] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[00:53:47] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[00:53:47] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[00:53:48] [main/INFO]: Registering ModBlocks for netherdungeon
+[00:53:48] [main/INFO]: Registering Mod Items for netherdungeon
+[00:53:48] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[00:53:48] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[00:53:48] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[00:53:48] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[00:53:48] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[00:53:48] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[00:53:48] [main/INFO]: Constructing common components for visualworkbench:main
+[00:53:48] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[00:53:48] [main/INFO]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
+[00:53:48] [main/INFO]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[00:53:48] [main/INFO]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[00:53:48] [main/INFO]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[00:53:48] [main/INFO]: [WTHIT] Initializing common plugin waila:fabric at mcp.mobius.waila.plugin.fabric.FabricCommonPlugin
+[00:53:48] [main/INFO]: [WTHIT] Initializing plugin waystones:wthit at net.blay09.mods.waystones.compat.WTHITIntegration
+[00:53:48] [main/INFO]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[00:53:48] [main/ERROR]: [WTHIT] Found plugins registered via legacy platform-dependant method:
+[00:53:48] [main/ERROR]: [WTHIT] [waystones:wthit]
+[00:53:48] [main/INFO]: [WTHIT] Plugin config reloaded
+[00:53:48] [main/ERROR]: Failed to start the minecraft server
 java.lang.RuntimeException: Could not execute entrypoint stage 'main' due to errors, provided by 'civiliansmod' at 'net.asian.civiliansmod.CiviliansMod'!
 	at net.fabricmc.loader.impl.FabricLoaderImpl.lambda$invokeEntrypoints$2(FabricLoaderImpl.java:403) ~[fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.util.ExceptionUtil.gatherExceptions(ExceptionUtil.java:33) ~[fabric-loader-0.16.14.jar:?]
