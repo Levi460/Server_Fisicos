@@ -713,3 +713,46 @@
 [02:08:22] [Server thread/INFO]: Placed Minu's Gravestone at (146, 64, 37)
 [02:08:23] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [02:08:24] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
+[02:09:28] [Worker-Main-1/ERROR]: Failed to read field (UUID={L:-6119367956657713823L,M:1544577469002695872L}): Not a list
+[02:09:28] [Worker-Main-1/ERROR]: Failed to read field (UUID={L:-6119367956657713823L,M:1544577469002695872L}): Not a list
+[02:09:31] [Server thread/INFO]: Levi <Overworld> was shot by Pillager
+[02:09:31] [Server thread/INFO]: Placed Levi's Gravestone at (87, 64, 64)
+[02:09:36] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:09:38] [Server thread/INFO]: [do_a_barrel_roll] Client of Levi accepted server config.
+[02:10:26] [Server thread/INFO]: uri1809 <Overworld> was shot by Pillager
+[02:10:26] [Server thread/INFO]: Placed uri1809's Gravestone at (139, 65, -35)
+[02:10:27] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:10:27] [Server thread/INFO]: [do_a_barrel_roll] Client of uri1809 accepted server config.
+[02:13:00] [Server thread/INFO]: Levi lost connection: Timed out
+[02:13:00] [Server thread/INFO]: Levi <Overworld> left the game
+[02:13:24] [Server thread/INFO]: uri1809 <Overworld> has made the advancement [Stone Age]
+[02:13:39] [Server thread/INFO]: com.mojang.authlib.GameProfile@4de1a6d3[id=dd488042-fc46-377c-818e-4e2591cce5e9,name=Levi,properties={}] lost connection: Timed out
+[02:14:24] [Server thread/INFO]: uri1809 <Overworld> has made the advancement [Getting an Upgrade]
+[02:14:25] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:14:25] [Server thread/INFO]: Levi[/127.156.208.153:47555] logged in with entity id 13939 at (128.6672434271015, 64.0, 19.77402909382156)
+[02:14:25] [Server thread/INFO]: Sending server config values to client
+[02:14:25] [Server thread/INFO]: Creating new config sync packet
+[02:14:25] [Server thread/INFO]: Loading config from file...
+[02:14:25] [Server thread/INFO]: Levi <Overworld> joined the game
+[02:14:25] [Server thread/WARN]: Skipping Entity with id [invalid]
+[02:14:28] [Server thread/INFO]: Receiving client config
+[02:14:28] [Server thread/INFO]: [ShulkerBoxTooltip] Levi: protocol version: 2.0
+[02:14:30] [Server thread/INFO]: [do_a_barrel_roll] Client of Levi accepted server config.
+[02:16:41] [Server thread/INFO]: Minu <Overworld> has made the advancement [Monster Hunter]
+[02:16:56] [Server thread/INFO]: uri1809 <Overworld> was slain by Husk
+[02:16:56] [Server thread/INFO]: Placed uri1809's Gravestone at (266, 66, -113)
+[02:16:59] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:16:59] [Server thread/INFO]: [do_a_barrel_roll] Client of uri1809 accepted server config.
+[02:17:11] [Server thread/INFO]: Levi lost connection: Timed out
+[02:17:11] [Server thread/INFO]: Levi <Overworld> left the game
+[02:17:11] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=266, y=66, z=-113}
+[02:18:43] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[02:18:43] [Server thread/INFO]: Levi[/127.156.208.153:40489] logged in with entity id 15394 at (263.56751509382946, 63.0, -130.69999998807907)
+[02:18:43] [Server thread/INFO]: Sending server config values to client
+[02:18:43] [Server thread/INFO]: Creating new config sync packet
+[02:18:43] [Server thread/INFO]: Loading config from file...
+[02:18:43] [Server thread/INFO]: Levi <Overworld> joined the game
+[02:18:43] [Server thread/WARN]: Skipping Entity with id [invalid]
+[02:18:46] [Server thread/INFO]: Receiving client config
+[02:18:46] [Server thread/INFO]: [ShulkerBoxTooltip] Levi: protocol version: 2.0
+[02:18:46] [Server thread/INFO]: [do_a_barrel_roll] Client of Levi accepted server config.
