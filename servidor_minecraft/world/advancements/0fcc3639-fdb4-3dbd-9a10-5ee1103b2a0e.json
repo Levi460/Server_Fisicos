@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
+    "criteria": {
+      "has_lily_pad": "2025-08-17 02:48:59 +0000"
+    },
+    "done": true
+  },
   "polydecorations:recipes/decorations/hammer": {
     "criteria": {
       "planks": "2025-08-17 02:23:22 +0000"
@@ -2163,6 +2169,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "bayou": "2025-08-17 02:47:48 +0000",
       "dryland": "2025-08-17 02:21:47 +0000",
       "lush_savanna": "2025-08-17 02:39:27 +0000",
       "lush_desert": "2025-08-17 01:44:56 +0000"
