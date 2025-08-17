@@ -1,5 +1,5 @@
-[18:03:28] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[18:03:34] [main/INFO]: Loading 208 mods:
+[21:05:57] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[21:06:03] [main/INFO]: Loading 208 mods:
 	- actuallyharvest 1.1.3.1
 	   \-- spectrelib 0.17.2+1.21
 	- advancednetherite 2.3.0-1.21.5
@@ -228,281 +228,351 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[18:03:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[18:03:35] [main/INFO]: Compatibility level set to JAVA_21
-[18:03:36] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'illagerinvasion.fabric.refmap.json' for illagerinvasion.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/INFO]: Option 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache' requires 'mixin.world.block_entity_ticking=true' but found 'false'. Setting 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache=false'.
-[18:03:36] [main/INFO]: Loaded configuration file for Lithium: 157 options available, 1 override(s) found.
-[18:03:36] [main/WARN]: Reference map 'mixins.medieval_buildings.refmap.fabric.json' for mixins.medieval_buildings.fabric.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'neoforgedatapackextensions.common.refmap.json' for neoforgedatapackextensions.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:36] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[18:03:37] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
-[18:03:37] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
-[18:03:37] [main/WARN]: Error loading class: net/minecraft/class_897 (java.lang.ClassNotFoundException: net/minecraft/class_897)
-[18:03:37] [main/WARN]: @Mixin target net.minecraft.class_897 was not found geckolib.mixins.json:client.EntityRendererMixin from mod geckolib
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.chunk_tickable.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelChunkMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerLevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.crafter.CrafterBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.world_border.DirectBlockEntityTickInvokerMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
-[18:03:37] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
-[18:03:37] [main/WARN]: @Mixin target net.minecraft.class_310 was not found monsters_in_the_closet.mixins.json:MinecraftClientMixin from mod monsters_in_the_closet
-[18:03:37] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[18:03:37] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[18:03:37] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[18:03:38] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[18:03:38] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18:03:40] [main/INFO]: Deserializing URConfig from './config/uselessreptile.json5'
-[18:03:48] [main/INFO]: Initializing platform helper for Advanced Netherite!
-[18:03:48] [main/INFO]: Hello Fabric world!
-[18:03:48] [main/INFO]: Biolith for Fabric is initializing...
-[18:03:48] [main/INFO]: Enabling Biolith's TerraBlender compatibility layer.
-[18:03:49] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
-[18:03:49] [main/INFO]: Loading Collective version 8.3.
-[18:03:49] [main/INFO]: Constructing common components for easymagic:main
-[18:03:49] [main/INFO]: Dispatching loading event for config easymagic-common.toml
-[18:03:49] [main/INFO]: Constructing common components for enchantinginfuser:main
-[18:03:49] [main/INFO]: [STDOUT]: All 26 for exlinecopperequipment have been set properly
-[18:03:49] [main/INFO]: [STDOUT]: Registering Configs for: exlinecopperequipment
-[18:03:49] [main/INFO]: [STDOUT]: Registering Sounds for: exlinecopperequipment
-[18:03:49] [main/INFO]: [STDOUT]: Registering Tool Materials for: exlinecopperequipment
-[18:03:49] [Cicada thread 0/INFO]: [do_a_barrel_roll] Why play a flight sim when you have modded Minecraft?
-[18:03:49] [main/INFO]: [STDOUT]: Registering Items for: exlinecopperequipment
-[18:03:49] [main/INFO]: [STDOUT]: Registering Item Tags for: exlinecopperequipment
-[18:03:49] [main/INFO]: [STDOUT]: Initializing: exlinecopperequipment
-[18:03:49] [main/INFO]: Loaded config farmersdelight-common.json
-[18:03:50] [main/INFO]: Reflections took 223 ms to scan 3 urls, producing 12 keys and 162 values
-[18:03:50] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[18:03:51] [main/INFO]: Initializing Gravestones
-[18:03:51] [main/INFO]: Constructing common components for illagerinvasion:main
-[18:03:51] [main/INFO]: Initializing JamLib on Fabric
-[18:03:51] [main/INFO]: Registering Block Entities for magicmod
-[18:03:51] [main/INFO]: Registering Screen Handlers for magicmod
-[18:03:51] [main/INFO]: Loading...
-[18:03:52] [main/INFO]: Definitely not up to no good
-[18:03:52] [main/INFO]: who invited dafuqs
-[18:03:52] [main/INFO]: Initializing PneumonoCore
-[18:03:52] [main/INFO]: Constructing common components for puzzleslib:main
-[18:03:52] [main/INFO]: Updated config file at /workspaces/Server_Fisicos/servidor_minecraft/config/rightclickharvest.json5
-[18:03:52] [main/INFO]: Initializing Right Click Harvest on FABRIC
-[18:03:52] [main/INFO]: [REI] Registered plugin provider CommonREIPlugin [farmersdelight] for REICommonPlugin
-[18:03:52] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
-[18:03:52] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
-[18:03:52] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
-[18:03:52] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
-[18:03:52] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
-[18:03:52] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
-[18:03:52] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
-[18:03:52] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
-[18:03:52] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
-[18:03:52] [main/INFO]: Burning through Items faster than gacha games through wallets
-[18:03:52] [main/INFO]: Initializing Stardom's Dungeons!
-[18:03:52] [main/INFO]: Registering stardomsdungeons components
-[18:03:52] [main/INFO]: Registering blocks for: stardomsdungeons
-[18:03:52] [main/INFO]: Initializing items...
-[18:03:52] [main/INFO]: Registering item groups for: stardomsdungeons
-[18:03:52] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[18:03:52] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[18:03:52] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[18:03:52] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[18:03:52] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[18:03:52] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[18:03:52] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[18:03:53] [main/INFO]: Registering ModBlocks for netherdungeon
-[18:03:53] [main/INFO]: Registering Mod Items for netherdungeon
-[18:03:53] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[18:03:53] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[18:03:53] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[18:03:53] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[18:03:53] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
-[18:03:53] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
-[18:03:54] [main/INFO]: Constructing common components for visualworkbench:main
-[18:03:54] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
-[18:03:54] [main/INFO]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
-[18:03:54] [main/INFO]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[18:03:54] [main/INFO]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[18:03:54] [main/INFO]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[18:03:54] [main/INFO]: [WTHIT] Initializing common plugin waila:fabric at mcp.mobius.waila.plugin.fabric.FabricCommonPlugin
-[18:03:54] [main/INFO]: [WTHIT] Initializing plugin waystones:wthit at net.blay09.mods.waystones.compat.WTHITIntegration
-[18:03:54] [main/INFO]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[18:03:54] [main/ERROR]: [WTHIT] Found plugins registered via legacy platform-dependant method:
-[18:03:54] [main/ERROR]: [WTHIT] [waystones:wthit]
-[18:03:54] [main/INFO]: [WTHIT] Plugin config reloaded
-[18:03:54] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18:03:54] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[18:03:54] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:03:55] [main/WARN]: Any alias warnings about trim_material which follow this message are harmless.
-[18:03:55] [main/WARN]: Adding cinderscapes:sulfur_quartz as an alias for cinderscapes:cinderscapes_sulfur_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
-[18:03:55] [main/WARN]: Adding cinderscapes:smoky_quartz as an alias for cinderscapes:cinderscapes_smoky_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
-[18:03:55] [main/WARN]: Adding cinderscapes:rose_quartz as an alias for cinderscapes:cinderscapes_rose_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
-[18:03:58] [Worker-Main-2/ERROR]: Invalid path in mod resource-pack watching: lunareclipse.watching:function/THIS IS NOT A BUG IT IS INTENTIONAL - $FTF_DATAPACK.mcfunction, ignoring
-[18:03:58] [Worker-Main-1/ERROR]: Couldn't parse data file 'exlinecopperequipment:copper_hammer_recipe' from 'exlinecopperequipment:recipe/copper_hammer_recipe.json': DataResult.Error['Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: warhammersmod:hammer_copper']
-[18:03:58] [Worker-Main-1/ERROR]: Couldn't parse data file 'exlinecopperequipment:copper_nugget_from_blasting' from 'exlinecopperequipment:recipe/copper_nugget_from_blasting.json': DataResult.Error['Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_boots; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_leggings; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_chestplate; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_helmet': net.minecraft.class_3859@1071c0a7]
-[18:03:58] [Worker-Main-1/ERROR]: Couldn't parse data file 'exlinecopperequipment:copper_nugget_recipe' from 'exlinecopperequipment:recipe/copper_nugget_recipe.json': DataResult.Error['List is too short: 0, expected range [1-9]; No key id in MapLike[{"item":"exlinecopperequipment:copper_nugget","count":9}]']
-[18:03:58] [Worker-Main-1/WARN]: Found data map file for non-existent data map type 'neoforge:compostables' on registry 'minecraft:item'.
-[18:03:59] [main/INFO]: Loaded 3681 recipes
-[18:03:59] [main/INFO]: Loaded 3899 advancements
-[18:03:59] [main/WARN]: Recipe polydecorations:canvas_clone can't be placed due to empty ingredients and will be ignored
-[18:04:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[18:04:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[18:04:00] [main/INFO]: Applied 2810 biome modifications to 253 of 253 new biomes in 261.0 ms
-[18:04:00] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
-[18:04:00] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
-[18:04:00] [Server thread/INFO]: Dispatching loading event for config illagerinvasion-server.toml
-[18:04:00] [Server thread/INFO]: Loading server configs...
-[18:04:00] [Server thread/INFO]: [Grind Enchantments] Reading server config.
-[18:04:00] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
-[18:04:00] [Server thread/INFO]: [WTHIT] Plugin config reloaded
-[18:04:00] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[18:04:00] [Server thread/INFO]: Loading properties
-[18:04:00] [Server thread/INFO]: Default game type: SURVIVAL
-[18:04:00] [Server thread/INFO]: Generating keypair
-[18:04:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:04:00] [Server thread/INFO]: Using epoll channel type
-[18:04:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:04:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:04:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:04:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:04:00] [Server thread/INFO]: Preparing level "world"
-[18:04:01] [Server thread/INFO]: Ignoring world 'cavernous:the_myst'; unknown dimension type: cavernous:the_myst
-[18:04:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:18] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:04:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[18:04:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[18:04:19] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[18:04:20] [Server thread/INFO]: Time elapsed: 18340 ms
-[18:04:20] [Server thread/INFO]: Done (19.329s)! For help, type "help"
-[18:04:20] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[18:04:20] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
-[18:04:20] [Server thread/INFO]: [REI] Plugins (4):
-[18:04:20] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[18:04:20] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[18:04:20] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[18:04:20] [Server thread/INFO]: [REI]  - (0.00) CommonREIPlugin of CommonREIPlugin [farmersdelight]
-[18:04:20] [Server thread/INFO]: [REI] ++++++++++++++++++++++++++++++++++++++++
-[18:04:20] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 1.936 ms, totaling 75.27 ms.
-[18:04:20] [Server thread/INFO]: [REI] ****************************************
-[18:04:20] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
-[18:04:20] [Server thread/INFO]: [REI] Plugins (4):
-[18:04:20] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
-[18:04:20] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
-[18:04:20] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
-[18:04:20] [Server thread/INFO]: [REI]  - (0.00) CommonREIPlugin of CommonREIPlugin [farmersdelight]
-[18:04:20] [Server thread/INFO]: [REI] ****************************************
-[18:04:20] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 952.2 μs, totaling 113.3 ms.
-[18:04:20] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
-[18:04:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
-[18:04:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
-[18:04:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
-[18:04:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
-[18:04:20] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
-[18:04:20] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
-[18:04:20] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
-[18:04:20] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18:04:20] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[18:04:55] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[18:04:55] [Server thread/INFO]: Levi[/127.156.208.153:46831] logged in with entity id 13 at (-1221.237500011921, 166.0, -298.19903327463976)
-[18:04:55] [Server thread/INFO]: Sending server config values to client
-[18:04:55] [Server thread/INFO]: Creating new config sync packet
-[18:04:55] [Server thread/INFO]: Loading config from file...
-[18:04:55] [Server thread/INFO]: Levi <Overworld> joined the game
-[18:04:55] [Server thread/WARN]: Skipping Entity with id [invalid]
-[18:04:57] [Server thread/INFO]: Receiving client config
-[18:04:57] [Server thread/INFO]: [ShulkerBoxTooltip] Levi: protocol version: 2.0
-[18:04:57] [Server thread/INFO]: [do_a_barrel_roll] Client of Levi accepted server config.
-[18:04:57] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
-[18:04:57] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
-[18:04:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
-[18:05:03] [Server thread/INFO]: Levi <Overworld> was shot by Pillager
-[18:05:03] [Server thread/INFO]: Placed Levi's Gravestone at (-1226, 165, -299)
-[18:05:15] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[18:05:16] [Server thread/INFO]: [do_a_barrel_roll] Client of Levi accepted server config.
-[18:07:18] [Worker-Main-3/WARN]: Empty height range: [-20 absolute-5 above bottom]
-[18:09:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2253ms or 45 ticks behind
-[18:09:24] [Worker-Main-2/ERROR]: Failed to read field (UUID={L:-6119367956657713823L,M:1544577469002695872L}): Not a list
-[18:09:24] [Worker-Main-2/ERROR]: Failed to read field (UUID={L:-6119367956657713823L,M:1544577469002695872L}): Not a list
-[18:09:26] [Server thread/WARN]: Levi moved too quickly! -8.934983715587691,0.10603562014750878,-4.823162789436424
-[18:12:38] [Server thread/INFO]: Levi <Overworld> hit the ground too hard
-[18:12:38] [Server thread/INFO]: Placed Levi's Gravestone at (-1252, 168, -324)
-[18:12:40] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
-[18:12:41] [Server thread/INFO]: [do_a_barrel_roll] Client of Levi accepted server config.
-[18:12:58] [Server thread/INFO]: [Levi <Overworld>: Set own game mode to Creative Mode]
-[18:14:22] [Server thread/INFO]: Levi has found their grave at class_2338{x=-1252, y=168, z=-324}
-[18:14:48] [Server thread/INFO]: Villager class_1646['Unemployed'/11257, l='ServerLevel[world]', x=-1349.51, y=172.00, z=-458.12] died, message: 'Unemployed was shot by Pillager'
-[18:15:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3756ms or 75 ticks behind
-[18:15:22] [Server thread/INFO]: Villager class_1646['Butcher'/11254, l='ServerLevel[world]', x=-1337.65, y=175.00, z=-466.70] died, message: 'Butcher was shot by Pillager'
-[18:15:47] [Server thread/INFO]: Villager class_1646['Butcher'/11294, l='ServerLevel[world]', x=-1384.98, y=176.00, z=-479.96] died, message: 'Butcher was shot by Pillager'
-[18:15:56] [Server thread/INFO]: Levi lost connection: Disconnected
-[18:15:56] [Server thread/INFO]: Levi <Overworld> left the game
-[18:16:05] [Server thread/INFO]: Stopping the server
-[18:16:05] [Server thread/INFO]: Stopping server
-[18:16:05] [Server thread/INFO]: Saving players
-[18:16:05] [Server thread/INFO]: Saving worlds
-[18:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[18:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/cavernous:the_myst
-[18:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[18:16:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[18:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[18:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_myst): All chunks are saved
-[18:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18:16:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18:16:05] [Server thread/INFO]: Unloading server configs...
-[18:16:05] [Server thread/INFO]: Sending config unload event for refurbished_furniture.server.toml
-[18:16:05] [Server thread/INFO]: Sending config unload event for goblintraders-entities.toml
-[18:16:05] [Server thread/INFO]: Finished unloading server configs
-[18:16:05] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
-[18:16:05] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
-[18:16:05] [Server thread/INFO]: Dispatching unloading event for config illagerinvasion-server.toml
+[21:06:04] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:06:04] [main/INFO]: Compatibility level set to JAVA_21
+[21:06:04] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'do_a_barrel_roll.refmap.json' for do_a_barrel_roll.compat.modmenu.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'illagerinvasion.fabric.refmap.json' for illagerinvasion.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/INFO]: Option 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache' requires 'mixin.world.block_entity_ticking=true' but found 'false'. Setting 'mixin.minimal_nonvanilla.world.block_entity_ticking.support_cache=false'.
+[21:06:04] [main/INFO]: Loaded configuration file for Lithium: 157 options available, 1 override(s) found.
+[21:06:04] [main/WARN]: Reference map 'mixins.medieval_buildings.refmap.fabric.json' for mixins.medieval_buildings.fabric.json could not be read. If this is a development environment you can ignore this message
+[21:06:04] [main/WARN]: Reference map 'neoforgedatapackextensions.common.refmap.json' for neoforgedatapackextensions.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:05] [main/WARN]: Reference map 'visualworkbench.fabric.refmap.json' for visualworkbench.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:05] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:05] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:06:06] [main/WARN]: Error loading class: net/minecraft/class_9934 (java.lang.ClassNotFoundException: net/minecraft/class_9934)
+[21:06:06] [main/WARN]: @Mixin target net.minecraft.class_9934 was not found farmersdelight.mixins.json:refabricated.GhostSlotsInvoker from mod farmersdelight
+[21:06:06] [main/WARN]: Error loading class: net/minecraft/class_897 (java.lang.ClassNotFoundException: net/minecraft/class_897)
+[21:06:06] [main/WARN]: @Mixin target net.minecraft.class_897 was not found geckolib.mixins.json:client.EntityRendererMixin from mod geckolib
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.chunk_tickable.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.BlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelChunkMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.LevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.ServerLevelMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.WrappedBlockEntityTickInvokerAccessor' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.brewing_stand.BrewingStandBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.lit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.campfire.unlit.CampfireBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.crafter.CrafterBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.furnace.AbstractFurnaceBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.hopper.HopperBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.sleeping.shulker_box.ShulkerBoxBlockEntityMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/INFO]: Force-disabling mixin 'world.block_entity_ticking.world_border.DirectBlockEntityTickInvokerMixin' as rule 'mixin.world.block_entity_ticking' (added by mods [smelterhedgehog]) disables it and children
+[21:06:06] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[21:06:06] [main/WARN]: @Mixin target net.minecraft.class_310 was not found monsters_in_the_closet.mixins.json:MinecraftClientMixin from mod monsters_in_the_closet
+[21:06:06] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[21:06:06] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[21:06:06] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[21:06:06] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[21:06:07] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:06:09] [main/INFO]: Deserializing URConfig from './config/uselessreptile.json5'
+[21:06:16] [main/INFO]: Initializing platform helper for Advanced Netherite!
+[21:06:16] [main/INFO]: Hello Fabric world!
+[21:06:16] [main/INFO]: Biolith for Fabric is initializing...
+[21:06:16] [main/INFO]: Enabling Biolith's TerraBlender compatibility layer.
+[21:06:17] [main/INFO]: Enabling Cinderscapes' Biolith worldgen module.
+[21:06:17] [main/INFO]: Loading Collective version 8.3.
+[21:06:17] [main/INFO]: Constructing common components for easymagic:main
+[21:06:17] [main/INFO]: Dispatching loading event for config easymagic-common.toml
+[21:06:18] [main/INFO]: Constructing common components for enchantinginfuser:main
+[21:06:18] [main/INFO]: [STDOUT]: All 26 for exlinecopperequipment have been set properly
+[21:06:18] [main/INFO]: [STDOUT]: Registering Configs for: exlinecopperequipment
+[21:06:18] [main/INFO]: [STDOUT]: Registering Sounds for: exlinecopperequipment
+[21:06:18] [main/INFO]: [STDOUT]: Registering Tool Materials for: exlinecopperequipment
+[21:06:18] [main/INFO]: [STDOUT]: Registering Items for: exlinecopperequipment
+[21:06:18] [main/INFO]: [STDOUT]: Registering Item Tags for: exlinecopperequipment
+[21:06:18] [main/INFO]: [STDOUT]: Initializing: exlinecopperequipment
+[21:06:18] [main/INFO]: Loaded config farmersdelight-common.json
+[21:06:18] [Cicada thread 0/INFO]: 'I AM THE EGGEST OF THEM ALL' - Louise_DS (she/her)
+[21:06:18] [main/INFO]: Reflections took 344 ms to scan 3 urls, producing 12 keys and 162 values
+[21:06:19] [main/INFO]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[21:06:20] [main/INFO]: Initializing Gravestones
+[21:06:20] [main/INFO]: Constructing common components for illagerinvasion:main
+[21:06:20] [main/INFO]: Initializing JamLib on Fabric
+[21:06:20] [main/INFO]: Registering Block Entities for magicmod
+[21:06:20] [main/INFO]: Registering Screen Handlers for magicmod
+[21:06:20] [main/INFO]: Loading...
+[21:06:21] [main/INFO]: Definitely not up to no good
+[21:06:21] [main/INFO]: who invited dafuqs
+[21:06:21] [main/INFO]: Initializing PneumonoCore
+[21:06:21] [main/INFO]: Constructing common components for puzzleslib:main
+[21:06:21] [main/INFO]: Updated config file at /workspaces/Server_Fisicos/servidor_minecraft/config/rightclickharvest.json5
+[21:06:21] [main/INFO]: Initializing Right Click Harvest on FABRIC
+[21:06:21] [main/INFO]: [REI] Registered plugin provider CommonREIPlugin [farmersdelight] for REICommonPlugin
+[21:06:21] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:request_tags_c2s
+[21:06:21] [main/INFO]: [REI] Registered plugin provider DefaultPlugin [roughlyenoughitems] for REICommonPlugin
+[21:06:21] [main/INFO]: [REI] Registered plugin provider DefaultRuntimePlugin [roughlyenoughitems] for REICommonPlugin
+[21:06:21] [main/INFO]: [REI] Registered plugin provider FabricFluidAPISupportPlugin for REICommonPlugin
+[21:06:21] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:delete_item
+[21:06:21] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item
+[21:06:21] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_grab
+[21:06:21] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:create_item_hotbar
+[21:06:21] [main/INFO]: Registering C2S receiver with id roughlyenoughitems:move_items_new
+[21:06:21] [main/INFO]: Burning through Items faster than gacha games through wallets
+[21:06:21] [main/INFO]: Initializing Stardom's Dungeons!
+[21:06:21] [main/INFO]: Registering stardomsdungeons components
+[21:06:21] [main/INFO]: Registering blocks for: stardomsdungeons
+[21:06:21] [main/INFO]: Initializing items...
+[21:06:21] [main/INFO]: Registering item groups for: stardomsdungeons
+[21:06:21] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:06:21] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:06:21] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[21:06:21] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[21:06:21] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[21:06:21] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[21:06:21] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[21:06:22] [main/INFO]: Registering ModBlocks for netherdungeon
+[21:06:22] [main/INFO]: Registering Mod Items for netherdungeon
+[21:06:22] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[21:06:22] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[21:06:22] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[21:06:22] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[21:06:22] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[21:06:22] [main/INFO]: Deserializing URMobAttributesConfig from './config/uselessreptile_mob_attributes.json5'
+[21:06:22] [main/INFO]: Constructing common components for visualworkbench:main
+[21:06:22] [main/INFO]: Dispatching loading event for config visualworkbench-common.toml
+[21:06:23] [main/INFO]: [WTHIT] Initializing plugin waystones:plugin at net.blay09.mods.waystones.compat.WTHITIntegration
+[21:06:23] [main/INFO]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[21:06:23] [main/INFO]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[21:06:23] [main/INFO]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[21:06:23] [main/INFO]: [WTHIT] Initializing common plugin waila:fabric at mcp.mobius.waila.plugin.fabric.FabricCommonPlugin
+[21:06:23] [main/INFO]: [WTHIT] Initializing plugin waystones:wthit at net.blay09.mods.waystones.compat.WTHITIntegration
+[21:06:23] [main/INFO]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[21:06:23] [main/ERROR]: [WTHIT] Found plugins registered via legacy platform-dependant method:
+[21:06:23] [main/ERROR]: [WTHIT] [waystones:wthit]
+[21:06:23] [main/INFO]: [WTHIT] Plugin config reloaded
+[21:06:23] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[21:06:23] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[21:06:23] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:06:23] [main/INFO]: Found new data pack advancednetherite, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack balm, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack betterendcitiesvanilla, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack biomesoplenty, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack carryon, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack cavernousremastered_v2_2_2__1_21_5_, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack chococraft, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack cinderscapes-common, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack collective, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack comforts, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack easymagic, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack elevatorid, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack enchantinginfuser, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack exlinecopperequipment, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack fabric, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack fabric-convention-tags-v2, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack farmersdelight, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack goblintraders, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack gravestones, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack hopobetterruinedportal, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack illagerinvasion, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack justhammers, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack lithostitched, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack magicmod, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mcwfences, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mcwpaintings, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack medieval_buildings, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack medievalend, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mes, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mr_builders_wand, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mr_deadly_deadlydungeon, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mr_dungeons_andtaverns, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mr_katters_structuresonlydungeon, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mr_mob_heads, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mr_mr_chibismmo_dungeons, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack mss, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack naturescompass, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack polydecorations, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack refurbished_furniture, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack repurposed_structures, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack rightclickharvest, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack roguelike, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack stardomsdungeons, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack tectonic:tectonic, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack terrablender, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack terralith, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack thenetherdungeon, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack toms_mobs, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack travelersbackpack, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack uselessreptile, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack visualworkbench, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack waddles, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack walljump, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack walljump/enchantments, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack watching, loading it automatically
+[21:06:23] [main/INFO]: Found new data pack waystones, loading it automatically
+[21:06:24] [main/WARN]: Any alias warnings about trim_material which follow this message are harmless.
+[21:06:24] [main/WARN]: Adding cinderscapes:sulfur_quartz as an alias for cinderscapes:cinderscapes_sulfur_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
+[21:06:24] [main/WARN]: Adding cinderscapes:rose_quartz as an alias for cinderscapes:cinderscapes_rose_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
+[21:06:24] [main/WARN]: Adding cinderscapes:smoky_quartz as an alias for cinderscapes:cinderscapes_smoky_quartz, but the latter doesn't exist in registry ResourceKey[minecraft:root / minecraft:trim_material]
+[21:06:25] [main/INFO]: No existing world data, creating new world
+[21:06:25] [main/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[21:06:26] [Worker-Main-2/ERROR]: Invalid path in mod resource-pack watching: lunareclipse.watching:function/THIS IS NOT A BUG IT IS INTENTIONAL - $FTF_DATAPACK.mcfunction, ignoring
+[21:06:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'exlinecopperequipment:copper_hammer_recipe' from 'exlinecopperequipment:recipe/copper_hammer_recipe.json': DataResult.Error['Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: warhammersmod:hammer_copper']
+[21:06:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'exlinecopperequipment:copper_nugget_from_blasting' from 'exlinecopperequipment:recipe/copper_nugget_from_blasting.json': DataResult.Error['Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_boots; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_leggings; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_chestplate; Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: exlinecopperequipment:wethered_copper_helmet': net.minecraft.class_3859@1ac56562]
+[21:06:27] [Worker-Main-1/ERROR]: Couldn't parse data file 'exlinecopperequipment:copper_nugget_recipe' from 'exlinecopperequipment:recipe/copper_nugget_recipe.json': DataResult.Error['List is too short: 0, expected range [1-9]; No key id in MapLike[{"item":"exlinecopperequipment:copper_nugget","count":9}]']
+[21:06:27] [Worker-Main-1/WARN]: Found data map file for non-existent data map type 'neoforge:compostables' on registry 'minecraft:item'.
+[21:06:27] [main/INFO]: Loaded 3681 recipes
+[21:06:27] [main/INFO]: Loaded 3899 advancements
+[21:06:28] [main/WARN]: Recipe polydecorations:canvas_clone can't be placed due to empty ingredients and will be ignored
+[21:06:28] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21:06:28] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21:06:29] [main/INFO]: Applied 2810 biome modifications to 253 of 253 new biomes in 289.7 ms
+[21:06:29] [Server thread/INFO]: Dispatching loading event for config easymagic-server.toml
+[21:06:29] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[21:06:29] [Server thread/INFO]: Dispatching loading event for config illagerinvasion-server.toml
+[21:06:29] [Server thread/INFO]: Loading server configs...
+[21:06:29] [Server thread/INFO]: [Grind Enchantments] Reading server config.
+[21:06:29] [Server thread/INFO]: [puffish_skills] Mod configuration loaded successfully!
+[21:06:29] [Server thread/INFO]: [WTHIT] Plugin config reloaded
+[21:06:29] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[21:06:29] [Server thread/INFO]: Loading properties
+[21:06:29] [Server thread/INFO]: Default game type: SURVIVAL
+[21:06:29] [Server thread/INFO]: Generating keypair
+[21:06:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:06:29] [Server thread/INFO]: Using epoll channel type
+[21:06:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:06:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:06:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:06:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:06:29] [Server thread/INFO]: Preparing level "world"
+[21:07:18] [Worker-Main-2/WARN]: Empty height range: [-20 absolute-5 above bottom]
+[21:07:26] [Server thread/INFO]: Ignoring world 'cavernous:the_myst'; unknown dimension type: cavernous:the_myst
+[21:07:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:32] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:33] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:33] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:34] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:07:35] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:07:35] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:35] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:07:36] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:36] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:37] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:37] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:38] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:07:38] [Worker-Main-3/INFO]: Preparing spawn area: 2%
+[21:07:39] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:07:39] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:07:40] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:07:40] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:07:41] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:07:41] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:07:42] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:07:42] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:07:43] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:07:43] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:07:44] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:44] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:45] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:46] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:47] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:07:47] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:48] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:07:48] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:07:49] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:07:49] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:07:50] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:07:50] [Server thread/INFO]: Time elapsed: 24274 ms
+[21:07:50] [Server thread/INFO]: Done (80.944s)! For help, type "help"
+[21:07:50] [Server thread/INFO]: [REI] ****************************************
+[21:07:50] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for START.
+[21:07:50] [Server thread/INFO]: [REI] Plugins (4):
+[21:07:50] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[21:07:50] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[21:07:50] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[21:07:50] [Server thread/INFO]: [REI]  - (0.00) CommonREIPlugin of CommonREIPlugin [farmersdelight]
+[21:07:50] [Server thread/INFO]: [REI] ****************************************
+[21:07:50] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for START in 2.195 ms, totaling 89.30 ms.
+[21:07:50] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[21:07:50] [Server thread/INFO]: [REI] REICommonPlugin starting main-reload for END.
+[21:07:50] [Server thread/INFO]: [REI] Plugins (4):
+[21:07:50] [Server thread/INFO]: [REI]  - (-100.00) DefaultPlugin of DefaultPlugin [roughlyenoughitems]
+[21:07:50] [Server thread/INFO]: [REI]  - (0.00) FabricFluidAPISupportPlugin
+[21:07:50] [Server thread/INFO]: [REI]  - (0.00) DefaultRuntimePlugin of DefaultRuntimePlugin [roughlyenoughitems]
+[21:07:50] [Server thread/INFO]: [REI]  - (0.00) CommonREIPlugin of CommonREIPlugin [farmersdelight]
+[21:07:50] [Server thread/INFO]: [REI] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[21:07:50] [Server thread/INFO]: [REI] REICommonPlugin finished post-reload for END in 1.397 ms, totaling 120.9 ms.
+[21:07:50] [Server thread/INFO]: Start loading plugin from Balm: net.blay09.mods.balm.fabric.compat.hudinfo.FabricJadeModCompat
+[21:07:50] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.core.CorePlugin
+[21:07:50] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.vanilla.VanillaPlugin
+[21:07:50] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.universal.UniversalPlugin
+[21:07:50] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.access.AccessibilityPlugin
+[21:07:50] [Server thread/INFO]: Start loading plugin from Jade: snownee.jade.addon.debug.DebugPlugin
+[21:07:50] [Server thread/INFO]: Start loading plugin from Polymer (Core): eu.pb4.polymer.core.impl.client.compat.JadeCompatibility
+[21:07:50] [Server thread/INFO]: Start loading plugin from Waystones: net.blay09.mods.waystones.compat.JadeIntegration
+[21:07:50] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[21:07:50] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[21:08:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[21:09:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@26390c79[id=fc3ea401-e16d-3287-983e-d45014a14357,name=Minu_,properties={}] lost connection: This server requires Fabric API installed on your client!
+The following registry entry namespaces may be related:
+
+advancednetherite
+biomesoplenty
+brigadier
+chococraft
+And 26 more...
+
+Contact the server's administrator for more information!
+[21:09:57] [Server thread/WARN]: handleDisconnection() called twice
+[21:12:40] [Server thread/INFO]: Minu_[/127.129.239.226:36629] logged in with entity id 437 at (9.5, 104.0, 1.5)
+[21:12:40] [Server thread/INFO]: Sending server config values to client
+[21:12:40] [Server thread/INFO]: Creating new config sync packet
+[21:12:40] [Server thread/INFO]: Loading config from file...
+[21:12:40] [Server thread/INFO]: Minu_ <Overworld> joined the game
+[21:12:40] [Server thread/INFO]: Minu_ <Overworld> has made the advancement [Useless Reptile]
+[21:12:42] [Server thread/INFO]: Receiving client config
+[21:12:42] [Server thread/INFO]: [ShulkerBoxTooltip] Minu_: protocol version: 2.0
+[21:12:42] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Loading 1 plugin: shulkerboxtooltip
+[21:12:42] [Server thread/INFO]: [ShulkerBoxTooltip Plugins] Registered 31 providers for mod shulkerboxtooltip
+[21:12:42] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu_ accepted server config.
+[21:13:03] [Server thread/INFO]: Minu_ <Overworld> has made the advancement [Rotten Discoveries]
+[21:13:10] [Server thread/INFO]: Minu[/127.129.239.226:48179] logged in with entity id 1605 at (6.5, 104.0, 4.5)
+[21:13:10] [Server thread/INFO]: Sending server config values to client
+[21:13:10] [Server thread/INFO]: Creating new config sync packet
+[21:13:10] [Server thread/INFO]: Loading config from file...
+[21:13:10] [Server thread/INFO]: Minu <Overworld> joined the game
+[21:13:10] [Server thread/INFO]: Minu <Overworld> has made the advancement [Useless Reptile]
+[21:13:11] [Server thread/INFO]: Receiving client config
+[21:13:11] [Server thread/INFO]: [ShulkerBoxTooltip] Minu: protocol version: 2.0
+[21:13:12] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
+[21:13:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4612ms or 92 ticks behind
+[21:13:39] [Server thread/INFO]: Minu <Overworld> was slain by Zombie
+[21:13:39] [Server thread/INFO]: Placed Minu's Gravestone at (-19, 103, 19)
+[21:13:40] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[21:13:40] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
+[21:13:47] [Server thread/INFO]: Bucles[/127.77.246.97:55775] logged in with entity id 2724 at (22.5, 105.0, -7.5)
+[21:13:47] [Server thread/INFO]: Sending server config values to client
+[21:13:47] [Server thread/INFO]: Creating new config sync packet
+[21:13:47] [Server thread/INFO]: Loading config from file...
+[21:13:47] [Server thread/INFO]: Bucles <Overworld> joined the game
+[21:13:47] [Server thread/INFO]: Bucles <Overworld> has made the advancement [Useless Reptile]
+[21:13:49] [Server thread/INFO]: Receiving client config
+[21:13:49] [Server thread/INFO]: [ShulkerBoxTooltip] Bucles: protocol version: 2.0
+[21:13:49] [Server thread/INFO]: [do_a_barrel_roll] Client of Bucles accepted server config.
+[21:14:08] [Server thread/INFO]: Minu_ <Overworld> was slain by Zombie
+[21:14:08] [Server thread/INFO]: Placed Minu_'s Gravestone at (22, 108, 15)
+[21:14:12] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[21:14:12] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu_ accepted server config.
+[21:15:40] [Server thread/INFO]: Bucles <Overworld> has made the advancement [Safe Haven]
+[21:15:43] [Server thread/INFO]: Minu_ <Overworld> has made the advancement [Safe Haven]
