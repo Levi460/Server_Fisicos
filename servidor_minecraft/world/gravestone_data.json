@@ -119,6 +119,36 @@
         "posY": 0,
         "posZ": 0
       }
+    },
+    {
+      "owner": "74285474-a1f8-31f4-9bb7-252147bc9f08",
+      "firstGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 14,
+        "posY": 101,
+        "posZ": -15
+      },
+      "secondGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0
+      },
+      "thirdGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 0,
+        "posY": 0,
+        "posZ": 0
+      }
     }
   ]
 }

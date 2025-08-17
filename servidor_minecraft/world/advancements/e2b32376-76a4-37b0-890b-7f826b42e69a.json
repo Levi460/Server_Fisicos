@@ -4144,5 +4144,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 23:34:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
