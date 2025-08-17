@@ -3231,5 +3231,17 @@
     },
     "done": true
   },
+  "stardomsdungeons:dungeons/zombie": {
+    "criteria": {
+      "visit_zombie_dungeon": "2025-08-17 23:47:28 +0000"
+    },
+    "done": true
+  },
+  "stardomsdungeons:dungeons/all_dungeons": {
+    "criteria": {
+      "stardomsdungeons:zombie_dungeon": "2025-08-17 23:47:28 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 4325
 }
