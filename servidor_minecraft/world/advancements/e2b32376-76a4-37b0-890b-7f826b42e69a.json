@@ -1021,9 +1021,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "biomesoplenty:recipes/building_blocks/palm_planks": {
     "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
+      "has_logs": "2025-08-17 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-08-17 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_wood": {
+    "criteria": {
+      "has_log": "2025-08-17 01:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-08-17 01:51:49 +0000"
     },
     "done": true
   },
@@ -1039,18 +1057,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_orange_sandstone_from_orange_sandstone_stonecutting": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_orange_sandstone_from_orange_sandstone_stonecutting": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
@@ -1063,51 +1069,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/spatula": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_lattice_fence_gate": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_sandstone_slab_from_orange_sandstone_stonecutting": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-08-17 02:23:09 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
     },
     "done": true
   },
@@ -1117,209 +1081,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-08-17 02:22:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-08-17 01:53:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/chicken_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "cavernous:crafting/torch_arrow": {
-    "criteria": {
-      "unlocked": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
-    "criteria": {
-      "fried_egg": "2025-08-17 02:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-08-17 01:53:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-08-17 02:19:33 +0000",
-      "minecraft:spider": "2025-08-17 02:16:41 +0000",
-      "minecraft:husk": "2025-08-17 02:16:57 +0000"
-    },
-    "done": false
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence_gate": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_sandstone_stairs_from_orange_sandstone_stonecutting": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/baked_cod_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-17 01:53:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-08-17 02:26:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "cavernous:root": {
-    "criteria": {
-      "makepickaxe": "2025-08-17 02:04:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-17 01:53:40 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/chicken": {
-    "criteria": {
-      "has_feather": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_planks": {
-    "criteria": {
-      "has_logs": "2025-08-17 01:51:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
-    "criteria": {
-      "has_orange_sand": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_sandstone_wall_from_orange_sandstone_stonecutting": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
-    "criteria": {
-      "has_feather": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef_from_smoking": {
-    "criteria": {
-      "has_beef": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/palm_button": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
-    "criteria": {
-      "has_tomato": "2025-08-17 01:53:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-08-17 02:22:14 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/skeleton": {
-    "criteria": {
-      "has_arrow": "2025-08-17 02:19:35 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
-    "criteria": {
-      "has_minecraft:leather": "2025-08-17 02:20:50 +0000"
     },
     "done": true
   },
@@ -1347,45 +1117,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-08-17 01:51:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
   "magicmod:recipes/combat/broom": {
     "criteria": {
       "has_stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_wood": {
-    "criteria": {
-      "has_log": "2025-08-17 01:51:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/palm_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
     },
     "done": true
   },
@@ -1395,39 +1129,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/pine_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2025-08-17 02:19:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/palm_fence": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
     },
     "done": true
   },
@@ -1437,57 +1141,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/pale_oak_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/palm_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2025-08-17 02:22:14 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence_gate": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/palm_door": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/palm_slab": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_beef": {
-    "criteria": {
-      "has_beef": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
@@ -1497,63 +1153,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2025-08-17 02:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-08-17 02:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_orange_sandstone_slab_from_orange_sandstone_stonecutting": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_pickaxe": "2025-08-17 02:22:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-17 01:52:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_feather": "2025-08-17 02:21:48 +0000"
     },
     "done": true
   },
@@ -1569,153 +1177,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/orange_sandstone_wall": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2025-08-17 01:53:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/maple_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/knife": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-08-17 01:53:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cherry_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-17 02:21:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/palm_sign": {
-    "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
-    "criteria": {
-      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/wrench": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-17 02:16:42 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence_gate": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
-    },
-    "done": true
-  },
-  "cavernous:crafting/chain_arrow": {
-    "criteria": {
-      "unlocked": "2025-08-17 02:21:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-08-17 02:16:42 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/jacaranda_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-17 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/mahogany_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blank_upgrade": {
-    "criteria": {
-      "has_leather": "2025-08-17 02:20:50 +0000"
     },
     "done": true
   },
@@ -1731,24 +1201,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/palm_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/empyreal_boat": {
-    "criteria": {
-      "in_water": "2025-08-17 01:54:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_golden_knife": "2025-08-17 02:22:14 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_lattice_fence": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
@@ -1761,9 +1213,63 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+  "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
-      "has_tiny_cactus": "2025-08-17 02:23:39 +0000"
+      "has_stick": "2025-08-17 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "gravestones:recipes/decorations/gravestone": {
+    "criteria": {
+      "has_stick": "2025-08-17 01:52:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2025-08-17 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-17 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-17 01:53:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-08-17 01:53:40 +0000"
     },
     "done": true
   },
@@ -1785,63 +1291,141 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "minecraft:spider": "2025-08-17 02:16:41 +0000"
+      "consumed_item": "2025-08-17 01:53:45 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/palm_stairs": {
+  "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
-      "has_cooked_chicken": "2025-08-17 02:23:09 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/cutting_board": {
+  "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
-      "has_stick": "2025-08-17 01:52:38 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
-      "cooked_beef": "2025-08-17 02:23:17 +0000"
-    },
-    "done": false
-  },
-  "refurbished_furniture:recipes/misc/constructing/warped_lattice_fence": {
-    "criteria": {
-      "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_lattice_fence_gate": {
+  "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
-      "has_minecraft:stick": "2025-08-17 01:52:38 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
-      "crafting_table": "2025-08-17 01:51:49 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/palm_pressure_plate": {
+  "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
-      "has_planks": "2025-08-17 02:14:41 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_planks": {
+  "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "has_log": "2025-08-17 02:19:20 +0000"
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/pale_oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-08-17 01:54:07 +0000"
     },
     "done": true
   },
@@ -1851,9 +1435,287 @@
     },
     "done": true
   },
-  "gravestones:recipes/decorations/gravestone": {
+  "cavernous:root": {
     "criteria": {
-      "has_stick": "2025-08-17 01:52:38 +0000"
+      "makepickaxe": "2025-08-17 02:04:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_orange_sandstone_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_orange_sandstone_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_sandstone_slab_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/cut_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/smooth_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_sandstone_stairs_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_orange_sand": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_sandstone_wall_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_orange_sandstone_slab_from_orange_sandstone_stonecutting": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/orange_sandstone_wall": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
+    "criteria": {
+      "has_orange_sandstone": "2025-08-17 02:14:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_button": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/palm_fence": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_door": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_slab": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/palm_sign": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/palm_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/palm_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-17 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-17 02:19:33 +0000",
+      "minecraft:spider": "2025-08-17 02:16:41 +0000",
+      "minecraft:husk": "2025-08-17 02:16:57 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-08-17 02:16:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-17 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-17 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-08-17 02:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-08-17 02:19:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-17 02:19:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/spatula": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/frying_pan": {
+    "criteria": {
+      "has_minecraft:leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/knife": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/wrench": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_leather": "2025-08-17 02:20:50 +0000"
     },
     "done": true
   },
@@ -1863,9 +1725,147 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "cavernous:crafting/torch_arrow": {
+    "criteria": {
+      "unlocked": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "cavernous:crafting/chain_arrow": {
+    "criteria": {
+      "unlocked": "2025-08-17 02:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 02:21:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 02:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 02:21:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 02:21:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2025-08-17 02:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-17 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-17 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-17 02:22:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-08-17 02:22:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-17 02:22:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-17 02:23:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-17 02:23:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-08-17 02:23:17 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/green_dye_from_tiny_cactus": {
+    "criteria": {
+      "has_tiny_cactus": "2025-08-17 02:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-17 02:26:59 +0000"
     },
     "done": true
   },
