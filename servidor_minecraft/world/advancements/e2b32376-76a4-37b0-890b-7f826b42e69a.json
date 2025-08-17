@@ -73,6 +73,7 @@
       "dryland": "2025-08-17 21:23:58 +0000",
       "overgrown_greens": "2025-08-17 22:16:53 +0000",
       "wasteland": "2025-08-17 21:52:21 +0000",
+      "shrubland": "2025-08-17 22:42:26 +0000",
       "highland": "2025-08-17 22:17:54 +0000",
       "lush_desert": "2025-08-17 21:13:11 +0000",
       "redwood_forest": "2025-08-17 22:04:40 +0000",
@@ -3235,6 +3236,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_storage_cabinet": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 22:26:34 +0000"
@@ -3295,6 +3302,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_no_tanks": {
+    "criteria": {
+      "has_chest": "2025-08-17 22:38:10 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-17 22:29:40 +0000"
@@ -3313,9 +3326,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 22:26:34 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
     },
     "done": true
   },
@@ -3346,6 +3371,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_grill": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 22:26:34 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
     },
     "done": true
   },
@@ -3571,6 +3602,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 22:26:34 +0000"
@@ -3586,6 +3623,12 @@
   "refurbished_furniture:recipes/misc/constructing/computer": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 22:26:34 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
     },
     "done": true
   },
@@ -3742,6 +3785,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_toilet": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 22:26:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-08-17 22:38:10 +0000"
     },
     "done": true
   },
