@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "uselessreptile:recipes/combat/dragon_tail_armor_gold": {
+    "criteria": {
+      "has_material": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
@@ -137,6 +143,18 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-17 22:11:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "uselessreptile:recipes/combat/dragon_chestplate_iron": {
     "criteria": {
       "has_material": "2025-08-17 21:35:14 +0000"
@@ -182,6 +200,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -275,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
@@ -284,6 +314,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -314,6 +350,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-08-17 21:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -368,6 +410,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_grill": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -533,6 +581,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-08-17 22:11:52 +0000",
+      "minecraft:silverfish": "2025-08-17 22:06:15 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/misc/constructing/birch_bath": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
@@ -575,6 +630,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-08-17 21:15:22 +0000"
@@ -584,6 +645,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -614,6 +681,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_grill": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
     },
     "done": true
   },
@@ -692,6 +765,18 @@
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 21:16:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
     },
     "done": true
   },
@@ -815,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
@@ -860,6 +951,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_gray_cooler": {
     "criteria": {
       "has_planks": "2025-08-17 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/combat/dragon_helmet_gold": {
+    "criteria": {
+      "has_material": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -1016,6 +1113,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 21:25:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-17 22:11:52 +0000"
     },
     "done": true
   },
@@ -1199,6 +1302,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_minecraft:gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_light_ceiling_fan": {
     "criteria": {
       "has_minecraft:iron_ingot": "2025-08-17 21:35:14 +0000"
@@ -1253,6 +1362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_diamond_ingot": {
     "criteria": {
       "has_minecraft:diamond": "2025-08-17 21:41:32 +0000"
@@ -1292,6 +1407,12 @@
   "refurbished_furniture:recipes/misc/constructing/post_box": {
     "criteria": {
       "has_planks": "2025-08-17 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -1559,6 +1680,12 @@
   "polydecorations:recipes/decorations/globe": {
     "criteria": {
       "planks": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/bundle": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
     },
     "done": true
   },
@@ -1916,6 +2043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
+    },
+    "done": true
+  },
   "kattersstructures:root": {
     "criteria": {
       "requirement": "2025-08-17 21:13:47 +0000"
@@ -1985,6 +2118,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-08-17 21:31:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -2063,6 +2202,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
     },
     "done": true
   },
@@ -2209,6 +2354,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-08-17 21:16:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
     },
     "done": true
   },
@@ -2900,6 +3051,12 @@
     },
     "done": true
   },
+  "polydecorations:recipes/decorations/rope": {
+    "criteria": {
+      "planks": "2025-08-17 22:12:27 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_storage_cabinet": {
     "criteria": {
       "has_minecraft:oak_planks": "2025-08-17 21:18:57 +0000"
@@ -2915,6 +3072,12 @@
   "uselessreptile:recipes/combat/dragon_tail_armor_iron": {
     "criteria": {
       "has_material": "2025-08-17 21:35:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
     },
     "done": true
   },
@@ -2984,6 +3147,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:silverfish": "2025-08-17 22:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-17 21:27:42 +0000"
@@ -3010,6 +3179,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "uselessreptile:recipes/combat/dragon_chestplate_gold": {
+    "criteria": {
+      "has_material": "2025-08-17 22:07:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_minecraft:wheat": "2025-08-17 21:15:41 +0000"
@@ -3031,6 +3212,12 @@
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2025-08-17 21:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -3112,6 +3299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-17 22:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-17 21:41:32 +0000"
@@ -3139,6 +3332,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_lamp": {
     "criteria": {
       "has_planks": "2025-08-17 21:18:36 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_hammer": {
+    "criteria": {
+      "has_material": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },
@@ -3175,6 +3374,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-08-17 21:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-17 22:07:44 +0000"
     },
     "done": true
   },

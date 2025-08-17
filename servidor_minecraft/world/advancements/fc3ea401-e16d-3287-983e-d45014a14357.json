@@ -2020,6 +2020,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-17 21:25:58 +0000",
+      "minecraft:skeleton": "2025-08-17 22:06:24 +0000",
+      "minecraft:spider": "2025-08-17 22:07:44 +0000",
       "minecraft:zombie": "2025-08-17 21:26:22 +0000",
       "minecraft:husk": "2025-08-17 21:24:44 +0000"
     },
@@ -2849,6 +2851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-17 22:03:28 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pale_oak_lattice_fence_gate": {
     "criteria": {
       "has_minecraft:stick": "2025-08-17 21:22:42 +0000"
@@ -3442,6 +3450,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2025-08-17 22:12:44 +0000",
       "carrot": "2025-08-17 21:23:11 +0000"
     },
     "done": false

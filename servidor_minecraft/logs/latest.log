@@ -664,3 +664,28 @@ Contact the server's administrator for more information!
 [22:06:02] [Server thread/INFO]: Tree reached max size of 100
 [22:06:05] [Server thread/INFO]: Tree reached max size of 100
 [22:06:15] [Server thread/INFO]: Bucles <Overworld> has made the advancement [Monster Hunter]
+[22:09:57] [Server thread/INFO]: Minu <Overworld> has made the advancement [Monster Hunter]
+[22:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3988ms or 79 ticks behind
+[22:11:10] [Server thread/INFO]: Minu <Overworld> was shot by Skeleton
+[22:11:10] [Server thread/INFO]: Placed Minu's Gravestone at (-1685, 70, 1712)
+[22:11:12] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:11:12] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
+[22:11:33] [Server thread/INFO]: Minu has found their grave at class_2338{x=-1685, y=70, z=1712}
+[22:11:47] [Server thread/INFO]: Bucles <Overworld> has made the advancement [Not Today, Thank You]
+[22:14:36] [Server thread/WARN]: Minu moved too quickly! -8.956432773811002,1.083077817806469,4.508523281250973
+[22:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[22:14:40] [Server thread/WARN]: Minu moved too quickly! -2.5240277267423608,-0.6709083839322858,9.774895779987219
+[22:15:00] [Server thread/WARN]: Minu moved too quickly! -10.06279489788858,1.7531999805212024,0.8345238499607603
+[22:15:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10361ms or 207 ticks behind
+[22:16:11] [Server thread/INFO]: Minu lost connection: You logged in from another location
+[22:16:11] [Server thread/INFO]: Minu <Overworld> left the game
+[22:16:17] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:16:17] [Server thread/INFO]: Minu[/127.129.239.226:60905] logged in with entity id 57442 at (-1975.2966129828715, 76.49520087700593, 1894.2397742575747)
+[22:16:17] [Server thread/INFO]: Sending server config values to client
+[22:16:17] [Server thread/INFO]: Creating new config sync packet
+[22:16:17] [Server thread/INFO]: Loading config from file...
+[22:16:17] [Server thread/INFO]: Minu <Overworld> joined the game
+[22:16:17] [Server thread/WARN]: Skipping Entity with id [invalid]
+[22:16:18] [Server thread/INFO]: Receiving client config
+[22:16:18] [Server thread/INFO]: [ShulkerBoxTooltip] Minu: protocol version: 2.0
+[22:16:18] [Server thread/INFO]: [do_a_barrel_roll] Client of Minu accepted server config.
