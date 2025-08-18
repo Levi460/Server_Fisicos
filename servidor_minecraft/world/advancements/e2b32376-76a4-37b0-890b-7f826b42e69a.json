@@ -3952,108 +3952,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/food/gysahl_cake": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/red_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocopedia": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/pink_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/gysahl_green_to_seeds": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 22:42:26 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_leggings": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle_alt": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_boots": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_chestplate": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_whistle": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/choco_disguise_helmet": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocobo_saddle_bags": {
-    "criteria": {
-      "has_chocobo_feather": "2025-08-17 23:00:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-08-17 23:05:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
-    "criteria": {
-      "has_raw_drumstick": "2025-08-17 23:05:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/chocobo_drumstick_cooked": {
-    "criteria": {
-      "has_raw_drumstick": "2025-08-17 23:05:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-17 23:07:15 +0000"
@@ -4153,6 +4051,168 @@
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-08-18 00:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-08-18 00:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-08-18 00:27:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-18 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-08-18 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "lunareclipse.watching:technical/block_detection/placed_forest": {
+    "criteria": {
+      "requirement": "2025-08-18 00:35:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-08-18 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-08-18 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-18 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-08-18 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2025-08-18 00:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-18 00:27:59 +0000"
     },
     "done": true
   },

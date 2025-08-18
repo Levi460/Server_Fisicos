@@ -435,12 +435,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/straw": {
-    "criteria": {
-      "has_wheat": "2025-08-17 21:17:48 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_minecraft:wheat": "2025-08-17 21:17:48 +0000"
@@ -2548,42 +2542,6 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-17 21:41:36 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/gysahl_cake": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/red_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/chocopedia": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/pink_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/food/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 21:42:00 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/gysahl_green_to_seeds": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-17 21:42:00 +0000"
     },
     "done": true
   },
