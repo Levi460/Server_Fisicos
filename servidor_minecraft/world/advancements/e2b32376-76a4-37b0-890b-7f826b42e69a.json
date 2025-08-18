@@ -4150,5 +4150,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-08-18 00:17:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 4325
 }
