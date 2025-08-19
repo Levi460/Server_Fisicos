@@ -990,3 +990,53 @@ java.lang.IllegalStateException: Invalid block entity gravestones:technical_grav
 [12:33:16] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [12:33:20] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [12:33:57] [Server thread/WARN]: Minu moved too quickly! -1.6751399695746727,0.0,10.759269749026998
+[12:34:35] [Server thread/INFO]: [Minu: Set own game mode to Survival Mode]
+[12:34:43] [Server thread/WARN]: Minu moved too quickly! -2.8493025889112005,-0.3019412636944878,18.300533879326622
+[12:34:55] [Server thread/WARN]: Minu moved too quickly! -1.6640022959013834,-10.13191692056813,15.659947238415953
+[12:35:20] [Server thread/INFO]: Minu lost connection: Timed out
+[12:35:20] [Server thread/INFO]: Minu left the game
+[12:35:20] [Server thread/WARN]: handleDisconnection() called twice
+[12:35:30] [Server thread/INFO]: Minu[/127.129.239.226:52363] logged in with entity id 14573 at (-232.10100368695953, 107.82627579879215, 1415.1266361214086)
+[12:35:30] [Server thread/INFO]: Sending server config values to client
+[12:35:30] [Server thread/INFO]: Creating new config sync packet
+[12:35:30] [Server thread/INFO]: Loading config from file...
+[12:35:30] [Server thread/INFO]: Minu joined the game
+[12:35:30] [Server thread/INFO]: Sending item configs to client
+[12:35:31] [Server thread/INFO]: Receiving client config
+[12:35:40] [Server thread/WARN]: Minu moved too quickly! -3.15262256054001,0.7091719970543693,17.268102662271303
+[12:35:42] [Server thread/WARN]: Minu moved too quickly! -3.279042542484433,0.5756563891617361,17.955572104428256
+[12:35:46] [Server thread/WARN]: Minu moved too quickly! -3.2791670802221233,0.5757306192482332,17.956254058197374
+[12:35:48] [Server thread/WARN]: Minu moved too quickly! -3.2543265708886224,-0.8865928403806151,17.820230947865184
+[12:35:52] [Server thread/WARN]: Minu moved too quickly! -3.1541637490505536,-3.341584061758411,18.18224859781708
+[12:36:31] [Server thread/INFO]: Minu was shot by Skeleton
+[12:36:31] [Server thread/INFO]: Placed Minu's Gravestone at (-403, 59, 2387)
+[12:36:39] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:36:39] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:36:39] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:36:39] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:36:58] [Server thread/INFO]: [Minu: Teleported Minu to -399.500000, 60.000000, 2300.500000]
+[12:37:37] [Server thread/INFO]: [Minu: Set own game mode to Creative Mode]
+[12:37:54] [Server thread/INFO]: [Minu: Set own game mode to Survival Mode]
+[12:37:54] [Server thread/INFO]: Minu has found their grave at class_2338{x=-407, y=68, z=2407}
+[12:37:54] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=-407, y=68, z=2407} state Block{minecraft:air} invalid for ticking:
+[12:38:10] [Server thread/INFO]: Minu has made the advancement [My Name is Nobody]
+[12:39:41] [Server thread/INFO]: Minu has made the advancement [Sea? Not a Problem]
+[12:40:49] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:43:26] [Server thread/INFO]: Minu lost connection: Disconnected
+[12:43:26] [Server thread/INFO]: Minu left the game
+[12:43:38] [Server thread/INFO]: Stopping the server
+[12:43:38] [Server thread/INFO]: Stopping server
+[12:43:38] [Server thread/INFO]: Saving players
+[12:43:38] [Server thread/INFO]: Saving worlds
+[12:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[12:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[12:43:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[12:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[12:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:43:38] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:43:38] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml
