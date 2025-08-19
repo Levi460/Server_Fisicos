@@ -930,3 +930,66 @@ java.lang.IllegalStateException: Invalid block entity gravestones:technical_grav
 [23:00:16] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=19, y=67, z=-24} state Block{minecraft:air} invalid for ticking:
 [23:00:21] [Server thread/INFO]: [Not Secure] <Minu_> F
 [23:00:36] [Server thread/INFO]: [Minu_: Teleported Bucles to Minu_]
+[23:00:39] [Server thread/INFO]: Bucles has found their grave at class_2338{x=502, y=64, z=-179}
+[23:00:40] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=502, y=64, z=-179} state Block{minecraft:air} invalid for ticking:
+[23:00:56] [Server thread/INFO]: [Not Secure] <Minu_> retirada tactica eh?
+[23:01:02] [Server thread/INFO]: [Not Secure] <Bucles> xD
+[23:01:32] [Server thread/INFO]: [Not Secure] <Minu_> c pelean ente ellos
+[23:02:32] [Server thread/INFO]: [Not Secure] <Minu_> El zombie se une
+[23:02:49] [Server thread/INFO]: [Not Secure] <Bucles> wtf
+[23:02:53] [Server thread/INFO]: [Not Secure] <Bucles> ah ya veo
+[23:03:26] [Server thread/INFO]: Bucles lost connection: Disconnected
+[23:03:26] [Server thread/INFO]: Bucles left the game
+[23:03:33] [Server thread/INFO]: [Not Secure] <Minu_> te gana un esqueleto?
+[23:03:40] [Server thread/INFO]: Bucles[/127.77.246.97:54217] logged in with entity id 12986 at (496.85377303206275, 63.118375, -185.5711561947081)
+[23:03:40] [Server thread/INFO]: Sending server config values to client
+[23:03:40] [Server thread/INFO]: Creating new config sync packet
+[23:03:40] [Server thread/INFO]: Loading config from file...
+[23:03:40] [Server thread/INFO]: Bucles joined the game
+[23:03:40] [Server thread/INFO]: Sending item configs to client
+[23:03:40] [Server thread/INFO]: Receiving client config
+[23:03:44] [Server thread/INFO]: [Not Secure] <Minu_> te gano un esqueleto?
+[23:03:55] [Server thread/INFO]: Bucles was slain by Hydra
+[23:03:55] [Server thread/INFO]: Placed Bucles's Gravestone at (496, 63, -186)
+[23:04:02] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=-15, y=65, z=53} state Block{minecraft:air} invalid for ticking:
+[23:04:04] [Server thread/INFO]: [Not Secure] <Minu_> F
+[23:04:12] [Server thread/INFO]: [Not Secure] <Bucles> gano el lag
+[23:04:15] [Server thread/INFO]: [Not Secure] <Minu_> Te hago tp??
+[23:04:19] [Server thread/INFO]: [Not Secure] <Bucles> dale
+[23:04:27] [Server thread/INFO]: [Minu_: Teleported Bucles to Minu_]
+[23:04:33] [Server thread/INFO]: Bucles was slain by Hydra
+[23:04:33] [Server thread/INFO]: Placed Bucles's Gravestone at (496, 67, -186)
+[23:04:33] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=-5, y=69, z=9} state Block{minecraft:air} invalid for ticking:
+[23:04:53] [Server thread/INFO]: [Not Secure] <Minu_> me tengo q ir
+[23:04:57] [Server thread/INFO]: [Not Secure] <Bucles> va
+[23:05:02] [Server thread/INFO]: [Not Secure] <Bucles> bueno
+[23:05:11] [Server thread/INFO]: [Not Secure] <Minu_> depues juagmos con los pibes y vemos comova
+[23:05:17] [Server thread/INFO]: [Not Secure] <Bucles> eso
+[23:05:17] [Server thread/INFO]: [Not Secure] <Minu_> bye
+[23:05:18] [Server thread/INFO]: [Not Secure] <Bucles> che
+[23:05:22] [Server thread/INFO]: [Not Secure] <Bucles> antes
+[23:05:31] [Server thread/INFO]: [Not Secure] <Bucles> deque te vayas
+[23:05:39] [Server thread/INFO]: [Not Secure] <Minu_> y si hablamos por wa?
+[23:05:53] [Server thread/INFO]: [Not Secure] <Bucles> bueno xD
+[23:05:56] [Server thread/INFO]: [Not Secure] <Minu_> dalep
+[23:06:00] [Server thread/INFO]: Bucles lost connection: Disconnected
+[23:06:00] [Server thread/INFO]: Bucles left the game
+[23:06:01] [Server thread/INFO]: [Not Secure] <Minu_> bye
+[23:06:03] [Server thread/INFO]: Minu_ lost connection: Disconnected
+[23:06:03] [Server thread/INFO]: Minu_ left the game
+[23:06:15] [Server thread/INFO]: Stopping the server
+[23:06:15] [Server thread/INFO]: Stopping server
+[23:06:15] [Server thread/INFO]: Saving players
+[23:06:15] [Server thread/INFO]: Saving worlds
+[23:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[23:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[23:06:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[23:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[23:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:06:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:06:15] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml

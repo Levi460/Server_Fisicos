@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-08-19 22:58:33 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:regions_explored": {
     "criteria": {
       "sparse_redwoods": "2025-08-19 22:47:23 +0000",
@@ -138,6 +144,12 @@
       "minecraft:river": "2025-08-19 22:47:40 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-08-19 22:58:33 +0000"
+    },
+    "done": true
   },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
