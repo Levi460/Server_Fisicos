@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "91ea8f83-3d2b-3421-9bd4-b8448458c153",
+    "name": "Bucles",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "e2b32376-76a4-37b0-890b-7f826b42e69a",
     "name": "Minu",
     "level": 4,
