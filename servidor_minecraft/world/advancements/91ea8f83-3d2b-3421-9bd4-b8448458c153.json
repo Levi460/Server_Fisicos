@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-08-19 22:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-08-19 22:34:28 +0000"
@@ -71,15 +77,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-19 22:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-08-19 22:24:22 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2025-08-19 22:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-19 22:25:15 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/gysahl_cake": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-19 22:43:18 +0000"
     },
     "done": true
   },
@@ -104,6 +128,12 @@
   "regions_unexplored:recipes/decorations/redwood_fence": {
     "criteria": {
       "has_redwood_planks": "2025-08-19 22:24:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-19 22:44:10 +0000"
     },
     "done": true
   },
@@ -137,6 +167,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/red_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-19 22:43:18 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-08-19 22:34:28 +0000"
@@ -152,6 +188,18 @@
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2025-08-19 22:21:05 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocopedia": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-19 22:43:18 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-19 22:43:18 +0000"
     },
     "done": true
   },
@@ -336,9 +384,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-19 22:43:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-19 22:24:22 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-19 22:43:18 +0000"
     },
     "done": true
   },
@@ -408,6 +468,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-19 22:43:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/gravitite_axe_repairing": {
     "criteria": {
       "has_gravitite_axe": "2025-08-19 22:27:00 +0000"
@@ -417,6 +483,12 @@
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-08-19 22:24:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-08-19 22:41:02 +0000"
     },
     "done": true
   },
@@ -496,6 +568,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-08-19 22:43:57 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/redwood_wood": {
     "criteria": {
       "has_log": "2025-08-19 22:24:08 +0000"
@@ -521,6 +599,12 @@
       "has_cobblestone": "2025-08-19 22:25:15 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "enchanted_golden_apple": "2025-08-19 22:43:03 +0000"
+    },
+    "done": false
   },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
@@ -549,6 +633,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-19 22:24:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-08-19 22:42:39 +0000"
     },
     "done": true
   },
