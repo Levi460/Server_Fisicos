@@ -719,3 +719,30 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [12:09:44] [Server thread/WARN]: Minu moved too quickly! 8.860980624252107,0.7518640014090607,-4.946234299713467
 [12:13:29] [Server thread/INFO]: Minu was slain by Ghost
 [12:13:29] [Server thread/INFO]: Placed Minu's Gravestone at (533, 66, 156)
+[12:14:31] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:14:31] [Server thread/INFO]: game/gamemode creative Minu<--[HERE]
+[12:14:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:14:41] [Server thread/INFO]: operator Minu<--[HERE]
+[12:14:49] [Server thread/INFO]: Made Minu a server operator
+[12:15:02] [Server thread/INFO]: [Minu: Set own game mode to Creative Mode]
+[12:15:27] [Server thread/INFO]: Minu has reached the goal [Sky's the Limit]
+[12:17:04] [Server thread/INFO]: Minu has made the advancement [Draconic Evolution]
+[12:17:53] [Server thread/INFO]: [Minu: Set own game mode to Survival Mode]
+[12:18:42] [Server thread/INFO]: Minu experienced kinetic energy
+[12:18:42] [Server thread/INFO]: Placed Minu's Gravestone at (3, 79, -67)
+[12:18:43] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:18:49] [Server thread/INFO]: [Minu: Set own game mode to Creative Mode]
+[12:19:17] [Server thread/INFO]: [Minu: Set own game mode to Survival Mode]
+[12:19:18] [Server thread/INFO]: Minu has found their grave at class_2338{x=3, y=79, z=-67}
+[12:19:18] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=3, y=79, z=-67} state Block{minecraft:air} invalid for ticking:
+[12:19:42] [Server thread/INFO]: Minu has found their grave at class_2338{x=-217, y=58, z=-145}
+[12:19:42] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=-217, y=58, z=-145} state Block{minecraft:air} invalid for ticking:
+[12:20:05] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:20:05] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:20:24] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:20:24] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[12:20:43] [Server thread/WARN]: Minu moved too quickly! 16.296131535489735,-7.772674190097533,5.25499228055169
+[12:20:59] [Server thread/INFO]: Minu has found their grave at class_2338{x=533, y=66, z=156}
+[12:20:59] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=533, y=66, z=156} state Block{minecraft:air} invalid for ticking:
+[12:21:10] [Server thread/INFO]: Minu has made the advancement [Who You Gonna Call?]
+[12:23:10] [Server thread/INFO]: Minu has made the advancement [Monster Hunter]
