@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-19 22:34:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-08-19 22:24:08 +0000"
@@ -125,6 +131,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-19 22:34:25 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-19 22:34:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-08-19 22:24:08 +0000"
@@ -142,6 +160,13 @@
       "has_cobblestone": "2025-08-19 22:25:15 +0000"
     },
     "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "redstone_caves": "2025-08-19 22:29:48 +0000",
+      "scorching_caves": "2025-08-19 22:30:12 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
@@ -182,6 +207,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-08-19 22:25:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-08-19 22:26:19 +0000"
     },
     "done": true
   },
@@ -299,9 +330,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-08-19 22:34:28 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/building_blocks/green_painted_planks": {
     "criteria": {
       "has_planks": "2025-08-19 22:24:22 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-08-19 22:34:28 +0000"
     },
     "done": true
   },
@@ -365,6 +408,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/gravitite_axe_repairing": {
+    "criteria": {
+      "has_gravitite_axe": "2025-08-19 22:27:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-08-19 22:24:08 +0000"
@@ -415,7 +464,11 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
-      "redwoods": "2025-08-19 22:21:06 +0000"
+      "redwoods": "2025-08-19 22:21:06 +0000",
+      "redstone_caves": "2025-08-19 22:29:48 +0000",
+      "scorching_caves": "2025-08-19 22:30:12 +0000",
+      "eucalyptus_forest": "2025-08-19 22:27:59 +0000",
+      "outback": "2025-08-19 22:27:41 +0000"
     },
     "done": false
   },
@@ -451,13 +504,27 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "redwoods": "2025-08-19 22:21:06 +0000"
+      "redwoods": "2025-08-19 22:21:06 +0000",
+      "eucalyptus_forest": "2025-08-19 22:27:59 +0000",
+      "outback": "2025-08-19 22:27:41 +0000"
     },
     "done": false
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-08-19 22:34:50 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-19 22:25:15 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-08-19 22:34:28 +0000"
     },
     "done": true
   },

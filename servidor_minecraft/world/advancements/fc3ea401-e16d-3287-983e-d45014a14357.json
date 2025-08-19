@@ -1,0 +1,51 @@
+{
+  "rpg_series:root": {
+    "criteria": {
+      "always": "2025-08-19 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-19 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-08-19 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-08-19 22:32:45 +0000"
+    },
+    "done": true
+  },
+  "mobs_of_mythology:mobs_of_mythology": {
+    "criteria": {
+      "requirement": "2025-08-19 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "rpg_series:misc_items": {
+    "criteria": {
+      "always": "2025-08-19 22:32:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "redwoods": "2025-08-19 22:32:45 +0000"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "redwoods": "2025-08-19 22:32:45 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}

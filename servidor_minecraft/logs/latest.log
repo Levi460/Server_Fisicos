@@ -756,3 +756,75 @@ java.lang.IllegalStateException: Invalid block entity gravestones:technical_grav
 [22:29:46] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [22:29:46] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
 [22:29:47] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:30:39] [Server thread/INFO]: [Bucles: Applied effect Night Vision to Bucles]
+[22:31:09] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:13] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:13] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:14] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:15] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:17] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:22] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:25] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:26] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:31:28] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:32:18] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:32:44] [Server thread/INFO]: Minu_[/127.24.97.16:44841] logged in with entity id 2403 at (8.5, 109.0, 0.5)
+[22:32:44] [Server thread/INFO]: Sending server config values to client
+[22:32:44] [Server thread/INFO]: Creating new config sync packet
+[22:32:44] [Server thread/INFO]: Loading config from file...
+[22:32:44] [Server thread/INFO]: Minu_ joined the game
+[22:32:44] [Server thread/INFO]: Sending item configs to client
+[22:32:44] [Server thread/INFO]: Minu_ has made the advancement [Ice and Fire]
+[22:32:44] [Server thread/INFO]: Minu_ has made the advancement [Mobs of Mythology]
+[22:32:44] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:32:45] [Server thread/INFO]: Receiving client config
+[22:33:03] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:33:03] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:33:06] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:33:31] [Server thread/INFO]: [Bucles: Set own game mode to Creative Mode]
+[22:33:31] [Server thread/INFO]: [Not Secure] <Minu_> ola
+[22:33:41] [Server thread/INFO]: [Not Secure] <Bucles> holas
+[22:33:53] [Server thread/INFO]: [Not Secure] <Minu_> donde estas?
+[22:34:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:34:01] [Server thread/INFO]: 1op Minu<--[HERE]
+[22:34:13] [Server thread/INFO]: [Not Secure] <Bucles> che
+[22:34:23] [Server thread/INFO]: [Not Secure] <Minu_> si?
+[22:34:34] [Server thread/INFO]: [Not Secure] <Bucles> estoy en creativo xd
+[22:34:35] [Server thread/INFO]: [Not Secure] <Minu_> Esto es del mod de herobrine
+[22:35:03] [Server thread/INFO]: [Not Secure] <Minu_> Ya se
+[22:35:04] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:35:17] [Server thread/INFO]: [Not Secure] <Minu_> te di permisos de ejecutar comandos
+[22:35:25] [Server thread/INFO]: Made Minu_ a server operator
+[22:35:37] [Server thread/INFO]: [Minu_: Set own game mode to Creative Mode]
+[22:35:53] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:36:08] [Server thread/INFO]: [Not Secure] <Minu_> eso de piedra es por un mob
+[22:36:22] [Server thread/INFO]: [Not Secure] <Minu_> que si le miras te combierte en piedra
+[22:36:39] [Server thread/INFO]: [Not Secure] <Bucles> la mirada de medusa
+[22:36:42] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:36:43] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:36:53] [Server thread/INFO]: [Not Secure] <Minu_> sis
+[22:36:53] [Server thread/INFO]: [Not Secure] <Bucles> xD
+[22:37:04] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:37:10] [Server thread/INFO]: [Minu_: Set own game mode to Survival Mode]
+[22:37:12] [Server thread/INFO]: Minu_ was turned into gorgonzola by Gorgon
+[22:37:12] [Server thread/INFO]: Placed Minu_'s Gravestone at (0, 67, 39)
+[22:37:12] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:37:19] [Server thread/INFO]: [Not Secure] <Minu_> asi
+[22:37:23] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:37:25] [Server thread/INFO]: [Minu_: Set own game mode to Creative Mode]
+[22:37:34] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:37:35] [Server thread/INFO]: Minu_ has found their grave at class_2338{x=0, y=67, z=39}
+[22:37:35] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=0, y=67, z=39} state Block{minecraft:air} invalid for ticking:
+[22:38:01] [Server thread/INFO]: [Not Secure] <Minu_> podra convertir en piedra a un dragon?
+[22:38:08] [Server thread/INFO]: [Not Secure] <Bucles> Xd
+[22:38:12] [Server thread/INFO]: [Not Secure] <Bucles> No creo
+[22:38:46] [Server thread/INFO]: [Not Secure] <Minu_> esta dormido
+[22:39:28] [Server thread/INFO]: [Not Secure] <Minu_> convirtio en piedra al chiquito
+[22:39:38] [Server thread/INFO]: [Not Secure] <Bucles> si
+[22:39:43] [Server thread/INFO]: [Not Secure] <Minu_> fua
+[22:40:03] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:40:07] [Server thread/INFO]: [Not Secure] <Bucles> entra uriel y le atacan todos xD
+[22:40:08] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:40:09] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{}]'
+[22:40:16] [Server thread/INFO]: [Not Secure] <Minu_> jsjs
+[22:40:17] [Server thread/INFO]: [Not Secure] <Bucles> alv
