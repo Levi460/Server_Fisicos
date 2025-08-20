@@ -703,3 +703,25 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:21:44] [Server thread/INFO]: Placed uri1809's Gravestone at (132, 64, -40)
 [03:22:22] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=132, y=64, z=-40}
 [03:22:22] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=132, y=64, z=-40} state Block{minecraft:air} invalid for ticking:
+[03:29:40] [Worker-Main-15/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:29:40] [Worker-Main-15/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:29:41] [Worker-Main-14/ERROR]: Block-attached entity at invalid position: class_2338{x=-17, y=-56, z=2208}
+[03:29:55] [Server thread/INFO]: uri1809 lost connection: Disconnected
+[03:29:55] [Server thread/INFO]: uri1809 left the game
+[03:30:10] [Server thread/INFO]: uri1809[/127.19.88.78:41093] logged in with entity id 9778 at (13.9753037341179, 122.0, -104.93143949920604)
+[03:30:10] [Server thread/INFO]: Sending server config values to client
+[03:30:10] [Server thread/INFO]: Creating new config sync packet
+[03:30:10] [Server thread/INFO]: Loading config from file...
+[03:30:10] [Server thread/INFO]: uri1809 joined the game
+[03:30:10] [Server thread/INFO]: Sending item configs to client
+[03:30:12] [Server thread/INFO]: Receiving client config
+[03:33:21] [Server thread/INFO]: uri1809 has made the advancement [Monster Hunter]
+[03:34:18] [Server thread/INFO]: Levi[/127.129.239.226:53697] logged in with entity id 10662 at (-1.5, 134.0, 0.5)
+[03:34:18] [Server thread/INFO]: Sending server config values to client
+[03:34:18] [Server thread/INFO]: Creating new config sync packet
+[03:34:18] [Server thread/INFO]: Loading config from file...
+[03:34:18] [Server thread/INFO]: Levi joined the game
+[03:34:18] [Server thread/INFO]: Sending item configs to client
+[03:34:18] [Server thread/INFO]: Levi has made the advancement [Ice and Fire]
+[03:34:18] [Server thread/INFO]: Levi has made the advancement [Mobs of Mythology]
+[03:34:19] [Server thread/INFO]: Receiving client config
