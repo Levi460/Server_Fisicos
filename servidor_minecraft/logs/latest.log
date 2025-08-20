@@ -725,3 +725,27 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:34:18] [Server thread/INFO]: Levi has made the advancement [Ice and Fire]
 [03:34:18] [Server thread/INFO]: Levi has made the advancement [Mobs of Mythology]
 [03:34:19] [Server thread/INFO]: Receiving client config
+[03:38:20] [Server thread/INFO]: Levi has made the advancement [Monster Hunter]
+[03:42:33] [Server thread/INFO]: Levi has made the advancement [Stone Age]
+[03:43:32] [Worker-Main-14/ERROR]: Block-attached entity at invalid position: class_2338{x=-17, y=-56, z=2192}
+[03:43:32] [Worker-Main-14/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:43:32] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:43:32] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:43:52] [Worker-Main-15/ERROR]: Block-attached entity at invalid position: class_2338{x=-80, y=-57, z=2208}
+[03:43:52] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-17, y=-56, z=2208}
+[03:43:52] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-80, y=-56, z=2205}
+[03:43:52] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-24, y=-57, z=2292}
+[03:43:52] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-18, y=-57, z=2292}
+[03:43:52] [Worker-Main-13/ERROR]: Block-attached entity at invalid position: class_2338{x=-80, y=-57, z=2208}
+[03:44:01] [Worker-Main-15/ERROR]: Block-attached entity at invalid position: class_2338{x=-81, y=-56, z=2188}
+[03:44:08] [Worker-Main-14/ERROR]: Block-attached entity at invalid position: class_2338{x=-80, y=-56, z=2205}
+[03:47:39] [Server thread/INFO]: Minu[/127.129.239.226:43441] logged in with entity id 13677 at (-1.5, 134.0, 0.5)
+[03:47:39] [Server thread/INFO]: Sending server config values to client
+[03:47:39] [Server thread/INFO]: Creating new config sync packet
+[03:47:39] [Server thread/INFO]: Loading config from file...
+[03:47:39] [Server thread/INFO]: Minu joined the game
+[03:47:39] [Server thread/INFO]: Sending item configs to client
+[03:47:39] [Server thread/INFO]: Minu has made the advancement [Ice and Fire]
+[03:47:39] [Server thread/INFO]: Minu has made the advancement [Mobs of Mythology]
+[03:47:40] [Server thread/INFO]: Receiving client config
+[03:47:50] [Server thread/INFO]: Levi has made the advancement [Getting an Upgrade]

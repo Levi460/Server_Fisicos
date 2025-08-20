@@ -1260,8 +1260,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-20 03:40:31 +0000",
       "cooked_chicken": "2025-08-20 03:27:31 +0000",
-      "cooked_beef": "2025-08-20 03:19:23 +0000"
+      "cooked_beef": "2025-08-20 03:19:23 +0000",
+      "porkchop": "2025-08-20 03:37:48 +0000",
+      "cooked_salmon": "2025-08-20 03:34:09 +0000"
     },
     "done": false
   },
@@ -1289,9 +1292,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2025-08-20 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
     },
     "done": true
   },
@@ -1304,6 +1325,12 @@
   "chococraft:recipes/misc/gysahl_green_to_seeds": {
     "criteria": {
       "has_gysahl_green": "2025-08-20 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
     },
     "done": true
   },
