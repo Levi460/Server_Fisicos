@@ -807,6 +807,7 @@
     "criteria": {
       "woodland": "2025-08-20 02:02:43 +0000",
       "old_growth_woodland": "2025-08-20 02:11:02 +0000",
+      "lush_desert": "2025-08-20 03:18:13 +0000",
       "scrubland": "2025-08-20 01:59:44 +0000"
     },
     "done": false
@@ -892,6 +893,12 @@
   "regions_unexplored:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-20 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-08-20 03:19:23 +0000"
     },
     "done": true
   },
@@ -1171,6 +1178,12 @@
       "has_stone": "2025-08-20 02:05:50 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2025-08-20 03:19:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {

@@ -695,3 +695,11 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [02:03:58] [Server thread/INFO]: uri1809 has made the advancement [Stone Age]
 [02:04:16] [Server thread/INFO]: uri1809 has made the advancement [Getting an Upgrade]
 [02:09:39] [Server thread/INFO]: uri1809 has made the advancement [Ice Bucket Challenge]
+[03:20:15] [Server thread/INFO]: uri1809 was slain by Leviathan
+[03:20:15] [Server thread/INFO]: Placed uri1809's Gravestone at (135, 61, -39)
+[03:21:43] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=135, y=61, z=-39}
+[03:21:43] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=135, y=61, z=-39} state Block{minecraft:water}[level=0] invalid for ticking:
+[03:21:44] [Server thread/INFO]: uri1809 was slain by Leviathan
+[03:21:44] [Server thread/INFO]: Placed uri1809's Gravestone at (132, 64, -40)
+[03:22:22] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=132, y=64, z=-40}
+[03:22:22] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=132, y=64, z=-40} state Block{minecraft:air} invalid for ticking:
