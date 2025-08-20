@@ -1,0 +1,184 @@
+---- Minecraft Crash Report ----
+// Oops.
+
+Time: 2025-08-20 01:51:53
+Description: Exception in server tick loop
+
+java.lang.IllegalStateException: Failed to initialize server
+	at knot//net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:716)
+	at knot//net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Linux (amd64) version 6.8.0-1030-azure
+	Java Version: 21.0.8, Ubuntu
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Ubuntu
+	Memory: 1646529632 bytes (1570 MiB) / 2147483648 bytes (2048 MiB) up to 17179869184 bytes (16384 MiB)
+	CPUs: 4
+	Processor Vendor: AuthenticAMD
+	Processor Name: AMD EPYC 7763 64-Core Processor
+	Identifier: AuthenticAMD Family 25 Model 1 Stepping 1
+	Microarchitecture: Zen 3
+	Frequency (GHz): -0.00
+	Number of physical packages: 1
+	Number of physical CPUs: 2
+	Number of logical CPUs: 4
+	Graphics card #0 name: unknown
+	Graphics card #0 vendor: unknown
+	Graphics card #0 VRAM (MiB): 0.00
+	Graphics card #0 deviceId: unknown
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MiB): 7997.99
+	Virtual memory used (MiB): 7738.77
+	Swap memory total (MiB): 0.00
+	Swap memory used (MiB): 0.00
+	Space in storage for jna.tmpdir (MiB): <path not set>
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): <path not set>
+	Space in storage for io.netty.native.workdir (MiB): <path not set>
+	Space in storage for java.io.tmpdir (MiB): available: 110718.05, total: 120377.56
+	Space in storage for workdir (MiB): available: 15442.01, total: 32077.81
+	JVM Flags: 2 total; -Xms2G -Xmx16G
+	Fabric Mods: 
+		actuallyharvest: ActuallyHarvest 1.1.3.1
+		aether: The Aether 1.5.9
+			accessories: Accessories 1.1.0-beta.48+1.21.1
+			mixinextras: MixinExtras 0.5.0-beta.3
+			mm_shedaniel: Manningham Mills (shedaniel's fork) 2.4.1
+			nitrogen_internals: Nitrogen 1.1.21
+		architectury: Architectury 13.0.8
+		armored-elytra: Armored Elytra 1.1.0
+		artifacts: Artifacts 13.0.7
+			expandability: ExpandAbility 12.0.0
+		azurelib: AzureLib 3.0.27
+		balm: Balm 21.0.48
+			kuma_api: KumaAPI 21.0.5
+		betterarcheology: Better Archeology 1.3.2
+		biomesoplenty: BiomesOPlenty 21.1.0.12
+		carryon: Carry On 2.2.2
+		chococraft: Chococraft 4 0.11.11
+		cobweb: Cobweb 1.3.3
+		collective: Collective 8.3
+		comforts: Comforts 9.0.4+1.21.1
+			cardinal-components-base: Cardinal Components API (base) 6.1.2
+			cardinal-components-entity: Cardinal Components API (entities) 6.1.2
+			spectrelib: SpectreLib 0.17.2+1.21
+		craftingstation: Crafting Station 1.6.0
+		cristellib: Cristel Lib 1.2.8
+			blue_endless_jankson: jankson 1.2.3
+		cupboard: cupboard 1.21-2.9
+		elevatorid: ElevatorMod 1.21-1.11.1
+		enchantinginfuser: Enchanting Infuser 21.1.2
+		fabric-api: Fabric API 0.116.4+1.21.1
+			fabric-api-base: Fabric API Base 0.4.42+6573ed8c19
+			fabric-api-lookup-api-v1: Fabric API Lookup API (v1) 1.6.71+b559734419
+			fabric-biome-api-v1: Fabric Biome API (v1) 13.0.31+d527f9fd19
+			fabric-block-api-v1: Fabric Block API (v1) 1.1.0+0bc3503219
+			fabric-block-view-api-v2: Fabric BlockView API (v2) 1.0.11+ebb2264e19
+			fabric-command-api-v1: Fabric Command API (v1) 1.2.49+f71b366f19
+			fabric-command-api-v2: Fabric Command API (v2) 2.2.28+6ced4dd919
+			fabric-commands-v0: Fabric Commands (v0) 0.2.66+df3654b319
+			fabric-content-registries-v0: Fabric Content Registries (v0) 8.0.19+b559734419
+			fabric-convention-tags-v1: Fabric Convention Tags 2.1.5+7f945d5b19
+			fabric-convention-tags-v2: Fabric Convention Tags (v2) 2.11.1+a406e79519
+			fabric-crash-report-info-v1: Fabric Crash Report Info (v1) 0.2.29+0af3f5a719
+			fabric-data-attachment-api-v1: Fabric Data Attachment API (v1) 1.4.5+6116a37819
+			fabric-data-generation-api-v1: Fabric Data Generation API (v1) 20.2.32+5b9dea2e19
+			fabric-dimensions-v1: Fabric Dimensions API (v1) 4.0.0+6fc22b9919
+			fabric-entity-events-v1: Fabric Entity Events (v1) 1.8.0+2b27e0a419
+			fabric-events-interaction-v0: Fabric Events Interaction (v0) 0.7.13+ba9dae0619
+			fabric-game-rule-api-v1: Fabric Game Rule API (v1) 1.0.53+6ced4dd919
+			fabric-item-api-v1: Fabric Item API (v1) 11.1.1+d5debaed19
+			fabric-item-group-api-v1: Fabric Item Group API (v1) 4.1.7+def88e3a19
+			fabric-lifecycle-events-v1: Fabric Lifecycle Events (v1) 2.6.0+0865547519
+			fabric-loot-api-v2: Fabric Loot API (v2) 3.0.15+3f89f5a519
+			fabric-loot-api-v3: Fabric Loot API (v3) 1.0.3+3f89f5a519
+			fabric-message-api-v1: Fabric Message API (v1) 6.0.14+8aaf3aca19
+			fabric-networking-api-v1: Fabric Networking API (v1) 4.3.0+c7469b2119
+			fabric-object-builder-api-v1: Fabric Object Builder API (v1) 15.2.1+40875a9319
+			fabric-particles-v1: Fabric Particles (v1) 4.0.2+6573ed8c19
+			fabric-recipe-api-v1: Fabric Recipe API (v1) 5.0.14+248df81c19
+			fabric-registry-sync-v0: Fabric Registry Sync (v0) 5.3.1+e3eddc2119
+			fabric-rendering-data-attachment-v1: Fabric Rendering Data Attachment (v1) 0.3.49+73761d2e19
+			fabric-rendering-fluids-v1: Fabric Rendering Fluids (v1) 3.1.6+1daea21519
+			fabric-resource-conditions-api-v1: Fabric Resource Conditions API (v1) 4.3.0+8dc279b119
+			fabric-resource-loader-v0: Fabric Resource Loader (v0) 1.3.1+5b5275af19
+			fabric-screen-handler-api-v1: Fabric Screen Handler API (v1) 1.3.90+b559734419
+			fabric-transfer-api-v1: Fabric Transfer API (v1) 5.4.3+c24bd99419
+			fabric-transitive-access-wideners-v1: Fabric Transitive Access Wideners (v1) 6.2.0+45b9699719
+		fabricloader: Fabric Loader 0.16.14
+		fallingtree: FallingTree 1.21.1.11
+		forgeconfigapiport: Forge Config API Port 21.1.3
+			com_electronwill_night-config_core: core 3.8.0
+			com_electronwill_night-config_toml: toml 3.8.0
+		fowlplay: Fowl Play 1.0.0-beta.12+1.21.1-fabric
+		geckolib: GeckoLib 4 4.7.6
+		glitchcore: GlitchCore 2.1.0.0
+			net_jodah_typetools: typetools 0.6.3
+		gravestones: Gravestones 1.1.0-1.21.1
+			pneumonocore: PneumonoCore 1.1.12-1.21.1
+		grindenchantments: Grind Enchantments 4.0.0+1.21.1
+			codec-config-api: Codec config API 3.0.0+1.21.3
+		herobrine: The Legend of Herobrine 0.8.0
+		iceandfire: Ice And Fire Community Edition 1.1
+		improved-stations: Improved Stations 2.4.2
+		java: OpenJDK 64-Bit Server VM 21
+		jupiter: Jupiter 2.2.1
+		justhammers: Just Hammers 21.1.1
+		minecraft: Minecraft 1.21.1
+		mobs_of_mythology: Mobs of Mythology 2.2.2
+		netherportalfix: NetherPortalFix 21.1.3
+		owo: oωo 0.12.15.4+1.21
+			io_wispforest_endec: endec 0.1.5.1
+			io_wispforest_endec_gson: gson 0.1.3.1
+			io_wispforest_endec_jankson: jankson 0.1.3.1
+			io_wispforest_endec_netty: netty 0.1.2
+		platform: Platform 1.2.10.2
+		playeranimator: Player Animator 2.0.1+1.21.1
+		puzzleslib: Puzzles Lib 21.1.38
+		ranged_weapon_api: RangedWeaponAPI 2.1.1+1.21.1
+		refinedstorage: Refined Storage 2.0.0-beta.2
+			cloth-config: Cloth Config v15 15.0.140
+				cloth-basic-math: cloth-basic-math 0.6.1
+			team_reborn_energy: Energy 4.1.0
+		regions_unexplored: Regions Unexplored 0.5.6.1
+		relics_rpgs: Relics (RPG Series) 1.0.7+1.21.1
+		resourcefulconfig: Resourcefulconfig 3.0.11
+		safros-mobs: Safro's Mobs 0.1.2
+			saflib: SafLib 1.1.1
+		smartbrainlib: SmartBrainLib 1.16.10
+		spell_engine: Spell Engine 1.7.0+1.21.1
+			com_github_zsoltmolnarrr_tinyconfig: TinyConfig 2.3.2
+		spell_power: Spell Power Attribute 1.3.0+1.21.1
+		t_and_t: Towns and Towers 1.13.2
+		terrablender: TerraBlender 4.1.0.8
+		travelersbackpack: Traveler's Backpack 10.1.23
+		trinkets: Trinkets 3.10.0
+		uranus: Uranus 2.3.1
+		vanillabackport: VanillaBackport 1.1.4.3
+		walljump: Wall-Jump TXF 1.21.1-1.3.5-fabric
+			configlibtxf: ConfigLib TXF 7.2.8-fabric
+			keybindfixtxf: Keybind Fix TXF 1.1.1
+		yet_another_config_lib_v3: YetAnotherConfigLib 3.7.1+1.21.1-fabric
+			com_twelvemonkeys_common_common-image: common-image 3.12.0
+			com_twelvemonkeys_common_common-io: common-io 3.12.0
+			com_twelvemonkeys_common_common-lang: common-lang 3.12.0
+			com_twelvemonkeys_imageio_imageio-core: imageio-core 3.12.0
+			com_twelvemonkeys_imageio_imageio-metadata: imageio-metadata 3.12.0
+			com_twelvemonkeys_imageio_imageio-webp: imageio-webp 3.12.0
+			org_quiltmc_parsers_gson: gson 0.2.1
+			org_quiltmc_parsers_json: json 0.2.1
+	Server Running: true
+	Active Data Packs: vanilla, builtin/aether_accessories, fabric, accessories, aether, artifacts, balm (incompatible), betterarcheology, biomesoplenty (incompatible), carryon (incompatible), chococraft (incompatible), collective, comforts (incompatible), craftingstation (incompatible), elevatorid, enchantinginfuser (incompatible), fabric-convention-tags-v2, fowlplay, gravestones, herobrine (incompatible), iceandfire, improved-stations, justhammers, mobs_of_mythology, refinedstorage, regions_unexplored (incompatible), relics_rpgs, safros-mobs, spell_engine, spell_power, t_and_t, terrablender (incompatible), travelersbackpack, trinkets, vanillabackport, walljump, walljump/enchantments
+	Available Data Packs: accessories, aether, artifacts, balm (incompatible), betterarcheology, biomesoplenty (incompatible), builtin/aether_accessories, builtin/aether_ruined_portal, builtin/aether_temporary_freezing, bundle, carryon (incompatible), chococraft (incompatible), collective, comforts (incompatible), craftingstation (incompatible), elevatorid, enchantinginfuser (incompatible), enchantinginfuser:treasure_enchantments, fabric, fabric-convention-tags-v2, fowlplay, gravestones, herobrine (incompatible), iceandfire, improved-stations, justhammers, mobs_of_mythology, refinedstorage, regions_unexplored (incompatible), relics_rpgs, safros-mobs, spell_engine, spell_power, t_and_t, terrablender (incompatible), trade_rebalance, travelersbackpack, trinkets, vanilla, vanillabackport, walljump, walljump/enchantments
+	Enabled Feature Flags: minecraft:vanilla
+	World Generation: Stable
+	World Seed: 350701147566559549
+	Is Modded: Definitely; Server brand changed to 'fabric'
+	Type: Dedicated Server (map_server.txt)
