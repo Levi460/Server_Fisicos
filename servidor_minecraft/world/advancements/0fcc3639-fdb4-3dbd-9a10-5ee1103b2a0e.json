@@ -1261,6 +1261,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-20 03:40:31 +0000",
+      "bread": "2025-08-20 03:56:34 +0000",
       "cooked_chicken": "2025-08-20 03:27:31 +0000",
       "cooked_beef": "2025-08-20 03:19:23 +0000",
       "porkchop": "2025-08-20 03:37:48 +0000",
@@ -1526,6 +1527,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-20 03:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
@@ -1580,6 +1587,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-08-20 03:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-08-20 03:37:41 +0000"
@@ -1589,6 +1602,12 @@
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-08-20 03:57:10 +0000"
     },
     "done": true
   },
@@ -1676,6 +1695,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-20 04:03:12 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
@@ -1703,6 +1728,12 @@
   "comforts:recipes/decorations/rope_and_nail": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-20 04:03:47 +0000"
     },
     "done": true
   },

@@ -756,3 +756,68 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [03:51:31] [Server thread/INFO]: Levi has made the advancement [Sweet Dreams]
 [03:51:33] [Server thread/INFO]: uri1809 has made the advancement [Sweet Dreams]
 [03:54:39] [Server thread/INFO]: Levi has made the advancement [Acquire Hardware]
+[03:58:23] [Server thread/INFO]: uri1809 was slain by Ghost
+[03:58:23] [Server thread/INFO]: Placed uri1809's Gravestone at (12, 86, -266)
+[03:58:31] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=12, y=86, z=-266}
+[03:58:31] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=12, y=86, z=-266} state Block{minecraft:air} invalid for ticking:
+[03:59:17] [Server thread/INFO]: uri1809 was slain by Ghost
+[03:59:17] [Server thread/INFO]: Placed uri1809's Gravestone at (115, 95, -353)
+[03:59:58] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=115, y=95, z=-353}
+[03:59:58] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=115, y=95, z=-353} state Block{minecraft:air} invalid for ticking:
+[04:00:38] [Server thread/INFO]: Levi has made the advancement [Who You Gonna Call?]
+[04:00:51] [Server thread/INFO]: Minu was slain by Ghost
+[04:00:51] [Server thread/INFO]: Placed Minu's Gravestone at (118, 95, -354)
+[04:00:54] [Server thread/INFO]: uri1809 was slain by Ghost
+[04:00:54] [Server thread/INFO]: Placed uri1809's Gravestone at (78, 95, -278)
+[04:01:18] [Server thread/INFO]: uri1809 has found their grave at class_2338{x=78, y=95, z=-278}
+[04:01:18] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=78, y=95, z=-278} state Block{minecraft:air} invalid for ticking:
+[04:02:00] [Server thread/INFO]: Minu has found their grave at class_2338{x=118, y=95, z=-354}
+[04:02:00] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=118, y=95, z=-354} state Block{minecraft:air} invalid for ticking:
+[04:02:11] [Server thread/INFO]: Levi was slain by Ghost
+[04:02:11] [Server thread/INFO]: Placed Levi's Gravestone at (41, 97, -238)
+[04:02:14] [Server thread/INFO]: Levi has found their grave at class_2338{x=41, y=97, z=-238}
+[04:02:15] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=41, y=97, z=-238} state Block{minecraft:air} invalid for ticking:
+[04:02:26] [Server thread/INFO]: Minu was slain by Ghost
+[04:02:26] [Server thread/INFO]: Placed Minu's Gravestone at (35, 88, -286)
+[04:02:37] [Server thread/INFO]: Levi was slain by Ghost
+[04:02:37] [Server thread/INFO]: Placed Levi's Gravestone at (46, 95, -236)
+[04:02:42] [Server thread/INFO]: Levi has found their grave at class_2338{x=46, y=95, z=-236}
+[04:02:42] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=46, y=95, z=-236} state Block{minecraft:air} invalid for ticking:
+[04:02:58] [Server thread/INFO]: Levi was slain by Ghost
+[04:02:58] [Server thread/INFO]: Placed Levi's Gravestone at (40, 95, -258)
+[04:03:00] [Server thread/INFO]: Minu has found their grave at class_2338{x=35, y=88, z=-286}
+[04:03:00] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=35, y=88, z=-286} state Block{minecraft:air} invalid for ticking:
+[04:03:01] [Server thread/INFO]: Villager class_1646['Villager'/14014, l='ServerLevel[world]', x=-4.43, y=95.25, z=-322.74] died, message: 'Villager was slain by Ghost'
+[04:03:04] [Server thread/INFO]: Levi has found their grave at class_2338{x=40, y=95, z=-258}
+[04:03:04] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=40, y=95, z=-258} state Block{minecraft:air} invalid for ticking:
+[04:03:17] [Server thread/INFO]: Levi was slain by Ghost
+[04:03:17] [Server thread/INFO]: Placed Levi's Gravestone at (48, 97, -265)
+[04:03:21] [Server thread/INFO]: Levi has found their grave at class_2338{x=48, y=97, z=-265}
+[04:03:21] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=48, y=97, z=-265} state Block{minecraft:air} invalid for ticking:
+[04:03:30] [Server thread/INFO]: Levi was slain by Ghost
+[04:03:30] [Server thread/INFO]: Placed Levi's Gravestone at (48, 98, -267)
+[04:03:34] [Server thread/INFO]: Levi has found their grave at class_2338{x=48, y=98, z=-267}
+[04:03:34] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=48, y=98, z=-267} state Block{minecraft:air} invalid for ticking:
+[04:03:47] [Server thread/INFO]: uri1809 has made the advancement [Who You Gonna Call?]
+[04:04:55] [Server thread/INFO]: uri1809 lost connection: Disconnected
+[04:04:55] [Server thread/INFO]: uri1809 left the game
+[04:05:16] [Server thread/INFO]: Levi lost connection: Disconnected
+[04:05:16] [Server thread/INFO]: Levi left the game
+[04:05:21] [Server thread/INFO]: Minu lost connection: Disconnected
+[04:05:21] [Server thread/INFO]: Minu left the game
+[04:06:03] [Server thread/INFO]: Stopping the server
+[04:06:03] [Server thread/INFO]: Stopping server
+[04:06:03] [Server thread/INFO]: Saving players
+[04:06:03] [Server thread/INFO]: Saving worlds
+[04:06:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:06:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04:06:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[04:06:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04:06:03] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[04:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[04:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[04:06:03] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:06:03] [Server thread/INFO]: Dispatching unloading event for config enchantinginfuser-server.toml

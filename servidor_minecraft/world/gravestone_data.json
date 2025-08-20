@@ -7,18 +7,48 @@
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": 132,
-        "posY": 64,
-        "posZ": -40
+        "posX": 78,
+        "posY": 95,
+        "posZ": -278
       },
       "secondGrave": {
         "dimension": {
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": 135,
-        "posY": 61,
-        "posZ": -39
+        "posX": 115,
+        "posY": 95,
+        "posZ": -353
+      },
+      "thirdGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 12,
+        "posY": 86,
+        "posZ": -266
+      }
+    },
+    {
+      "owner": "e2b32376-76a4-37b0-890b-7f826b42e69a",
+      "firstGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 35,
+        "posY": 88,
+        "posZ": -286
+      },
+      "secondGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 118,
+        "posY": 95,
+        "posZ": -354
       },
       "thirdGrave": {
         "dimension": {
@@ -28,6 +58,36 @@
         "posX": 0,
         "posY": 0,
         "posZ": 0
+      }
+    },
+    {
+      "owner": "dd488042-fc46-377c-818e-4e2591cce5e9",
+      "firstGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 48,
+        "posY": 98,
+        "posZ": -267
+      },
+      "secondGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 48,
+        "posY": 97,
+        "posZ": -265
+      },
+      "thirdGrave": {
+        "dimension": {
+          "field_13353": "minecraft",
+          "field_13355": "overworld"
+        },
+        "posX": 40,
+        "posY": 95,
+        "posZ": -258
       }
     }
   ]
