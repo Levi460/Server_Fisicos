@@ -37,9 +37,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-08-21 03:21:40 +0000",
       "minecraft:stony_peaks": "2025-08-20 03:34:19 +0000",
       "minecraft:deep_dark": "2025-08-21 02:23:53 +0000",
-      "minecraft:savanna": "2025-08-21 03:11:59 +0000"
+      "minecraft:savanna": "2025-08-21 03:11:59 +0000",
+      "minecraft:plains": "2025-08-21 03:25:18 +0000"
     },
     "done": false
   },
@@ -361,7 +363,8 @@
     "criteria": {
       "minecraft:enderman": "2025-08-21 03:14:52 +0000",
       "minecraft:spider": "2025-08-20 03:38:20 +0000",
-      "minecraft:zombie": "2025-08-20 03:39:51 +0000"
+      "minecraft:zombie": "2025-08-20 03:39:51 +0000",
+      "minecraft:creeper": "2025-08-21 03:20:32 +0000"
     },
     "done": false
   },
@@ -1603,6 +1606,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-21 03:13:36 +0000"
@@ -1843,6 +1852,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-21 02:11:58 +0000"
@@ -2017,6 +2032,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-08-21 02:36:23 +0000"
@@ -2050,6 +2071,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-21 03:13:36 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-08-21 03:26:13 +0000"
     },
     "done": true
   },
@@ -2131,6 +2158,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/food/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2025-08-21 03:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-08-21 02:18:49 +0000"
@@ -2188,6 +2221,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-21 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
     },
     "done": true
   },
@@ -2287,6 +2326,12 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/eucalyptus_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-21 03:13:36 +0000"
@@ -2308,6 +2353,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-21 02:37:00 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
     },
     "done": true
   },
@@ -2479,9 +2530,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-21 03:13:08 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2025-08-21 03:26:13 +0000"
     },
     "done": true
   },
@@ -2668,6 +2731,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-08-21 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-08-21 03:26:22 +0000"
     },
     "done": true
   },
