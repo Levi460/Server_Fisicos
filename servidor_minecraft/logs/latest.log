@@ -758,3 +758,13 @@ java.lang.IllegalStateException: Invalid block entity gravestones:technical_grav
 [03:47:40] [Server thread/INFO]: Levi has made the advancement [Cover Me with Diamonds]
 [03:52:47] [Server thread/INFO]: Levi lost connection: Disconnected
 [03:52:47] [Server thread/INFO]: Levi left the game
+[03:58:03] [Server thread/INFO]: Levi[/127.220.118.246:35339] logged in with entity id 22330 at (320.3516891484695, 87.0, -423.1609119791698)
+[03:58:03] [Server thread/INFO]: Sending server config values to client
+[03:58:03] [Server thread/INFO]: Creating new config sync packet
+[03:58:03] [Server thread/INFO]: Loading config from file...
+[03:58:03] [Server thread/INFO]: Levi joined the game
+[03:58:03] [Server thread/INFO]: Sending item configs to client
+[03:58:03] [Server thread/INFO]: Receiving client config
+[04:00:21] [Server thread/WARN]: Levi moved too quickly! -8.972899539169191,4.252203340253729,-1.9444052369616998
+[04:18:40] [Server thread/INFO]: Levi lost connection: Disconnected
+[04:18:40] [Server thread/INFO]: Levi left the game
