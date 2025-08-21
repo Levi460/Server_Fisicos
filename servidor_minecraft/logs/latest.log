@@ -1,8 +1,8 @@
-[22:21:52] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
-[22:21:56] [main/WARN]: Warnings were found!
+[22:54:24] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.14
+[22:54:28] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.1.3 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[22:21:56] [main/INFO]: Loading 128 mods:
+[22:54:28] [main/INFO]: Loading 128 mods:
 	- actuallyharvest 1.1.3.1
 	   \-- spectrelib 0.17.2+1.21
 	        |-- com_electronwill_night-config_core 3.8.0
@@ -153,177 +153,177 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.12.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[22:21:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[22:21:57] [main/INFO]: Compatibility level set to JAVA_17
-[22:21:57] [main/INFO]: Compatibility level set to JAVA_21
-[22:21:57] [main/WARN]: Reference map 'craftingstation.refmap.json' for craftingstation.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'craftingstation.refmap.json' for craftingstation.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
-[22:21:57] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:57] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[22:21:58] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
-[22:21:58] [main/WARN]: @Mixin target net.minecraft.class_310 was not found aether.mixins.json:client.accessor.MinecraftAccessor from mod aether
-[22:21:58] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
-[22:21:58] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
-[22:21:58] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
-[22:21:58] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
-[22:21:58] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
-[22:21:59] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[22:21:59] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
-[22:21:59] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm_shedaniel.json:net.minecraft.class_314 from mod mm_shedaniel
-[22:21:59] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
-[22:22:08] [main/ERROR]: No data fixer registered for creaking
-[22:22:08] [main/ERROR]: No data fixer registered for happy_ghast
-[22:22:08] [main/ERROR]: No data fixer registered for pale_oak_boat
-[22:22:08] [main/ERROR]: No data fixer registered for pale_oak_chest_boat
-[22:22:08] [main/ERROR]: Entity vanillabackport:creaking has no attributes
-[22:22:08] [main/ERROR]: Entity vanillabackport:happy_ghast has no attributes
-[22:22:08] [main/INFO]: Registering Listeners!
-[22:22:09] [main/ERROR]: No data fixer registered for artifacts:mimic
-[22:22:09] [main/INFO]: Registered azurelib config for auto-sync function
-[22:22:09] [main/INFO]: Registering Worldgen/structure Types for Better Archeology
-[22:22:09] [main/ERROR]: No data fixer registered for betterarcheology:bombentity
-[22:22:09] [main/INFO]: Registering Entity Types for Better Archeology
-[22:22:09] [main/INFO]: Registering Enchantments for Better Archeology
-[22:22:09] [main/INFO]: Registering Creative Mode Tabs for Better Archeology
-[22:22:09] [main/INFO]: Registering Items for Better Archeology
-[22:22:09] [main/INFO]: Registering Blocks for Better Archeology
-[22:22:09] [main/INFO]: Registering Tags for Better Archeology
-[22:22:09] [main/INFO]: Registering Block Entity Types for Better Archeology
-[22:22:09] [main/INFO]: Registering Menus for Better Archeology
-[22:22:09] [main/INFO]: Registering Recipe Serializers for Better Archeology
-[22:22:09] [main/INFO]: Registering Villager Professions for Better Archeology
-[22:22:09] [main/INFO]: Registering Events for Better Archeology
-[22:22:09] [main/INFO]: Registering Sound Events for Better Archeology
-[22:22:09] [main/INFO]: Registering Villager Trades for Better Archeology
-[22:22:09] [main/ERROR]: No data fixer registered for chocobo
-[22:22:09] [main/INFO]: Loading Collective version 8.3.
-[22:22:10] [main/INFO]: Loaded config for: cupboard.json
-[22:22:10] [main/INFO]: Constructing common components for enchantinginfuser:main
-[22:22:10] [main/INFO]: ExpandAbility here, who dis?
-[22:22:10] [main/INFO]: Loading Fowl Play 1.0.0-beta.12+1.21.1-fabric
-[22:22:10] [main/INFO]: Deserializing FowlPlayConfig from '/workspaces/Server_Fisicos/servidor_minecraft/config/fowlplay.json5'
-[22:22:10] [main/ERROR]: No data fixer registered for blue_jay
-[22:22:10] [main/ERROR]: No data fixer registered for cardinal
-[22:22:10] [main/ERROR]: No data fixer registered for chickadee
-[22:22:10] [main/ERROR]: No data fixer registered for crow
-[22:22:10] [main/ERROR]: No data fixer registered for duck
-[22:22:10] [main/ERROR]: No data fixer registered for gull
-[22:22:10] [main/ERROR]: No data fixer registered for hawk
-[22:22:10] [main/ERROR]: No data fixer registered for penguin
-[22:22:10] [main/ERROR]: No data fixer registered for pigeon
-[22:22:10] [main/ERROR]: No data fixer registered for raven
-[22:22:10] [main/ERROR]: No data fixer registered for robin
-[22:22:10] [main/ERROR]: No data fixer registered for sparrow
-[22:22:10] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[22:22:10] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[22:22:10] [main/ERROR]: No data fixer registered for anomaly
-[22:22:10] [main/INFO]: Initializing Gravestones
-[22:22:11] [main/INFO]: Ice And Fire common config version match.
-[22:22:11] [main/ERROR]: No data fixer registered for dragon_multipart
-[22:22:11] [main/ERROR]: No data fixer registered for multipart
-[22:22:11] [main/ERROR]: No data fixer registered for hydra_multipart
-[22:22:11] [main/ERROR]: No data fixer registered for cylcops_multipart
-[22:22:11] [main/ERROR]: No data fixer registered for dragon_egg
-[22:22:11] [main/ERROR]: No data fixer registered for dragon_arrow
-[22:22:11] [main/ERROR]: No data fixer registered for dragon_skull
-[22:22:11] [main/ERROR]: No data fixer registered for fire_dragon
-[22:22:11] [main/ERROR]: No data fixer registered for ice_dragon
-[22:22:11] [main/ERROR]: No data fixer registered for lightning_dragon
-[22:22:11] [main/ERROR]: No data fixer registered for fire_dragon_charge
-[22:22:11] [main/ERROR]: No data fixer registered for ice_dragon_charge
-[22:22:11] [main/ERROR]: No data fixer registered for lightning_dragon_charge
-[22:22:11] [main/ERROR]: No data fixer registered for hippogryph_egg
-[22:22:11] [main/ERROR]: No data fixer registered for hippogryph
-[22:22:11] [main/ERROR]: No data fixer registered for stone_statue
-[22:22:11] [main/ERROR]: No data fixer registered for gorgon
-[22:22:11] [main/ERROR]: No data fixer registered for pixie
-[22:22:11] [main/ERROR]: No data fixer registered for cyclops
-[22:22:11] [main/ERROR]: No data fixer registered for siren
-[22:22:11] [main/ERROR]: No data fixer registered for hippocampus
-[22:22:11] [main/ERROR]: No data fixer registered for deathworm
-[22:22:11] [main/ERROR]: No data fixer registered for deathworm_egg
-[22:22:11] [main/ERROR]: No data fixer registered for cockatrice
-[22:22:11] [main/ERROR]: No data fixer registered for cockatrice_egg
-[22:22:11] [main/ERROR]: No data fixer registered for stymphalian_bird
-[22:22:11] [main/ERROR]: No data fixer registered for stymphalian_feather
-[22:22:11] [main/ERROR]: No data fixer registered for stymphalian_arrow
-[22:22:11] [main/ERROR]: No data fixer registered for troll
-[22:22:11] [main/ERROR]: No data fixer registered for amphithere
-[22:22:11] [main/ERROR]: No data fixer registered for amphithere_arrow
-[22:22:11] [main/ERROR]: No data fixer registered for sea_serpent
-[22:22:11] [main/ERROR]: No data fixer registered for sea_serpent_bubbles
-[22:22:11] [main/ERROR]: No data fixer registered for sea_serpent_arrow
-[22:22:11] [main/ERROR]: No data fixer registered for chain_tie
-[22:22:11] [main/ERROR]: No data fixer registered for pixie_charge
-[22:22:11] [main/ERROR]: No data fixer registered for tide_trident
-[22:22:11] [main/ERROR]: No data fixer registered for mob_skull
-[22:22:11] [main/ERROR]: No data fixer registered for dread_thrall
-[22:22:11] [main/ERROR]: No data fixer registered for dread_ghoul
-[22:22:11] [main/ERROR]: No data fixer registered for dread_beast
-[22:22:11] [main/ERROR]: No data fixer registered for dread_scuttler
-[22:22:11] [main/ERROR]: No data fixer registered for dread_lich
-[22:22:11] [main/ERROR]: No data fixer registered for dread_lich_skull
-[22:22:11] [main/ERROR]: No data fixer registered for dread_knight
-[22:22:11] [main/ERROR]: No data fixer registered for dread_horse
-[22:22:11] [main/ERROR]: No data fixer registered for hydra
-[22:22:11] [main/ERROR]: No data fixer registered for hydra_breath
-[22:22:11] [main/ERROR]: No data fixer registered for hydra_arrow
-[22:22:11] [main/ERROR]: No data fixer registered for ghost
-[22:22:11] [main/ERROR]: No data fixer registered for ghost_sword
-[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[22:22:11] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[22:22:11] [main/INFO]: 0 Jupiter entrypoint(s) detected: 
-[22:22:11] [main/INFO]: Definitely not up to no good
-[22:22:11] [main/INFO]: Registered mobs_of_mythology config for auto-sync function
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:automaton
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:chupacabra
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold_warrior
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:drake
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:sporeling
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:basilisk
-[22:22:11] [main/ERROR]: No data fixer registered for mobs_of_mythology:pegasus
-[22:22:11] [main/INFO]: :ctft: literally infinite and counting
-[22:22:11] [main/INFO]: Initializing PneumonoCore
-[22:22:11] [main/INFO]: Constructing common components for puzzleslib:main
-[22:22:12] [main/INFO]: [Regions Unexplored] generating and loading config
-[22:22:12] [main/INFO]: Initializing Regions Unexplored from Fabric Mod Initializer entrypoint.
-[22:22:12] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
-[22:22:12] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[22:22:12] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[22:22:12] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[22:22:12] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[22:22:12] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[22:22:12] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[22:22:12] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[22:22:12] [main/INFO]: Already initialized Regions Unexplored from Fabric Mod Initializer entrypoint.
-[22:22:12] [main/INFO]: Registered region regions_unexplored:primary to index 4 for type OVERWORLD
-[22:22:12] [main/INFO]: Registered region regions_unexplored:secondary to index 5 for type OVERWORLD
-[22:22:12] [main/INFO]: Registered region regions_unexplored:nether to index 3 for type NETHER
-[22:22:12] [main/INFO]: Registered region vanillabackport:overworld to index 6 for type OVERWORLD
-[22:22:13] [main/ERROR]: No data fixer registered for 
-[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
-[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
-[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
-[22:22:13] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
-[22:22:14] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:22:15] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/ascendant - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
-[22:22:15] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/pump_frog - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
-[22:22:15] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/goblin_grunt - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
-[22:22:15] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/leviathan - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
-[22:22:15] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/fairy - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"function":"minecraft:looting_enchant","count":{"type":"minecraft:uniform","min":0.0,"max":1.0}}
-[22:22:16] [Worker-Main-1/ERROR]: Couldn't read tag list minecraft:mineable/pickaxe from minecraft:tags/block/mineable/pickaxe.json in data pack safros-mobs
+[22:54:29] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server_Fisicos/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:54:29] [main/INFO]: Compatibility level set to JAVA_17
+[22:54:30] [main/INFO]: Compatibility level set to JAVA_21
+[22:54:30] [main/WARN]: Reference map 'craftingstation.refmap.json' for craftingstation.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'craftingstation.refmap.json' for craftingstation.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'elevatorid-common-common-refmap.json' for elevatorid.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'enchantinginfuser.common.refmap.json' for enchantinginfuser.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'enchantinginfuser.fabric.refmap.json' for enchantinginfuser.fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'just-hammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/INFO]: Started MM (shedaniel's fork) at me/shedaniel/gen/mixin/
+[22:54:30] [main/WARN]: Reference map 'Manningham Mills-refmap.json' for mixins.mm_shedaniel.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Reference map 'yet_another_config_lib_v3.refmap.json' for yacl-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[22:54:30] [main/WARN]: Error loading class: net/minecraft/class_310 (java.lang.ClassNotFoundException: net/minecraft/class_310)
+[22:54:30] [main/WARN]: @Mixin target net.minecraft.class_310 was not found aether.mixins.json:client.accessor.MinecraftAccessor from mod aether
+[22:54:31] [main/WARN]: Error loading class: net/minecraft/class_287 (java.lang.ClassNotFoundException: net/minecraft/class_287)
+[22:54:31] [main/WARN]: @Mixin target net.minecraft.class_287 was not found owo.mixins.json:BufferBuilderAccessor from mod owo
+[22:54:31] [main/WARN]: Error loading class: net/minecraft/class_437 (java.lang.ClassNotFoundException: net/minecraft/class_437)
+[22:54:31] [main/WARN]: @Mixin target net.minecraft.class_437 was not found owo.mixins.json:ScreenAccessor from mod owo
+[22:54:31] [main/WARN]: Error loading class: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: xyz/nucleoid/server/translations/impl/language/SystemDelegatedLanguage)
+[22:54:32] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[22:54:32] [main/WARN]: Error loading class: net/minecraft/class_314 (java.lang.ClassNotFoundException: net/minecraft/class_314)
+[22:54:32] [main/WARN]: @Mixin target net.minecraft.class_314 was not found mixins.mm_shedaniel.json:net.minecraft.class_314 from mod mm_shedaniel
+[22:54:32] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.3).
+[22:54:40] [main/ERROR]: No data fixer registered for creaking
+[22:54:40] [main/ERROR]: No data fixer registered for happy_ghast
+[22:54:40] [main/ERROR]: No data fixer registered for pale_oak_boat
+[22:54:40] [main/ERROR]: No data fixer registered for pale_oak_chest_boat
+[22:54:40] [main/ERROR]: Entity vanillabackport:creaking has no attributes
+[22:54:40] [main/ERROR]: Entity vanillabackport:happy_ghast has no attributes
+[22:54:41] [main/INFO]: Registering Listeners!
+[22:54:41] [main/ERROR]: No data fixer registered for artifacts:mimic
+[22:54:42] [main/INFO]: Registered azurelib config for auto-sync function
+[22:54:42] [main/INFO]: Registering Worldgen/structure Types for Better Archeology
+[22:54:42] [main/ERROR]: No data fixer registered for betterarcheology:bombentity
+[22:54:42] [main/INFO]: Registering Entity Types for Better Archeology
+[22:54:42] [main/INFO]: Registering Enchantments for Better Archeology
+[22:54:42] [main/INFO]: Registering Creative Mode Tabs for Better Archeology
+[22:54:42] [main/INFO]: Registering Items for Better Archeology
+[22:54:42] [main/INFO]: Registering Blocks for Better Archeology
+[22:54:42] [main/INFO]: Registering Tags for Better Archeology
+[22:54:42] [main/INFO]: Registering Block Entity Types for Better Archeology
+[22:54:42] [main/INFO]: Registering Menus for Better Archeology
+[22:54:42] [main/INFO]: Registering Recipe Serializers for Better Archeology
+[22:54:42] [main/INFO]: Registering Villager Professions for Better Archeology
+[22:54:42] [main/INFO]: Registering Events for Better Archeology
+[22:54:42] [main/INFO]: Registering Sound Events for Better Archeology
+[22:54:42] [main/INFO]: Registering Villager Trades for Better Archeology
+[22:54:42] [main/ERROR]: No data fixer registered for chocobo
+[22:54:42] [main/INFO]: Loading Collective version 8.3.
+[22:54:42] [main/INFO]: Loaded config for: cupboard.json
+[22:54:42] [main/INFO]: Constructing common components for enchantinginfuser:main
+[22:54:42] [main/INFO]: ExpandAbility here, who dis?
+[22:54:42] [main/INFO]: Loading Fowl Play 1.0.0-beta.12+1.21.1-fabric
+[22:54:42] [main/INFO]: Deserializing FowlPlayConfig from '/workspaces/Server_Fisicos/servidor_minecraft/config/fowlplay.json5'
+[22:54:42] [main/ERROR]: No data fixer registered for blue_jay
+[22:54:42] [main/ERROR]: No data fixer registered for cardinal
+[22:54:42] [main/ERROR]: No data fixer registered for chickadee
+[22:54:42] [main/ERROR]: No data fixer registered for crow
+[22:54:42] [main/ERROR]: No data fixer registered for duck
+[22:54:42] [main/ERROR]: No data fixer registered for gull
+[22:54:42] [main/ERROR]: No data fixer registered for hawk
+[22:54:42] [main/ERROR]: No data fixer registered for penguin
+[22:54:42] [main/ERROR]: No data fixer registered for pigeon
+[22:54:42] [main/ERROR]: No data fixer registered for raven
+[22:54:42] [main/ERROR]: No data fixer registered for robin
+[22:54:42] [main/ERROR]: No data fixer registered for sparrow
+[22:54:43] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[22:54:43] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[22:54:43] [main/ERROR]: No data fixer registered for anomaly
+[22:54:43] [main/INFO]: Initializing Gravestones
+[22:54:43] [main/INFO]: Ice And Fire common config version match.
+[22:54:43] [main/ERROR]: No data fixer registered for dragon_multipart
+[22:54:43] [main/ERROR]: No data fixer registered for multipart
+[22:54:43] [main/ERROR]: No data fixer registered for hydra_multipart
+[22:54:43] [main/ERROR]: No data fixer registered for cylcops_multipart
+[22:54:43] [main/ERROR]: No data fixer registered for dragon_egg
+[22:54:43] [main/ERROR]: No data fixer registered for dragon_arrow
+[22:54:43] [main/ERROR]: No data fixer registered for dragon_skull
+[22:54:43] [main/ERROR]: No data fixer registered for fire_dragon
+[22:54:43] [main/ERROR]: No data fixer registered for ice_dragon
+[22:54:43] [main/ERROR]: No data fixer registered for lightning_dragon
+[22:54:43] [main/ERROR]: No data fixer registered for fire_dragon_charge
+[22:54:43] [main/ERROR]: No data fixer registered for ice_dragon_charge
+[22:54:43] [main/ERROR]: No data fixer registered for lightning_dragon_charge
+[22:54:43] [main/ERROR]: No data fixer registered for hippogryph_egg
+[22:54:43] [main/ERROR]: No data fixer registered for hippogryph
+[22:54:43] [main/ERROR]: No data fixer registered for stone_statue
+[22:54:43] [main/ERROR]: No data fixer registered for gorgon
+[22:54:43] [main/ERROR]: No data fixer registered for pixie
+[22:54:43] [main/ERROR]: No data fixer registered for cyclops
+[22:54:43] [main/ERROR]: No data fixer registered for siren
+[22:54:43] [main/ERROR]: No data fixer registered for hippocampus
+[22:54:43] [main/ERROR]: No data fixer registered for deathworm
+[22:54:43] [main/ERROR]: No data fixer registered for deathworm_egg
+[22:54:43] [main/ERROR]: No data fixer registered for cockatrice
+[22:54:43] [main/ERROR]: No data fixer registered for cockatrice_egg
+[22:54:43] [main/ERROR]: No data fixer registered for stymphalian_bird
+[22:54:43] [main/ERROR]: No data fixer registered for stymphalian_feather
+[22:54:43] [main/ERROR]: No data fixer registered for stymphalian_arrow
+[22:54:43] [main/ERROR]: No data fixer registered for troll
+[22:54:43] [main/ERROR]: No data fixer registered for amphithere
+[22:54:43] [main/ERROR]: No data fixer registered for amphithere_arrow
+[22:54:43] [main/ERROR]: No data fixer registered for sea_serpent
+[22:54:43] [main/ERROR]: No data fixer registered for sea_serpent_bubbles
+[22:54:43] [main/ERROR]: No data fixer registered for sea_serpent_arrow
+[22:54:43] [main/ERROR]: No data fixer registered for chain_tie
+[22:54:43] [main/ERROR]: No data fixer registered for pixie_charge
+[22:54:43] [main/ERROR]: No data fixer registered for tide_trident
+[22:54:43] [main/ERROR]: No data fixer registered for mob_skull
+[22:54:43] [main/ERROR]: No data fixer registered for dread_thrall
+[22:54:43] [main/ERROR]: No data fixer registered for dread_ghoul
+[22:54:43] [main/ERROR]: No data fixer registered for dread_beast
+[22:54:43] [main/ERROR]: No data fixer registered for dread_scuttler
+[22:54:43] [main/ERROR]: No data fixer registered for dread_lich
+[22:54:43] [main/ERROR]: No data fixer registered for dread_lich_skull
+[22:54:43] [main/ERROR]: No data fixer registered for dread_knight
+[22:54:43] [main/ERROR]: No data fixer registered for dread_horse
+[22:54:43] [main/ERROR]: No data fixer registered for hydra
+[22:54:43] [main/ERROR]: No data fixer registered for hydra_breath
+[22:54:43] [main/ERROR]: No data fixer registered for hydra_arrow
+[22:54:43] [main/ERROR]: No data fixer registered for ghost
+[22:54:43] [main/ERROR]: No data fixer registered for ghost_sword
+[22:54:43] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[22:54:43] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[22:54:43] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[22:54:43] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[22:54:43] [main/INFO]: 0 Jupiter entrypoint(s) detected: 
+[22:54:43] [main/INFO]: Definitely not up to no good
+[22:54:43] [main/INFO]: Registered mobs_of_mythology config for auto-sync function
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:automaton
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:chupacabra
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:kobold_warrior
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:drake
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:sporeling
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:basilisk
+[22:54:43] [main/ERROR]: No data fixer registered for mobs_of_mythology:pegasus
+[22:54:43] [main/INFO]: There is a 1% chance that instead of Frog, you get Froge!
+[22:54:43] [main/INFO]: Initializing PneumonoCore
+[22:54:43] [main/INFO]: Constructing common components for puzzleslib:main
+[22:54:44] [main/INFO]: [Regions Unexplored] generating and loading config
+[22:54:44] [main/INFO]: Initializing Regions Unexplored from Fabric Mod Initializer entrypoint.
+[22:54:44] [main/INFO]: [STDERR]: Failed to resolve EntityAttribute with id: combat_roll:count
+[22:54:45] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[22:54:45] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[22:54:45] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[22:54:45] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[22:54:45] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[22:54:45] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[22:54:45] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[22:54:45] [main/INFO]: Already initialized Regions Unexplored from Fabric Mod Initializer entrypoint.
+[22:54:45] [main/INFO]: Registered region regions_unexplored:primary to index 4 for type OVERWORLD
+[22:54:45] [main/INFO]: Registered region regions_unexplored:secondary to index 5 for type OVERWORLD
+[22:54:45] [main/INFO]: Registered region regions_unexplored:nether to index 3 for type NETHER
+[22:54:45] [main/INFO]: Registered region vanillabackport:overworld to index 6 for type OVERWORLD
+[22:54:45] [main/ERROR]: No data fixer registered for 
+[22:54:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 81000) with the ID 0
+[22:54:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 81000) with the ID 1
+[22:54:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for block.travelersbackpack.potion_still (Fluid Amount Required: 27000) with the ID 2
+[22:54:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:milk for Air (Fluid Amount Required: 81000) with the ID 3
+[22:54:46] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:54:48] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/ascendant - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
+[22:54:48] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/pump_frog - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
+[22:54:48] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/goblin_grunt - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
+[22:54:48] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/leviathan - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}; Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"count":{"type":"minecraft:uniform","max":1.0,"min":0.0},"function":"minecraft:looting_enchant"}
+[22:54:48] [Worker-Main-3/ERROR]: Couldn't parse element minecraft:loot_table/safros-mobs:entities/fairy - Failed to parse either. First: Unknown registry key in ResourceKey[minecraft:root / minecraft:loot_function_type]: minecraft:looting_enchant; Second: Not a json array: {"function":"minecraft:looting_enchant","count":{"type":"minecraft:uniform","min":0.0,"max":1.0}}
+[22:54:48] [Worker-Main-1/ERROR]: Couldn't read tag list minecraft:mineable/pickaxe from minecraft:tags/block/mineable/pickaxe.json in data pack safros-mobs
 java.lang.IllegalStateException: Not a boolean: "false"
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_3503.method_33174(class_3503.java:53) ~[server-intermediary.jar:?]
@@ -336,11 +336,11 @@ java.lang.IllegalStateException: Not a boolean: "false"
 	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1843) [?:?]
 	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1808) [?:?]
 	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:188) [?:?]
-[22:22:16] [Worker-Main-2/ERROR]: Couldn't load tag safros-mobs:has_flaphawk as it is missing following references: #c:jungle (from safros-mobs)
-[22:22:16] [Worker-Main-1/WARN]: Found data map file for non-existent data map type 'neoforge:vibration_frequencies' on registry 'minecraft:game_event'.
-[22:22:16] [main/ERROR]: Parsing error loading recipe supplementaries:copper_lantern_conversion
+[22:54:48] [Worker-Main-2/ERROR]: Couldn't load tag safros-mobs:has_flaphawk as it is missing following references: #c:jungle (from safros-mobs)
+[22:54:49] [Worker-Main-2/WARN]: Found data map file for non-existent data map type 'neoforge:vibration_frequencies' on registry 'minecraft:game_event'.
+[22:54:49] [main/ERROR]: Parsing error loading recipe supplementaries:copper_lantern_conversion
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: suppsquared:copper_lantern; Failed to parse either. First: Not a json array: {"block":"suppsquared:copper_lantern","properties":{"lit":"true"}}; Second: No key tag in MapLike[{"block":"suppsquared:copper_lantern","properties":{"lit":"true"}}]; Unknown registry key in ResourceKey[minecraft:root / minecraft:block]: suppsquared:copper_lantern
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -356,9 +356,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe safros-mobs:reaping_ring
+[22:54:49] [main/ERROR]: Parsing error loading recipe safros-mobs:reaping_ring
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:reaping_ring"}]
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -374,9 +374,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:re
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe safros-mobs:glide_belt
+[22:54:49] [main/ERROR]: Parsing error loading recipe safros-mobs:glide_belt
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:glide_belt"}]
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -392,9 +392,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:gl
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[22:54:49] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: farmersdelight:cooking
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -410,9 +410,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe safros-mobs:slam_hammer
+[22:54:49] [main/ERROR]: Parsing error loading recipe safros-mobs:slam_hammer
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:slam_hammer"}]
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -428,9 +428,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:sl
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe safros-mobs:blaze_runners
+[22:54:49] [main/ERROR]: Parsing error loading recipe safros-mobs:blaze_runners
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:blaze_runners"}]
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -446,9 +446,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:bl
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[22:54:49] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: farmersdelight:cooking
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -464,9 +464,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe gravestones:gravestone
+[22:54:49] [main/ERROR]: Parsing error loading recipe gravestones:gravestone
 com.google.gson.JsonParseException: Map entry 'S' : Failed to parse either. First: Not a JSON object: "minecraft:stone"; Second: Failed to parse either. First: Not a json array: "minecraft:stone"; Second: Not a JSON object: "minecraft:stone"; Not a JSON object: "minecraft:stone"
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -482,9 +482,9 @@ com.google.gson.JsonParseException: Map entry 'S' : Failed to parse either. Firs
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe safros-mobs:healing_cube
+[22:54:49] [main/ERROR]: Parsing error loading recipe safros-mobs:healing_cube
 com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:healing_cube"}]
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -500,9 +500,9 @@ com.google.gson.JsonParseException: No key id in MapLike[{"item":"safros-mobs:he
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe jeed:inebriation
+[22:54:49] [main/ERROR]: Parsing error loading recipe jeed:inebriation
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: jeed:effect_provider
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -518,9 +518,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe jeed:remedy
+[22:54:49] [main/ERROR]: Parsing error loading recipe jeed:remedy
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: jeed:effect_provider
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -536,9 +536,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[22:54:49] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: farmersdelight:cooking
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -554,9 +554,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe gravestones:gravestone_chipped
+[22:54:49] [main/ERROR]: Parsing error loading recipe gravestones:gravestone_chipped
 com.google.gson.JsonParseException: Failed to parse either. First: Not a JSON object: "gravestones:gravestone"; Second: Failed to parse either. First: Not a json array: "gravestones:gravestone"; Second: Not a JSON object: "gravestones:gravestone"; Not a JSON object: "gravestones:gravestone"
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -572,9 +572,9 @@ com.google.gson.JsonParseException: Failed to parse either. First: Not a JSON ob
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[22:54:49] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: farmersdelight:cooking
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -590,9 +590,9 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe gravestones:gravestone_damaged
+[22:54:49] [main/ERROR]: Parsing error loading recipe gravestones:gravestone_damaged
 com.google.gson.JsonParseException: Failed to parse either. First: Not a JSON object: "gravestones:gravestone_chipped"; Second: Failed to parse either. First: Not a json array: "gravestones:gravestone_chipped"; Second: Not a JSON object: "gravestones:gravestone_chipped"; Not a JSON object: "gravestones:gravestone_chipped"
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -608,9 +608,9 @@ com.google.gson.JsonParseException: Failed to parse either. First: Not a JSON ob
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[22:54:49] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraft:root / minecraft:recipe_serializer]: farmersdelight:cooking
-	at knot/com.mojang.serialization.DataResult$Error.md6c8cee$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
+	at knot/com.mojang.serialization.DataResult$Error.md75a3d5$owo$lambda$addStackTraceToException$0$0(DataResult.java:565) ~[datafixerupper-8.0.16.jar:?]
 	at knot/com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
 	at knot/net.minecraft.class_1863.method_20705(class_1863.java:62) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.class_1863.method_18788(class_1863.java:35) ~[server-intermediary.jar:?]
@@ -626,49 +626,51 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) [fabric-loader-0.16.14.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) [fabric-server-launch.jar:1.0.1]
-[22:22:16] [main/INFO]: Loaded 3856 recipes
-[22:22:16] [main/INFO]: Loaded 3773 advancements
-[22:22:16] [main/INFO]: Ice And Fire common config version match.
-[22:22:16] [main/INFO]: Successfully reload 1 server config(s).
-[22:22:16] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: runes:runes
-[22:22:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[22:22:18] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[22:22:18] [main/INFO]: Applied 3618 biome modifications to 213 of 213 new biomes in 349.4 ms
-[22:22:18] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
-[22:22:18] [Server thread/INFO]: [Grind Enchantments] Reading server config.
-[22:22:18] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 1 string chunks with the size of 10000)
-[22:22:18] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[22:22:18] [Server thread/INFO]: Loading properties
-[22:22:18] [Server thread/INFO]: Default game type: SURVIVAL
-[22:22:18] [Server thread/INFO]: Generating keypair
-[22:22:19] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:22:19] [Server thread/INFO]: Using epoll channel type
-[22:22:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:22:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:22:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:22:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:22:19] [Server thread/INFO]: Preparing level "world"
-[22:22:24] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[22:22:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:22:24] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[22:22:24] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[22:22:25] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[22:22:25] [Worker-Main-2/INFO]: Preparing spawn area: 16%
-[22:22:25] [Server thread/INFO]: Time elapsed: 1708 ms
-[22:22:25] [Server thread/INFO]: Done (6.510s)! For help, type "help"
-[22:23:02] [Server thread/INFO]: Minu[/127.129.239.226:46581] logged in with entity id 22 at (30.69999998807907, 87.0, -297.64874731697546)
-[22:23:02] [Server thread/INFO]: Sending server config values to client
-[22:23:02] [Server thread/INFO]: Creating new config sync packet
-[22:23:02] [Server thread/INFO]: Loading config from file...
-[22:23:02] [Server thread/INFO]: Minu joined the game
-[22:23:02] [Server thread/INFO]: Sending item configs to client
-[22:23:03] [Server thread/INFO]: Receiving client config
-[22:23:21] [Server thread/INFO]: Levi[/127.220.118.246:46317] logged in with entity id 262 at (175.36929139487847, 88.0, -452.69999998807907)
-[22:23:21] [Server thread/INFO]: Sending server config values to client
-[22:23:21] [Server thread/INFO]: Creating new config sync packet
-[22:23:21] [Server thread/INFO]: Loading config from file...
-[22:23:21] [Server thread/INFO]: Levi joined the game
-[22:23:21] [Server thread/INFO]: Sending item configs to client
-[22:23:21] [Server thread/INFO]: Receiving client config
-[22:23:45] [Server thread/INFO]: [Not Secure] <Levi> xaero-waypoint:mina:M:173:86:-439:5:false:0:Internal-overworld-waypoints
-[22:28:41] [Server thread/INFO]: Minu has made the advancement [Stone Age]
+[22:54:49] [main/INFO]: Loaded 3856 recipes
+[22:54:49] [main/INFO]: Loaded 3773 advancements
+[22:54:49] [main/INFO]: Ice And Fire common config version match.
+[22:54:49] [main/INFO]: Successfully reload 1 server config(s).
+[22:54:49] [main/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:item] are present in data pack: runes:runes
+[22:54:50] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[22:54:51] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[22:54:51] [main/INFO]: Applied 3618 biome modifications to 213 of 213 new biomes in 311.3 ms
+[22:54:51] [Server thread/INFO]: Dispatching loading event for config enchantinginfuser-server.toml
+[22:54:51] [Server thread/INFO]: [Grind Enchantments] Reading server config.
+[22:54:51] [Server thread/INFO]: [STDOUT]: Encoded SpellRegistry size (with package overhead): ??? bytes (in 1 string chunks with the size of 10000)
+[22:54:51] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[22:54:51] [Server thread/INFO]: Loading properties
+[22:54:51] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:51] [Server thread/INFO]: Generating keypair
+[22:54:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:54:51] [Server thread/INFO]: Using epoll channel type
+[22:54:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:54:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:54:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:54:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:54:51] [Server thread/INFO]: Preparing level "world"
+[22:54:56] [Server thread/INFO]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[22:54:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:54:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:54:57] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[22:54:57] [Worker-Main-1/INFO]: Preparing spawn area: 10%
+[22:54:57] [Server thread/INFO]: Time elapsed: 1568 ms
+[22:54:57] [Server thread/INFO]: Done (5.870s)! For help, type "help"
+[22:55:12] [Server thread/INFO]: Levi[/127.220.118.246:50115] logged in with entity id 22 at (174.21580373997114, 88.0, -464.8855301378535)
+[22:55:12] [Server thread/INFO]: Sending server config values to client
+[22:55:12] [Server thread/INFO]: Creating new config sync packet
+[22:55:12] [Server thread/INFO]: Loading config from file...
+[22:55:12] [Server thread/INFO]: Levi joined the game
+[22:55:12] [Server thread/INFO]: Sending item configs to client
+[22:55:13] [Server thread/INFO]: Receiving client config
+[22:55:14] [Server thread/WARN]: UUID of added entity already exists: class_9069['Armadillo'/111, l='ServerLevel[world]', x=232.50, y=110.00, z=-560.01]
+[22:55:14] [Server thread/WARN]: UUID of added entity already exists: class_1420['Bat'/118, l='ServerLevel[world]', x=131.94, y=60.06, z=-560.19]
+[22:55:14] [Server thread/WARN]: UUID of added entity already exists: class_1420['Bat'/119, l='ServerLevel[world]', x=131.03, y=48.90, z=-560.09]
+[22:55:14] [Server thread/WARN]: UUID of added entity already exists: class_1420['Bat'/120, l='ServerLevel[world]', x=129.38, y=48.99, z=-560.06]
+[22:59:43] [Server thread/INFO]: Minu[/127.129.239.226:52455] logged in with entity id 1080 at (94.57542191949165, 96.25220334025373, -363.1625068282344)
+[22:59:43] [Server thread/INFO]: Sending server config values to client
+[22:59:43] [Server thread/INFO]: Creating new config sync packet
+[22:59:43] [Server thread/INFO]: Loading config from file...
+[22:59:43] [Server thread/INFO]: Minu joined the game
+[22:59:43] [Server thread/INFO]: Sending item configs to client
+[22:59:44] [Server thread/INFO]: Receiving client config
+[23:00:32] [Server thread/WARN]: UUID of added entity already exists: class_1646['Villager'/2431, l='ServerLevel[world]', x=176.50, y=88.00, z=-456.50]
