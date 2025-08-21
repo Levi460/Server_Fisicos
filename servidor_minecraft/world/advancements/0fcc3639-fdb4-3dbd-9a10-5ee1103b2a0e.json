@@ -1269,99 +1269,9 @@
     },
     "done": false
   },
-  "aether:recipes/combat/iron_pendant": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/backpack_tank": {
-    "criteria": {
-      "has_iron": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_helmet": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/shears": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-08-20 03:51:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:zombie": "2025-08-20 03:33:21 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
   "chococraft:recipes/food/gysahl_cake": {
     "criteria": {
       "has_gysahl_green": "2025-08-20 03:32:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
     },
     "done": true
   },
@@ -1377,9 +1287,195 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/pink_gysahl": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-20 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/food/pickled_gysahl_raw": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-20 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/gysahl_green_to_seeds": {
+    "criteria": {
+      "has_gysahl_green": "2025-08-20 03:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-20 03:33:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-08-20 03:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-20 03:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/diamond_brush": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-20 03:49:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/backpack_tank": {
+    "criteria": {
+      "has_iron": "2025-08-20 03:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
     },
     "done": true
   },
@@ -1401,18 +1497,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-08-20 03:37:41 +0000"
-    },
-    "done": true
-  },
-  "chococraft:recipes/misc/pink_gysahl": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-20 03:32:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
@@ -1425,21 +1509,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
   "comforts:recipes/decorations/shapeless_rope_and_nail": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
     },
     "done": true
   },
@@ -1449,39 +1521,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-08-20 03:37:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig": {
-    "criteria": {
-      "has_porkchop": "2025-08-20 03:37:41 +0000"
     },
     "done": true
   },
@@ -1491,45 +1533,15 @@
     },
     "done": true
   },
-  "aether:recipes/misc/book_of_lore": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/redstone/skyroot_lectern": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-20 03:59:13 +0000"
     },
     "done": true
   },
@@ -1545,12 +1557,6 @@
     },
     "done": true
   },
-  "chococraft:recipes/food/pickled_gysahl_raw": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-20 03:32:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
@@ -1563,75 +1569,15 @@
     },
     "done": true
   },
-  "chococraft:recipes/misc/gysahl_green_to_seeds": {
-    "criteria": {
-      "has_gysahl_green": "2025-08-20 03:32:17 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_jukebox": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-08-20 03:49:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-08-20 03:49:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-08-20 03:59:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-08-20 03:37:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-08-20 03:57:10 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald": "2025-08-20 03:49:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/diamond_hammer": {
-    "criteria": {
-      "has_material": "2025-08-20 03:49:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_boots": {
-    "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
     },
     "done": true
   },
@@ -1650,12 +1596,6 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/skyroot_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-20 03:52:41 +0000"
     },
     "done": true
   },
@@ -1695,12 +1635,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/enderman": {
-    "criteria": {
-      "has_ender_pearl": "2025-08-20 04:03:12 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
@@ -1719,21 +1653,75 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-08-20 03:33:21 +0000"
-    },
-    "done": true
-  },
   "comforts:recipes/decorations/rope_and_nail": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 03:49:12 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_ghost": {
+  "minecraft:recipes/redstone/iron_door": {
     "criteria": {
-      "killed_fire_dragon": "2025-08-20 04:03:47 +0000"
+      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-20 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-08-20 03:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-20 03:51:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-20 03:52:41 +0000"
     },
     "done": true
   },
@@ -1743,21 +1731,33 @@
     },
     "done": true
   },
-  "betterarcheology:recipes/tools/diamond_brush": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
+      "has_wither_rose": "2025-08-20 03:57:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
     "criteria": {
-      "has_diamond": "2025-08-20 03:49:09 +0000"
+      "has_silver_ingot": "2025-08-20 03:59:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_door": {
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
-      "has_iron_ingot": "2025-08-20 03:49:12 +0000"
+      "has_silver_ingot": "2025-08-20 03:59:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-08-20 04:03:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-08-20 04:03:47 +0000"
     },
     "done": true
   },
