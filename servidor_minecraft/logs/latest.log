@@ -670,3 +670,5 @@ com.google.gson.JsonParseException: Unknown registry key in ResourceKey[minecraf
 [23:33:08] [Server thread/INFO]: Minu joined the game
 [23:33:08] [Server thread/INFO]: Sending item configs to client
 [23:33:09] [Server thread/INFO]: Receiving client config
+[23:37:40] [Server thread/WARN]: UUID of added entity already exists: HawkEntity['Hawk'/3017, l='ServerLevel[world]', x=205.45, y=101.85, z=-576.23]
+[23:40:53] [Server thread/WARN]: Levi moved too quickly! -0.23171429423450718,-7.000000000000002,-7.280628035533255
