@@ -2947,5 +2947,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_bricks": {
+    "criteria": {
+      "has_packed_mud": "2025-08-21 23:03:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
