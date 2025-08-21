@@ -755,3 +755,6 @@ java.lang.IllegalStateException: Invalid block entity gravestones:technical_grav
 [03:24:14] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=282, y=3, z=-270}
 [03:24:14] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=282, y=3, z=-271}
 [03:39:28] [Server thread/INFO]: Levi has made the advancement [Sneak 100]
+[03:47:40] [Server thread/INFO]: Levi has made the advancement [Cover Me with Diamonds]
+[03:52:47] [Server thread/INFO]: Levi lost connection: Disconnected
+[03:52:47] [Server thread/INFO]: Levi left the game

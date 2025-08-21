@@ -1116,7 +1116,8 @@
     "criteria": {
       "cooked_porkchop": "2025-08-21 03:15:46 +0000",
       "bread": "2025-08-21 01:49:42 +0000",
-      "rotten_flesh": "2025-08-21 03:09:04 +0000"
+      "rotten_flesh": "2025-08-21 03:09:04 +0000",
+      "cooked_mutton": "2025-08-21 03:42:21 +0000"
     },
     "done": false
   },
@@ -1510,6 +1511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-21 03:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-21 02:16:42 +0000"
@@ -1555,6 +1562,12 @@
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-08-21 02:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-21 03:47:40 +0000"
     },
     "done": true
   },
@@ -1756,6 +1769,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-21 03:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-21 02:19:56 +0000"
@@ -1819,6 +1838,12 @@
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-21 03:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-21 03:45:55 +0000"
     },
     "done": true
   },
@@ -1930,9 +1955,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-21 03:47:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-08-21 02:36:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-21 03:50:03 +0000"
     },
     "done": true
   },
@@ -2128,6 +2165,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-21 03:47:49 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-21 03:13:36 +0000"
@@ -2149,6 +2192,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-08-21 03:17:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-08-21 03:47:43 +0000"
     },
     "done": true
   },
@@ -2512,6 +2561,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-08-21 03:50:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-21 02:24:27 +0000"
@@ -2551,6 +2606,12 @@
   "regions_unexplored:recipes/transportation/dead_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-21 03:13:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-21 03:47:46 +0000"
     },
     "done": true
   },
