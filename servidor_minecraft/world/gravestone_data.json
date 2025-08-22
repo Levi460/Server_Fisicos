@@ -67,9 +67,9 @@
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": 45,
-        "posY": 96,
-        "posZ": -236
+        "posX": 934,
+        "posY": 64,
+        "posZ": -376
       },
       "secondGrave": {
         "dimension": {
@@ -77,7 +77,7 @@
           "field_13355": "overworld"
         },
         "posX": 45,
-        "posY": 95,
+        "posY": 96,
         "posZ": -236
       },
       "thirdGrave": {
@@ -85,9 +85,9 @@
           "field_13353": "minecraft",
           "field_13355": "overworld"
         },
-        "posX": 48,
-        "posY": 98,
-        "posZ": -267
+        "posX": 45,
+        "posY": 95,
+        "posZ": -236
       }
     }
   ]

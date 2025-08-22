@@ -39,8 +39,10 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-08-21 03:21:40 +0000",
       "minecraft:stony_peaks": "2025-08-20 03:34:19 +0000",
+      "minecraft:forest": "2025-08-22 00:10:15 +0000",
       "minecraft:deep_dark": "2025-08-21 02:23:53 +0000",
       "minecraft:river": "2025-08-21 03:59:57 +0000",
+      "minecraft:meadow": "2025-08-22 00:02:43 +0000",
       "minecraft:savanna": "2025-08-21 03:11:59 +0000",
       "minecraft:plains": "2025-08-21 03:25:18 +0000"
     },
@@ -2956,6 +2958,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-22 00:04:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-21 23:41:39 +0000"
@@ -3022,6 +3030,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-22 00:02:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-21 23:41:39 +0000"
@@ -3031,6 +3045,18 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-21 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-22 00:04:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-22 00:04:59 +0000"
     },
     "done": true
   },
@@ -3055,6 +3081,12 @@
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-08-21 23:42:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-22 00:04:28 +0000"
     },
     "done": true
   },
@@ -3118,6 +3150,12 @@
     },
     "done": true
   },
+  "mobs_of_mythology:tame_basilisk": {
+    "criteria": {
+      "tamed_animal": "2025-08-22 00:02:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-21 23:58:44 +0000"
@@ -3139,6 +3177,24 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-21 23:41:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-22 00:04:28 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-22 00:04:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-22 00:04:58 +0000"
     },
     "done": true
   },

@@ -8,3 +8,58 @@
 [00:04:25] [Server thread/INFO]: [Not Secure] <Minu> xaero-waypoint:aldea gatito:A:953:68:-376:4:false:0:Internal-overworld-waypoints
 [00:04:30] [Server thread/INFO]: Levi has made the advancement [Amateur Archaeologist]
 [00:04:58] [Server thread/INFO]: Levi has made the advancement [Ice Bucket Challenge]
+[00:07:21] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.4765088459608364
+[00:07:21] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0013626651744971
+[00:07:21] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.5272006663721243
+[00:08:10] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.34249409420988286
+[00:08:10] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.7547628340653887
+[00:08:10] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.38723215980041914
+[00:08:10] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.6592386563866057
+[00:08:10] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.8047839094854226
+[00:08:11] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.882662272559287
+[00:08:29] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.4222659112595579
+[00:08:29] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.9466533584988497
+[00:08:29] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.4722350667016144
+[00:08:29] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.9984599620293011
+[00:08:29] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.5250112857539193
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.35580037006002385
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.8433775310009537
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.3366753218423923
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.8338317457011613
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 2.3330528471546472
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 2.8238152649056474
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 3.3117615956424515
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 3.7834898072344845
+[00:08:31] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 4.237657430180701
+[00:09:05] [Server thread/INFO]: [Minu: Gave 64 [Painting] to Minu]
+[00:09:06] [Server thread/INFO]: [Minu: Gave 1 [Painting] to Minu]
+[00:09:06] [Server thread/INFO]: [Minu: Gave 1 [Painting] to Minu]
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.39192357237283204
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 0.8697678576226622
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:09:25] [Server thread/WARN]: Pegasus (vehicle of Levi) moved wrongly! 1.0
+[00:12:22] [Server thread/INFO]: Levi fell from a high place
+[00:12:22] [Server thread/INFO]: Created new backpack backup file for Levi with unique ID travelersbackpack.standard_22.08.2025-00.12.22.dat
+[00:12:22] [Server thread/INFO]: Placed Levi's Gravestone at (934, 64, -376)
+[00:12:54] [Server thread/INFO]: [Minu: Teleported Levi to Minu]
+[00:12:59] [Server thread/INFO]: Levi has found their grave at class_2338{x=934, y=64, z=-376}
+[00:12:59] [Server thread/WARN]: Block entity gravestones:technical_gravestone @ class_2338{x=934, y=64, z=-376} state Block{minecraft:air} invalid for ticking:
+[00:15:09] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0,-11.174133755232916,0.0
+[00:15:09] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0,-12.813358071200255,0.0
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0,13.866324525152777,0.0
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0,13.866324525152777,0.0
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0,13.789492523657415,0.0
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0,13.63887106648977,0.0
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.01662992850469891,13.417382214715175,0.017989945076237746
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.048417080900776455,13.12783231583542,0.05171576839472891
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.0938144577227149,12.772916586043678,0.09938518068298663
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.15134943303735326,12.355223511022231,0.15948948597286972
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.21970871899975464,11.87723907246874,0.23068322916117268
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.2977211254760732,11.341350807252113,0.31176653335228366
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.38434218507472906,10.749851705825876,0.4016693482998903
+[00:15:11] [Server thread/WARN]: Pegasus (vehicle of Minu) moved too quickly! 0.4786404417492349,10.10494395626445,0.49943740316683716
